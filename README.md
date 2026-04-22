@@ -28,7 +28,7 @@ streamlit run app.py
 ```
 
 ## 6. Product link / Demo
-https://github.com/fsacc33/Analysis-Tool-for-US-Listed-IT-Companies/tree/main
+https://github.com/fsacc33/US-Listed-IT-Companies-Revenue-Analysis-Tool/tree/main
 
 ## 7. Limitations & next steps
 -Limited to companies with complete 5-year data (some companies excluded)
