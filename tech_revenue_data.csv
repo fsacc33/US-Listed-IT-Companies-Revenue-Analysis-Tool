@@ -1,0 +1,5038 @@
+gvkey,fyear,revenue_mm,company_name
+001117,2020,44.139,BK Technologies Corp
+001117,2021,45.364,BK Technologies Corp
+001117,2022,50.951,BK Technologies Corp
+001117,2023,74.094,BK Technologies Corp
+001117,2024,76.592,BK Technologies Corp
+001117,2025,86.139,BK Technologies Corp
+001161,2020,9763.0,Advanced Micro Devices Inc
+001161,2021,16434.0,Advanced Micro Devices Inc
+001161,2022,23601.0,Advanced Micro Devices Inc
+001161,2023,22680.0,Advanced Micro Devices Inc
+001161,2024,25785.0,Advanced Micro Devices Inc
+001161,2025,34639.0,Advanced Micro Devices Inc
+001166,2020,1600.9,ASM International NV
+001166,2021,1967.472,ASM International NV
+001166,2022,2576.66,ASM International NV
+001166,2023,2911.846,ASM International NV
+001166,2024,3036.286,ASM International NV
+001166,2025,3725.735,ASM International NV
+001327,2020,3355.7,Skyworks Solutions Inc
+001327,2021,5109.1,Skyworks Solutions Inc
+001327,2022,5485.5,Skyworks Solutions Inc
+001327,2023,4772.4,Skyworks Solutions Inc
+001327,2024,4178.0,Skyworks Solutions Inc
+001327,2025,4086.9,Skyworks Solutions Inc
+001562,2020,111.408,Logility Supply Chain Solutions Inc
+001562,2021,127.553,Logility Supply Chain Solutions Inc
+001562,2022,123.659,Logility Supply Chain Solutions Inc
+001562,2023,102.515,Logility Supply Chain Solutions Inc
+001632,2020,5603.056,Analog Devices Inc
+001632,2021,7318.286,Analog Devices Inc
+001632,2022,12013.953,Analog Devices Inc
+001632,2023,12305.539,Analog Devices Inc
+001632,2024,9427.157,Analog Devices Inc
+001632,2025,11019.707,Analog Devices Inc
+001650,2020,1.355,Andrea Electronics Corp
+001650,2021,1.663,Andrea Electronics Corp
+001650,2022,1.962,Andrea Electronics Corp
+001690,2020,274515.0,Apple Inc
+001690,2021,365817.0,Apple Inc
+001690,2022,394328.0,Apple Inc
+001690,2023,383285.0,Apple Inc
+001690,2024,391035.0,Apple Inc
+001690,2025,416161.0,Apple Inc
+001704,2020,17202.0,Applied Materials Inc
+001704,2021,23063.0,Applied Materials Inc
+001704,2022,25785.0,Applied Materials Inc
+001704,2023,26517.0,Applied Materials Inc
+001704,2024,27176.0,Applied Materials Inc
+001704,2025,28368.0,Applied Materials Inc
+001773,2020,28673.363,Arrow Electronics Inc
+001773,2021,34477.018,Arrow Electronics Inc
+001773,2022,37124.422,Arrow Electronics Inc
+001773,2023,33107.12,Arrow Electronics Inc
+001773,2024,27923.324,Arrow Electronics Inc
+001773,2025,30852.935,Arrow Electronics Inc
+001820,2020,116.033,AstroNova Inc
+001820,2021,117.48,AstroNova Inc
+001820,2022,142.527,AstroNova Inc
+001820,2023,148.086,AstroNova Inc
+001820,2024,151.283,AstroNova Inc
+001820,2025,150.515,AstroNova Inc
+001878,2020,3790.4,Autodesk Inc
+001878,2021,4386.4,Autodesk Inc
+001878,2022,5005.0,Autodesk Inc
+001878,2023,5497.0,Autodesk Inc
+001878,2024,6131.0,Autodesk Inc
+001878,2025,7206.0,Autodesk Inc
+001919,2020,17634.333,Avnet Inc
+001919,2021,19534.679,Avnet Inc
+001919,2022,24310.708,Avnet Inc
+001919,2023,26536.881,Avnet Inc
+001919,2024,23757.129,Avnet Inc
+001919,2025,22200.754,Avnet Inc
+001968,2020,425.544,Badger Meter Inc.
+001968,2021,505.198,Badger Meter Inc.
+001968,2022,565.568,Badger Meter Inc.
+001968,2023,703.592,Badger Meter Inc.
+001968,2024,826.558,Badger Meter Inc.
+001968,2025,916.663,Badger Meter Inc.
+002124,2020,465.771,Bel Fuse Inc.
+002124,2021,543.494,Bel Fuse Inc.
+002124,2022,654.233,Bel Fuse Inc.
+002124,2023,639.813,Bel Fuse Inc.
+002124,2024,534.792,Bel Fuse Inc.
+002124,2025,675.455,Bel Fuse Inc.
+002504,2020,2025.3,Unisys Corp
+002504,2021,2054.4,Unisys Corp
+002504,2022,1979.9,Unisys Corp
+002504,2023,2015.4,Unisys Corp
+002504,2024,2008.4,Unisys Corp
+002504,2025,1950.1,Unisys Corp
+002536,2020,443.026,Liveramp Holdings Inc
+002536,2021,528.657,Liveramp Holdings Inc
+002536,2022,596.583,Liveramp Holdings Inc
+002536,2023,659.661,Liveramp Holdings Inc
+002536,2024,745.58,Liveramp Holdings Inc
+002573,2020,61.793,CSP Inc
+002573,2021,49.208,CSP Inc
+002573,2022,54.361,CSP Inc
+002573,2023,64.647,CSP Inc
+002573,2024,55.219,CSP Inc
+002573,2025,58.73,CSP Inc
+002577,2020,424.066,CTS Corp
+002577,2021,512.925,CTS Corp
+002577,2022,586.869,CTS Corp
+002577,2023,550.422,CTS Corp
+002577,2024,515.771,CTS Corp
+002577,2025,541.318,CTS Corp
+002578,2020,179.917,Telos Corp
+002578,2021,242.433,Telos Corp
+002578,2022,216.887,Telos Corp
+002578,2023,145.378,Telos Corp
+002578,2024,108.272,Telos Corp
+002578,2025,164.805,Telos Corp
+002581,2020,16.92,CVD Equipment Corp
+002581,2021,16.447,CVD Equipment Corp
+002581,2022,25.813,CVD Equipment Corp
+002581,2023,24.109,CVD Equipment Corp
+002581,2024,26.876,CVD Equipment Corp
+002581,2025,25.786,CVD Equipment Corp
+002615,2020,308.587,CalAmp Corp
+002615,2021,295.839,CalAmp Corp
+002615,2022,294.949,CalAmp Corp
+002721,2020,30279.869,Canon Inc
+002721,2021,30515.227,Canon Inc
+002721,2022,30570.616,Canon Inc
+002721,2023,29661.321,Canon Inc
+002721,2024,28684.22,Canon Inc
+002829,2020,43.044,RF Industries Ltd
+002829,2021,57.424,RF Industries Ltd
+002829,2022,85.254,RF Industries Ltd
+002829,2023,72.168,RF Industries Ltd
+002829,2024,64.857,RF Industries Ltd
+002829,2025,80.586,RF Industries Ltd
+003157,2020,1228.999,Coherent Inc
+003157,2021,1487.468,Coherent Inc
+003158,2020,636.007,Cohu Inc
+003158,2021,887.214,Cohu Inc
+003158,2022,812.775,Cohu Inc
+003158,2023,636.322,Cohu Inc
+003158,2024,401.779,Cohu Inc
+003158,2025,452.956,Cohu Inc
+003275,2020,42.576,Communications Systems Inc.
+003275,2021,7.01,Communications Systems Inc.
+003336,2020,17729.0,DXC Technology Co
+003336,2021,16265.0,DXC Technology Co
+003336,2022,14430.0,DXC Technology Co
+003336,2023,13667.0,DXC Technology Co
+003336,2024,12871.0,DXC Technology Co
+003342,2020,366.091,Computer Task Group Inc
+003342,2021,392.285,Computer Task Group Inc
+003342,2022,325.08,Computer Task Group Inc
+003358,2020,616.715,Comtech Telecommunications Corp.
+003358,2021,581.695,Comtech Telecommunications Corp.
+003358,2022,486.239,Comtech Telecommunications Corp.
+003358,2023,549.994,Comtech Telecommunications Corp.
+003358,2024,540.403,Comtech Telecommunications Corp.
+003358,2025,499.528,Comtech Telecommunications Corp.
+003532,2020,11408.0,Corning Inc
+003532,2021,14082.0,Corning Inc
+003532,2022,14189.0,Corning Inc
+003532,2023,12588.0,Corning Inc
+003532,2024,13167.0,Corning Inc
+003532,2025,15629.0,Corning Inc
+003761,2020,20.328,Data I/O Corp
+003761,2021,25.835,Data I/O Corp
+003761,2022,24.217,Data I/O Corp
+003761,2023,28.064,Data I/O Corp
+003761,2024,21.769,Data I/O Corp
+003761,2025,21.5,Data I/O Corp
+003946,2020,3902.3,Diebold Nixdorf Inc
+003946,2021,3905.2,Diebold Nixdorf Inc
+003946,2022,3460.7,Diebold Nixdorf Inc
+003946,2023,3752.0,Diebold Nixdorf Inc
+003946,2024,3752.8,Diebold Nixdorf Inc
+003946,2025,3805.7,Diebold Nixdorf Inc
+003962,2020,104.106,Nortech Systems Inc
+003962,2021,115.168,Nortech Systems Inc
+003962,2022,134.123,Nortech Systems Inc
+003962,2023,139.332,Nortech Systems Inc
+003962,2024,128.133,Nortech Systems Inc
+003962,2025,118.365,Nortech Systems Inc
+003969,2020,1229.215,Diodes Inc
+003969,2021,1805.162,Diodes Inc
+003969,2022,2000.58,Diodes Inc
+003969,2023,1661.739,Diodes Inc
+003969,2024,1311.12,Diodes Inc
+003969,2025,1482.073,Diodes Inc
+004194,2020,1029.0,Eastman Kodak Co
+004194,2021,1150.0,Eastman Kodak Co
+004194,2022,1205.0,Eastman Kodak Co
+004194,2023,1117.0,Eastman Kodak Co
+004194,2024,1043.0,Eastman Kodak Co
+004194,2025,1069.0,Eastman Kodak Co
+004275,2020,7.621,Electro-Sensors Inc
+004275,2021,8.607,Electro-Sensors Inc
+004275,2022,9.029,Electro-Sensors Inc
+004275,2023,8.555,Electro-Sensors Inc
+004275,2024,9.373,Electro-Sensors Inc
+004275,2025,10.142,Electro-Sensors Inc
+004292,2020,0.401,Electronic Tele-Communications Inc.
+004292,2021,0.371,Electronic Tele-Communications Inc.
+004292,2022,0.355,Electronic Tele-Communications Inc.
+004292,2023,0.301,Electronic Tele-Communications Inc.
+004292,2024,0.266,Electronic Tele-Communications Inc.
+004384,2020,4.357,MARA Holdings Inc
+004384,2021,150.464,MARA Holdings Inc
+004384,2022,117.753,MARA Holdings Inc
+004384,2023,387.508,MARA Holdings Inc
+004384,2024,656.378,MARA Holdings Inc
+004384,2025,907.093,MARA Holdings Inc
+004439,2020,27356.298,Telefonaktiebolaget LM Ericsson (publ)
+004439,2021,25693.129,Telefonaktiebolaget LM Ericsson (publ)
+004439,2022,26050.239,Telefonaktiebolaget LM Ericsson (publ)
+004439,2023,26187.489,Telefonaktiebolaget LM Ericsson (publ)
+004439,2024,22396.952,Telefonaktiebolaget LM Ericsson (publ)
+004439,2025,25678.042,Telefonaktiebolaget LM Ericsson (publ)
+004900,2020,54.254,Frequency Electronics Inc.
+004900,2021,48.296,Frequency Electronics Inc.
+004900,2022,40.777,Frequency Electronics Inc.
+004900,2023,55.274,Frequency Electronics Inc.
+004900,2024,69.811,Frequency Electronics Inc.
+004925,2020,19823.485,Fujifilm Holdings Corp
+004925,2021,20799.387,Fujifilm Holdings Corp
+004925,2022,21506.65,Fujifilm Holdings Corp
+004925,2023,19576.007,Fujifilm Holdings Corp
+004925,2024,21341.26,Fujifilm Holdings Corp
+005606,2020,56639.0,HP Inc
+005606,2021,63487.0,HP Inc
+005606,2022,62910.0,HP Inc
+005606,2023,53718.0,HP Inc
+005606,2024,53559.0,HP Inc
+005606,2025,55295.0,HP Inc
+005831,2020,182.714,IEC Electronics Corp
+005932,2020,34.715,IEH Corp
+005932,2021,24.266,IEH Corp
+005932,2022,19.137,IEH Corp
+005932,2023,21.525,IEH Corp
+005932,2024,28.784,IEH Corp
+006008,2020,77867.0,Intel Corp
+006008,2021,79024.0,Intel Corp
+006008,2022,63054.0,Intel Corp
+006008,2023,54228.0,Intel Corp
+006008,2024,53101.0,Intel Corp
+006008,2025,52853.0,Intel Corp
+006013,2020,35.873,CoreCard Corp
+006013,2021,48.248,CoreCard Corp
+006013,2022,69.765,CoreCard Corp
+006013,2023,56.004,CoreCard Corp
+006013,2024,57.399,CoreCard Corp
+006021,2020,9.008,Inrad Optics Inc
+006021,2021,11.353,Inrad Optics Inc
+006021,2022,10.631,Inrad Optics Inc
+006021,2023,12.91,Inrad Optics Inc
+006033,2020,0.0,Interdyne Co
+006033,2021,0.0,Interdyne Co
+006066,2020,73620.0,International Business Machines Corp
+006066,2021,57350.0,International Business Machines Corp
+006066,2022,60530.0,International Business Machines Corp
+006066,2023,61860.0,International Business Machines Corp
+006066,2024,62753.0,International Business Machines Corp
+006066,2025,67535.0,International Business Machines Corp
+006100,2020,358.991,InterDigital Inc
+006100,2021,425.409,InterDigital Inc
+006100,2022,457.794,InterDigital Inc
+006100,2023,549.588,InterDigital Inc
+006100,2024,868.516,InterDigital Inc
+006100,2025,834.015,InterDigital Inc
+006304,2020,5806.424,KLA Corp
+006304,2021,6918.734,KLA Corp
+006304,2022,9211.883,KLA Corp
+006304,2023,10496.056,KLA Corp
+006304,2024,9812.247,KLA Corp
+006304,2025,12156.162,KLA Corp
+006416,2020,449.48,Key Tronic Corp
+006416,2021,518.698,Key Tronic Corp
+006416,2022,531.815,Key Tronic Corp
+006416,2023,588.135,Key Tronic Corp
+006416,2024,566.942,Key Tronic Corp
+006416,2025,467.871,Key Tronic Corp
+006509,2020,623.176,Kulicke and Soffa Industries Inc
+006509,2021,1517.664,Kulicke and Soffa Industries Inc
+006509,2022,1503.62,Kulicke and Soffa Industries Inc
+006509,2023,742.491,Kulicke and Soffa Industries Inc
+006509,2024,706.232,Kulicke and Soffa Industries Inc
+006509,2025,654.081,Kulicke and Soffa Industries Inc
+006512,2020,13805.317,Kyocera Corp
+006512,2021,15143.397,Kyocera Corp
+006512,2022,15235.216,Kyocera Corp
+006512,2023,13250.847,Kyocera Corp
+006512,2024,13452.222,Kyocera Corp
+006565,2020,10044.736,Lam Research Corp
+006565,2021,14626.15,Lam Research Corp
+006565,2022,17227.039,Lam Research Corp
+006565,2023,17428.516,Lam Research Corp
+006565,2024,14905.386,Lam Research Corp
+006565,2025,18435.591,Lam Research Corp
+006848,2020,31.162,LGL Group Inc (The)
+006848,2021,28.14,LGL Group Inc (The)
+006848,2022,1.655,LGL Group Inc (The)
+006848,2023,1.728,LGL Group Inc (The)
+006848,2024,2.226,LGL Group Inc (The)
+006900,2020,828.586,MTS Systems Corp
+007183,2020,9.599,Soluna Holdings Inc
+007183,2021,14.345,Soluna Holdings Inc
+007183,2022,28.547,Soluna Holdings Inc
+007183,2023,21.066,Soluna Holdings Inc
+007183,2024,38.021,Soluna Holdings Inc
+007183,2025,29.717,Soluna Holdings Inc
+007291,2020,1088.0,Methode Electronics Inc
+007291,2021,1163.6,Methode Electronics Inc
+007291,2022,1179.6,Methode Electronics Inc
+007291,2023,1114.5,Methode Electronics Inc
+007291,2024,1048.1,Methode Electronics Inc
+007343,2020,21435.0,Micron Technology Inc.
+007343,2021,27705.0,Micron Technology Inc.
+007343,2022,30758.0,Micron Technology Inc.
+007343,2023,15540.0,Micron Technology Inc.
+007343,2024,25111.0,Micron Technology Inc.
+007343,2025,37378.0,Micron Technology Inc.
+007344,2020,22.274,Micropac Industries Inc
+007344,2021,27.292,Micropac Industries Inc
+007344,2022,27.785,Micropac Industries Inc
+007344,2023,30.639,Micropac Industries Inc
+007350,2020,3.108,Microwave Filter Co Inc
+007350,2021,5.181,Microwave Filter Co Inc
+007350,2022,5.215,Microwave Filter Co Inc
+007350,2023,3.835,Microwave Filter Co Inc
+007350,2024,2.419,Microwave Filter Co Inc
+007585,2020,7414.0,Motorola Solutions Inc
+007585,2021,8171.0,Motorola Solutions Inc
+007585,2022,9112.0,Motorola Solutions Inc
+007585,2023,9978.0,Motorola Solutions Inc
+007585,2024,10817.0,Motorola Solutions Inc
+007585,2025,11682.0,Motorola Solutions Inc
+007648,2020,6207.0,NCR Voyix Corp
+007648,2021,7156.0,NCR Voyix Corp
+007648,2022,7844.0,NCR Voyix Corp
+007648,2023,3830.0,NCR Voyix Corp
+007648,2024,2826.0,NCR Voyix Corp
+007648,2025,2687.0,NCR Voyix Corp
+007685,2020,101.359,NAPCO Security Technologies Inc
+007685,2021,114.035,NAPCO Security Technologies Inc
+007685,2022,143.593,NAPCO Security Technologies Inc
+007685,2023,169.997,NAPCO Security Technologies Inc
+007685,2024,188.82,NAPCO Security Technologies Inc
+007685,2025,181.621,NAPCO Security Technologies Inc
+008087,2020,117.138,Iteris Inc
+008087,2021,133.572,Iteris Inc
+008087,2022,156.052,Iteris Inc
+008087,2023,171.987,Iteris Inc
+008334,2020,213.786,PAR Technology Corp
+008334,2021,282.876,PAR Technology Corp
+008334,2022,355.795,PAR Technology Corp
+008334,2023,415.823,PAR Technology Corp
+008334,2024,349.982,PAR Technology Corp
+008334,2025,455.547,PAR Technology Corp
+008599,2020,137.176,Agilysys Inc
+008599,2021,162.636,Agilysys Inc
+008599,2022,198.065,Agilysys Inc
+008599,2023,237.464,Agilysys Inc
+008599,2024,275.624,Agilysys Inc
+008633,2020,1727.607,Plantronics Inc.
+008633,2021,1681.144,Plantronics Inc.
+008864,2020,65.463,Amtech Systems Inc
+008864,2021,85.205,Amtech Systems Inc
+008864,2022,106.298,Amtech Systems Inc
+008864,2023,113.315,Amtech Systems Inc
+008864,2024,101.214,Amtech Systems Inc
+008864,2025,79.364,Amtech Systems Inc
+008867,2020,349.576,Quantum Corp
+008867,2021,372.827,Quantum Corp
+008867,2022,412.752,Quantum Corp
+008867,2023,311.6,Quantum Corp
+008867,2024,274.058,Quantum Corp
+009125,2020,176.937,Richardson Electronics Ltd
+009125,2021,224.62,Richardson Electronics Ltd
+009125,2022,262.658,Richardson Electronics Ltd
+009125,2023,196.46,Richardson Electronics Ltd
+009125,2024,208.909,Richardson Electronics Ltd
+009135,2020,15208.292,Ricoh Co Ltd
+009135,2021,14481.718,Ricoh Co Ltd
+009135,2022,16054.006,Ricoh Co Ltd
+009135,2023,15530.257,Ricoh Co Ltd
+009135,2024,16880.777,Ricoh Co Ltd
+009154,2020,18.505,Risk(George) Industries Inc
+009154,2021,20.735,Risk(George) Industries Inc
+009154,2022,19.979,Risk(George) Industries Inc
+009154,2023,21.767,Risk(George) Industries Inc
+009154,2024,22.538,Risk(George) Industries Inc
+009216,2020,802.583,Rogers Corp.
+009216,2021,932.886,Rogers Corp.
+009216,2022,971.171,Rogers Corp.
+009216,2023,908.4,Rogers Corp.
+009216,2024,830.1,Rogers Corp.
+009216,2025,810.8,Rogers Corp.
+009323,2020,107.998,Paragon Technologies Inc.
+009323,2021,141.553,Paragon Technologies Inc.
+009323,2022,134.244,Paragon Technologies Inc.
+009323,2023,125.274,Paragon Technologies Inc.
+009323,2024,126.47,Paragon Technologies Inc.
+009551,2020,313.579,Digital Turbine Inc
+009551,2021,747.596,Digital Turbine Inc
+009551,2022,665.92,Digital Turbine Inc
+009551,2023,544.482,Digital Turbine Inc
+009551,2024,490.506,Digital Turbine Inc
+009599,2020,595.117,Semtech Corp
+009599,2021,740.858,Semtech Corp
+009599,2022,756.533,Semtech Corp
+009599,2023,868.758,Semtech Corp
+009599,2024,909.287,Semtech Corp
+009599,2025,1049.975,Semtech Corp
+009799,2020,10.534,Solitron Devices Inc
+009799,2021,12.284,Solitron Devices Inc
+009799,2022,6.406,Solitron Devices Inc
+009799,2023,12.757,Solitron Devices Inc
+009799,2024,14.049,Solitron Devices Inc
+010275,2020,13372.333,TDK Corporation
+010275,2021,15663.725,TDK Corporation
+010275,2022,16404.825,TDK Corporation
+010275,2023,13909.713,TDK Corporation
+010275,2024,14723.364,TDK Corporation
+010305,2020,68.821,TSR Inc
+010305,2021,97.312,TSR Inc
+010305,2022,101.433,TSR Inc
+010364,2020,4.108,Technical Communications Corp
+010364,2021,1.866,Technical Communications Corp
+010364,2022,1.304,Technical Communications Corp
+010453,2020,3121.469,Teradyne Inc
+010453,2021,3702.881,Teradyne Inc
+010453,2022,3155.045,Teradyne Inc
+010453,2023,2676.298,Teradyne Inc
+010453,2024,2819.88,Teradyne Inc
+010453,2025,3190.024,Teradyne Inc
+010499,2020,14461.0,Texas Instruments Inc
+010499,2021,18344.0,Texas Instruments Inc
+010499,2022,20028.0,Texas Instruments Inc
+010499,2023,17519.0,Texas Instruments Inc
+010499,2024,15641.0,Texas Instruments Inc
+010499,2025,17682.0,Texas Instruments Inc
+010658,2020,9.445,Trans-Lux Corp
+010658,2021,11.35,Trans-Lux Corp
+010658,2022,21.661,Trans-Lux Corp
+010658,2023,15.552,Trans-Lux Corp
+010658,2024,12.862,Trans-Lux Corp
+010740,2020,34.465,Trio-Tech International
+010740,2021,32.462,Trio-Tech International
+010740,2022,44.065,Trio-Tech International
+010740,2023,43.25,Trio-Tech International
+010740,2024,42.312,Trio-Tech International
+010740,2025,36.473,Trio-Tech International
+010789,2020,1116.663,Tyler Technologies Inc
+010789,2021,1592.287,Tyler Technologies Inc
+010789,2022,1850.204,Tyler Technologies Inc
+010789,2023,1951.751,Tyler Technologies Inc
+010789,2024,2137.803,Tyler Technologies Inc
+010789,2025,2332.34,Tyler Technologies Inc
+011027,2020,17.52,Universal Safety Products Inc
+011027,2021,19.55,Universal Safety Products Inc
+011027,2022,22.179,Universal Safety Products Inc
+011027,2023,19.903,Universal Safety Products Inc
+011027,2024,23.564,Universal Safety Products Inc
+011124,2020,454.163,Veeco Instruments Inc
+011124,2021,583.277,Veeco Instruments Inc
+011124,2022,646.137,Veeco Instruments Inc
+011124,2023,666.435,Veeco Instruments Inc
+011124,2024,717.301,Veeco Instruments Inc
+011124,2025,664.294,Veeco Instruments Inc
+011169,2020,12.541,Video Display Corp
+011169,2021,7.001,Video Display Corp
+011169,2022,8.102,Video Display Corp
+011169,2023,8.297,Video Display Corp
+011191,2020,2501.898,Vishay Intertechnology Inc.
+011191,2021,3240.487,Vishay Intertechnology Inc.
+011191,2022,3497.401,Vishay Intertechnology Inc.
+011191,2023,3402.045,Vishay Intertechnology Inc.
+011191,2024,2937.587,Vishay Intertechnology Inc.
+011191,2025,3069.048,Vishay Intertechnology Inc.
+011399,2020,16736.0,Western Digital Corp
+011399,2021,16922.0,Western Digital Corp
+011399,2022,18793.0,Western Digital Corp
+011399,2023,12318.0,Western Digital Corp
+011399,2024,13003.0,Western Digital Corp
+011399,2025,9520.0,Western Digital Corp
+011636,2020,7022.0,Xerox Holdings Corp
+011636,2021,7038.0,Xerox Holdings Corp
+011636,2022,7107.0,Xerox Holdings Corp
+011636,2023,6886.0,Xerox Holdings Corp
+011636,2024,6221.0,Xerox Holdings Corp
+011636,2025,7022.0,Xerox Holdings Corp
+011745,2020,362.963,Qualys Inc
+011745,2021,411.172,Qualys Inc
+011745,2022,489.723,Qualys Inc
+011745,2023,554.458,Qualys Inc
+011745,2024,607.571,Qualys Inc
+011745,2025,669.125,Qualys Inc
+012141,2020,143015.0,Microsoft Corp
+012141,2021,168088.0,Microsoft Corp
+012141,2022,198270.0,Microsoft Corp
+012141,2023,211915.0,Microsoft Corp
+012141,2024,245122.0,Microsoft Corp
+012141,2025,281724.0,Microsoft Corp
+012142,2020,40479.0,Oracle Corp
+012142,2021,42440.0,Oracle Corp
+012142,2022,49954.0,Oracle Corp
+012142,2023,52961.0,Oracle Corp
+012142,2024,57399.0,Oracle Corp
+012377,2020,0.828,Research Frontiers Inc
+012377,2021,1.263,Research Frontiers Inc
+012377,2022,0.54,Research Frontiers Inc
+012377,2023,0.91,Research Frontiers Inc
+012377,2024,1.336,Research Frontiers Inc
+012377,2025,1.121,Research Frontiers Inc
+012421,2020,158.345,Kaspien Holdings Inc
+012421,2021,143.713,Kaspien Holdings Inc
+012421,2022,128.228,Kaspien Holdings Inc
+012441,2020,4099.403,Gartner Inc
+012441,2021,4733.962,Gartner Inc
+012441,2022,5475.846,Gartner Inc
+012441,2023,5906.956,Gartner Inc
+012441,2024,6267.411,Gartner Inc
+012441,2025,6497.226,Gartner Inc
+012482,2020,93.075,Clearfield Inc
+012482,2021,140.755,Clearfield Inc
+012482,2022,270.883,Clearfield Inc
+012482,2023,268.72,Clearfield Inc
+012482,2024,166.705,Clearfield Inc
+012482,2025,150.134,Clearfield Inc
+012540,2020,12868.0,Adobe Inc
+012540,2021,15785.0,Adobe Inc
+012540,2022,17606.0,Adobe Inc
+012540,2023,19409.0,Adobe Inc
+012540,2024,21505.0,Adobe Inc
+012540,2025,23769.0,Adobe Inc
+012568,2020,49.942,Daily Journal Corp
+012568,2021,49.389,Daily Journal Corp
+012568,2022,54.009,Daily Journal Corp
+012568,2023,67.709,Daily Journal Corp
+012568,2024,69.931,Daily Journal Corp
+012568,2025,87.7,Daily Journal Corp
+012731,2020,0.438,Veritec Inc
+012731,2021,0.389,Veritec Inc
+012731,2022,0.353,Veritec Inc
+012731,2023,0.356,Veritec Inc
+012731,2024,0.461,Veritec Inc
+012945,2020,3390.394,Plexus Corp
+012945,2021,3368.865,Plexus Corp
+012945,2022,3811.368,Plexus Corp
+012945,2023,4210.305,Plexus Corp
+012945,2024,3960.827,Plexus Corp
+012945,2025,4032.966,Plexus Corp
+013176,2020,14.833,Sono-Tek Corp
+013176,2021,17.133,Sono-Tek Corp
+013176,2022,15.058,Sono-Tek Corp
+013176,2023,19.7,Sono-Tek Corp
+013176,2024,20.504,Sono-Tek Corp
+013200,2020,609.691,Photronics Inc
+013200,2021,663.761,Photronics Inc
+013200,2022,824.549,Photronics Inc
+013200,2023,892.076,Photronics Inc
+013200,2024,866.946,Photronics Inc
+013200,2025,849.294,Photronics Inc
+013421,2020,2682.891,Cadence Design Systems Inc
+013421,2021,2988.244,Cadence Design Systems Inc
+013421,2022,3561.718,Cadence Design Systems Inc
+013421,2023,4089.986,Cadence Design Systems Inc
+013421,2024,4641.264,Cadence Design Systems Inc
+013421,2025,5296.759,Cadence Design Systems Inc
+013480,2020,625.609,Ebix Inc
+013480,2021,994.938,Ebix Inc
+013480,2022,1050.146,Ebix Inc
+013582,2020,20.873,CPS Technologies Corp
+013582,2021,22.449,CPS Technologies Corp
+013582,2022,26.587,CPS Technologies Corp
+013582,2023,27.551,CPS Technologies Corp
+013582,2024,21.123,CPS Technologies Corp
+013582,2025,32.596,CPS Technologies Corp
+013824,2020,1294.562,Fair Isaac Corporation
+013824,2021,1316.536,Fair Isaac Corporation
+013824,2022,1377.27,Fair Isaac Corporation
+013824,2023,1513.557,Fair Isaac Corporation
+013824,2024,1717.526,Fair Isaac Corporation
+013824,2025,1990.869,Fair Isaac Corporation
+014034,2020,60.62,Smart Employee Benefits Inc
+014034,2021,61.781,Smart Employee Benefits Inc
+014108,2020,70.117,CyberOptics Corp
+014108,2021,92.774,CyberOptics Corp
+014112,2020,75.072,Franklin Wireless Corp
+014112,2021,184.115,Franklin Wireless Corp
+014112,2022,23.998,Franklin Wireless Corp
+014112,2023,45.949,Franklin Wireless Corp
+014112,2024,30.797,Franklin Wireless Corp
+014112,2025,46.087,Franklin Wireless Corp
+014113,2020,101.31,Mitek Systems Inc
+014113,2021,119.797,Mitek Systems Inc
+014113,2022,143.943,Mitek Systems Inc
+014113,2023,172.552,Mitek Systems Inc
+014113,2024,172.083,Mitek Systems Inc
+014113,2025,179.691,Mitek Systems Inc
+014256,2020,2191.395,Maxim Integrated Products Inc.
+014256,2021,2632.529,Maxim Integrated Products Inc.
+014282,2020,8598.9,Amphenol Corp
+014282,2021,10876.3,Amphenol Corp
+014282,2022,12623.0,Amphenol Corp
+014282,2023,12554.7,Amphenol Corp
+014282,2024,15222.7,Amphenol Corp
+014282,2025,23094.7,Amphenol Corp
+014489,2020,94224.0,Dell Technologies Inc
+014489,2021,101197.0,Dell Technologies Inc
+014489,2022,102301.0,Dell Technologies Inc
+014489,2023,88425.0,Dell Technologies Inc
+014489,2024,95567.0,Dell Technologies Inc
+014489,2025,113538.0,Dell Technologies Inc
+014561,2020,2380.071,Coherent Corp
+014561,2021,3105.891,Coherent Corp
+014561,2022,3316.616,Coherent Corp
+014561,2023,5160.1,Coherent Corp
+014561,2024,4707.688,Coherent Corp
+014561,2025,5810.115,Coherent Corp
+015044,2020,4317.996,Workday Inc
+015044,2021,5138.798,Workday Inc
+015044,2022,6215.818,Workday Inc
+015044,2023,7259.0,Workday Inc
+015044,2024,8446.0,Workday Inc
+015044,2025,9552.0,Workday Inc
+015327,2020,15.59,Bonso Electronics International Inc
+015327,2021,14.801,Bonso Electronics International Inc
+015327,2022,9.047,Bonso Electronics International Inc
+015327,2023,7.553,Bonso Electronics International Inc
+015420,2020,222.99,Ambarella Inc
+015420,2021,331.856,Ambarella Inc
+015420,2022,337.606,Ambarella Inc
+015420,2023,226.474,Ambarella Inc
+015420,2024,284.865,Ambarella Inc
+015420,2025,390.702,Ambarella Inc
+015481,2020,4.594,Urbanimmersive Inc
+015481,2021,4.069,Urbanimmersive Inc
+015481,2022,8.337,Urbanimmersive Inc
+015543,2020,8.647,SRAX Inc
+015543,2021,26.707,SRAX Inc
+015543,2022,27.859,SRAX Inc
+015855,2020,2556.0,Gen Digital Inc
+015855,2021,2796.0,Gen Digital Inc
+015855,2022,3338.0,Gen Digital Inc
+015855,2023,3812.0,Gen Digital Inc
+015855,2024,3935.0,Gen Digital Inc
+016039,2020,0.0,Puget Technologies Inc
+016069,2020,38.272,Investview Inc
+016069,2021,72.232,Investview Inc
+016069,2022,61.849,Investview Inc
+016069,2023,67.92,Investview Inc
+016069,2024,52.382,Investview Inc
+016188,2020,811.02,Cognex Corporation
+016188,2021,1037.098,Cognex Corporation
+016188,2022,1006.09,Cognex Corporation
+016188,2023,837.547,Cognex Corporation
+016188,2024,914.515,Cognex Corporation
+016188,2025,994.359,Cognex Corporation
+016401,2020,1369.23,Cirrus Logic Inc.
+016401,2021,1781.46,Cirrus Logic Inc.
+016401,2022,1897.617,Cirrus Logic Inc.
+016401,2023,1788.89,Cirrus Logic Inc.
+016401,2024,1896.077,Cirrus Logic Inc.
+016531,2020,218.478,Zix Corp.
+016597,2020,408.12,Lattice Semiconductor Corporation
+016597,2021,515.327,Lattice Semiconductor Corporation
+016597,2022,660.356,Lattice Semiconductor Corporation
+016597,2023,737.154,Lattice Semiconductor Corporation
+016597,2024,509.401,Lattice Semiconductor Corporation
+016597,2025,523.262,Lattice Semiconductor Corporation
+016710,2020,279.271,Digi International Inc
+016710,2021,308.632,Digi International Inc
+016710,2022,388.225,Digi International Inc
+016710,2023,444.849,Digi International Inc
+016710,2024,424.046,Digi International Inc
+016710,2025,430.221,Digi International Inc
+016972,2020,4.848,Sphere 3D Corp
+016972,2021,3.72,Sphere 3D Corp
+016972,2022,6.077,Sphere 3D Corp
+016972,2023,21.906,Sphere 3D Corp
+016972,2024,16.608,Sphere 3D Corp
+016972,2025,11.181,Sphere 3D Corp
+017217,2020,6.928,Wi2Wi Corp
+017217,2021,6.453,Wi2Wi Corp
+017217,2022,6.857,Wi2Wi Corp
+017217,2023,6.343,Wi2Wi Corp
+017217,2024,6.313,Wi2Wi Corp
+017349,2020,1.507,Skkynet Cloud Systems Inc
+017349,2021,1.83,Skkynet Cloud Systems Inc
+017349,2022,2.157,Skkynet Cloud Systems Inc
+017349,2023,2.374,Skkynet Cloud Systems Inc
+017349,2024,2.562,Skkynet Cloud Systems Inc
+017349,2025,2.551,Skkynet Cloud Systems Inc
+017376,2020,29.983,Marin Software Inc
+017376,2021,24.42,Marin Software Inc
+017376,2022,20.019,Marin Software Inc
+017376,2023,17.731,Marin Software Inc
+017386,2020,1.032,Spectra7 Microsystems Inc
+017386,2021,5.461,Spectra7 Microsystems Inc
+017386,2022,11.294,Spectra7 Microsystems Inc
+017386,2023,9.896,Spectra7 Microsystems Inc
+017386,2024,2.312,Spectra7 Microsystems Inc
+017396,2020,3.458,AmpliTech Group Inc
+017396,2021,5.275,AmpliTech Group Inc
+017396,2022,19.394,AmpliTech Group Inc
+017396,2023,15.585,AmpliTech Group Inc
+017396,2024,9.508,AmpliTech Group Inc
+017396,2025,25.196,AmpliTech Group Inc
+017515,2020,20.317,Gatekeeper Systems Inc
+017515,2021,17.231,Gatekeeper Systems Inc
+017515,2022,20.031,Gatekeeper Systems Inc
+017515,2023,27.849,Gatekeeper Systems Inc
+017515,2024,37.811,Gatekeeper Systems Inc
+017515,2025,31.785,Gatekeeper Systems Inc
+017553,2020,161.056,Model N Inc
+017553,2021,193.445,Model N Inc
+017553,2022,219.164,Model N Inc
+017553,2023,249.463,Model N Inc
+017754,2020,20.475,AudioEye Inc
+017754,2021,24.503,AudioEye Inc
+017754,2022,29.913,AudioEye Inc
+017754,2023,31.316,AudioEye Inc
+017754,2024,35.201,AudioEye Inc
+017754,2025,40.311,AudioEye Inc
+017811,2020,145.072,ChannelAdvisor Corp
+017811,2021,167.729,ChannelAdvisor Corp
+017879,2020,0.0,Flywheel Advanced Technology Inc
+017879,2021,0.0,Flywheel Advanced Technology Inc
+017879,2022,0.0,Flywheel Advanced Technology Inc
+017879,2023,1.448,Flywheel Advanced Technology Inc
+017879,2024,0.0,Flywheel Advanced Technology Inc
+017879,2025,0.0,Flywheel Advanced Technology Inc
+017917,2020,0.0,My City Builders Inc
+017917,2021,0.0,My City Builders Inc
+017917,2022,,My City Builders Inc
+017917,2023,0.0,My City Builders Inc
+017917,2024,0.059,My City Builders Inc
+017917,2025,0.0,My City Builders Inc
+018036,2020,8435.9,Vistance Networks Inc
+018036,2021,8586.7,Vistance Networks Inc
+018036,2022,9228.1,Vistance Networks Inc
+018036,2023,5789.2,Vistance Networks Inc
+018036,2024,4205.8,Vistance Networks Inc
+018036,2025,1931.6,Vistance Networks Inc
+018467,2020,32456.003,Fujitsu Ltd
+018467,2021,29537.117,Fujitsu Ltd
+018467,2022,27936.181,Fujitsu Ltd
+018467,2023,24833.071,Fujitsu Ltd
+018467,2024,23707.142,Fujitsu Ltd
+018487,2020,940.584,Mandiant Inc
+018487,2021,483.455,Mandiant Inc
+018509,2020,0.428,Ideal Power Inc
+018509,2021,0.576,Ideal Power Inc
+018509,2022,0.203,Ideal Power Inc
+018509,2023,0.199,Ideal Power Inc
+018509,2024,0.086,Ideal Power Inc
+018509,2025,0.038,Ideal Power Inc
+018549,2020,29.069,ClearOne Inc
+018549,2021,28.967,ClearOne Inc
+018549,2022,25.205,ClearOne Inc
+018549,2023,18.704,ClearOne Inc
+018549,2024,11.386,ClearOne Inc
+018561,2020,268.141,Benefitfocus Inc
+018561,2021,263.097,Benefitfocus Inc
+018564,2020,234.623,Applied Optoelectronics Inc
+018564,2021,211.565,Applied Optoelectronics Inc
+018564,2022,222.818,Applied Optoelectronics Inc
+018564,2023,217.646,Applied Optoelectronics Inc
+018564,2024,249.365,Applied Optoelectronics Inc
+018564,2025,455.715,Applied Optoelectronics Inc
+018626,2020,814.139,Globant SA
+018626,2021,1297.078,Globant SA
+018626,2022,1780.243,Globant SA
+018626,2023,2095.939,Globant SA
+018626,2024,2415.689,Globant SA
+018626,2025,2454.877,Globant SA
+018630,2020,1183.657,RingCentral Inc
+018630,2021,1594.754,RingCentral Inc
+018630,2022,1988.33,RingCentral Inc
+018630,2023,2202.429,RingCentral Inc
+018630,2024,2400.395,RingCentral Inc
+018630,2025,2515.142,RingCentral Inc
+018632,2020,0.0,Bridgeway National Corp
+018646,2022,,Crisp Momentum Inc
+018646,2023,0.081,Crisp Momentum Inc
+018646,2024,0.036,Crisp Momentum Inc
+018646,2025,0.0,Crisp Momentum Inc
+018699,2020,1458.415,PTC Inc
+018699,2021,1807.159,PTC Inc
+018699,2022,1933.347,PTC Inc
+018699,2023,2097.053,PTC Inc
+018699,2024,2298.472,PTC Inc
+018699,2025,2739.226,PTC Inc
+018720,2020,0.0,Health Logic Interactive Inc
+018720,2021,0.0,Health Logic Interactive Inc
+018720,2022,0.0,Health Logic Interactive Inc
+018720,2023,0.0,Health Logic Interactive Inc
+018720,2024,0.0,Health Logic Interactive Inc
+018869,2020,988.76,Wix.com Ltd
+018869,2021,1269.657,Wix.com Ltd
+018869,2022,1387.666,Wix.com Ltd
+018869,2023,1561.665,Wix.com Ltd
+018869,2024,1760.65,Wix.com Ltd
+018869,2025,1993.044,Wix.com Ltd
+018908,2020,,Arax Holdings Corp
+018908,2021,0.0,Arax Holdings Corp
+018908,2022,0.0,Arax Holdings Corp
+018908,2023,0.909,Arax Holdings Corp
+019033,2020,0.946,Abits Group Inc
+019033,2021,0.219,Abits Group Inc
+019033,2022,0.164,Abits Group Inc
+019033,2023,1.682,Abits Group Inc
+019033,2024,6.711,Abits Group Inc
+019042,2020,3.319,SOLAI Ltd
+019042,2021,1328.876,SOLAI Ltd
+019042,2022,650.227,SOLAI Ltd
+019042,2023,43.101,SOLAI Ltd
+019042,2024,32.922,SOLAI Ltd
+019044,2020,292.689,Varonis Systems Inc
+019044,2021,390.134,Varonis Systems Inc
+019044,2022,473.634,Varonis Systems Inc
+019044,2023,499.16,Varonis Systems Inc
+019044,2024,550.95,Varonis Systems Inc
+019044,2025,623.532,Varonis Systems Inc
+019074,2020,2.252,Memex Inc
+019074,2021,3.04,Memex Inc
+019074,2022,2.141,Memex Inc
+019259,2020,119.739,Baylin Technologies Inc
+019259,2021,102.494,Baylin Technologies Inc
+019259,2022,120.86,Baylin Technologies Inc
+019259,2023,73.041,Baylin Technologies Inc
+019259,2024,83.589,Baylin Technologies Inc
+019259,2025,76.307,Baylin Technologies Inc
+019518,2020,764.3,Knowles Corp
+019518,2021,868.1,Knowles Corp
+019518,2022,764.7,Knowles Corp
+019518,2023,707.6,Knowles Corp
+019518,2024,553.5,Knowles Corp
+019518,2025,593.2,Knowles Corp
+019602,2020,360.093,Turtle Beach Corp
+019602,2021,366.354,Turtle Beach Corp
+019602,2022,240.166,Turtle Beach Corp
+019602,2023,258.122,Turtle Beach Corp
+019602,2024,372.766,Turtle Beach Corp
+019602,2025,319.914,Turtle Beach Corp
+019719,2020,3.16,Resonant Inc
+019719,2021,2.178,Resonant Inc
+019767,2020,0.0,BTCS Inc
+019767,2021,1.213,BTCS Inc
+019767,2022,1.692,BTCS Inc
+019767,2023,1.34,BTCS Inc
+019767,2024,4.074,BTCS Inc
+019767,2025,16.492,BTCS Inc
+019802,2020,326.78,Rimini Street Inc
+019802,2021,374.43,Rimini Street Inc
+019802,2022,409.662,Rimini Street Inc
+019802,2023,431.496,Rimini Street Inc
+019802,2024,428.753,Rimini Street Inc
+019802,2025,421.536,Rimini Street Inc
+019849,2020,225.527,A10 Networks Inc
+019849,2021,250.042,A10 Networks Inc
+019849,2022,280.338,A10 Networks Inc
+019849,2023,251.7,A10 Networks Inc
+019849,2024,261.696,A10 Networks Inc
+019849,2025,290.557,A10 Networks Inc
+019877,2020,402.751,Q2 Holdings Inc
+019877,2021,498.72,Q2 Holdings Inc
+019877,2022,565.673,Q2 Holdings Inc
+019877,2023,624.624,Q2 Holdings Inc
+019877,2024,696.464,Q2 Holdings Inc
+019877,2025,794.809,Q2 Holdings Inc
+019908,2020,434.908,Five9 Inc
+019908,2021,609.591,Five9 Inc
+019908,2022,778.846,Five9 Inc
+019908,2023,910.488,Five9 Inc
+019908,2024,1041.938,Five9 Inc
+019908,2025,1149.088,Five9 Inc
+020088,2020,770.77,Box Inc
+020088,2021,874.332,Box Inc
+020088,2022,990.874,Box Inc
+020088,2023,1037.741,Box Inc
+020088,2024,1090.13,Box Inc
+020088,2025,1177.253,Box Inc
+020128,2020,236.259,Cheetah Mobile Inc
+020128,2021,123.515,Cheetah Mobile Inc
+020128,2022,128.178,Cheetah Mobile Inc
+020128,2023,94.421,Cheetah Mobile Inc
+020128,2024,110.543,Cheetah Mobile Inc
+020129,2020,205.457,Materialise NV
+020129,2021,233.664,Materialise NV
+020129,2022,247.973,Materialise NV
+020129,2023,283.109,Materialise NV
+020129,2024,276.185,Materialise NV
+020129,2025,314.235,Materialise NV
+020229,2020,1029.564,Zendesk Inc
+020229,2021,1338.603,Zendesk Inc
+020232,2020,4221.0,Keysight Technologies Inc
+020232,2021,4941.0,Keysight Technologies Inc
+020232,2022,5420.0,Keysight Technologies Inc
+020232,2023,5464.0,Keysight Technologies Inc
+020232,2024,4979.0,Keysight Technologies Inc
+020232,2025,5375.0,Keysight Technologies Inc
+020483,2020,102.435,Firan Technology Group Corp
+020483,2021,79.365,Firan Technology Group Corp
+020483,2022,89.624,Firan Technology Group Corp
+020483,2023,135.2,Firan Technology Group Corp
+020483,2024,162.096,Firan Technology Group Corp
+020483,2025,190.996,Firan Technology Group Corp
+020692,2020,1200.55,Kimball Electronics Inc
+020692,2021,1291.807,Kimball Electronics Inc
+020692,2022,1349.535,Kimball Electronics Inc
+020692,2023,1823.429,Kimball Electronics Inc
+020692,2024,1714.51,Kimball Electronics Inc
+020692,2025,1486.727,Kimball Electronics Inc
+020748,2020,2317.512,Arista Networks Inc
+020748,2021,2948.037,Arista Networks Inc
+020748,2022,4381.31,Arista Networks Inc
+020748,2023,5860.168,Arista Networks Inc
+020748,2024,7003.146,Arista Networks Inc
+020748,2025,9005.7,Arista Networks Inc
+020779,2020,49301.0,Cisco Systems Inc
+020779,2021,49818.0,Cisco Systems Inc
+020779,2022,51557.0,Cisco Systems Inc
+020779,2023,56998.0,Cisco Systems Inc
+020779,2024,53803.0,Cisco Systems Inc
+020779,2025,56654.0,Cisco Systems Inc
+020801,2020,224.189,Kinaxis Inc
+020801,2021,250.726,Kinaxis Inc
+020801,2022,366.889,Kinaxis Inc
+020801,2023,426.971,Kinaxis Inc
+020801,2024,483.111,Kinaxis Inc
+020801,2025,548.03,Kinaxis Inc
+020934,2020,0.0,ClickStream Corp
+020934,2021,0.0,ClickStream Corp
+020998,2020,0.0,Pounce Technologies Inc
+020998,2021,0.0,Pounce Technologies Inc
+021002,2020,464.431,CyberArk Software Ltd
+021002,2021,502.917,CyberArk Software Ltd
+021002,2022,591.71,CyberArk Software Ltd
+021002,2023,751.888,CyberArk Software Ltd
+021002,2024,1000.742,CyberArk Software Ltd
+021002,2025,1361.118,CyberArk Software Ltd
+021040,2020,31.717,Surge Components Inc
+021040,2021,39.828,Surge Components Inc
+021040,2022,51.911,Surge Components Inc
+021040,2023,36.277,Surge Components Inc
+021040,2024,31.211,Surge Components Inc
+021040,2025,36.32,Surge Components Inc
+021042,2020,1.79,Akoustis Technologies Inc
+021042,2021,6.618,Akoustis Technologies Inc
+021042,2022,15.35,Akoustis Technologies Inc
+021042,2023,27.121,Akoustis Technologies Inc
+021042,2024,27.384,Akoustis Technologies Inc
+021295,2020,1.679,Focus Universal Inc
+021295,2021,1.434,Focus Universal Inc
+021295,2022,0.354,Focus Universal Inc
+021295,2023,1.053,Focus Universal Inc
+021295,2024,0.398,Focus Universal Inc
+021563,2020,1.225,Electronic System Tech Inc
+021563,2021,1.512,Electronic System Tech Inc
+021563,2022,1.91,Electronic System Tech Inc
+021563,2023,1.545,Electronic System Tech Inc
+021743,2020,21.366,NVE Corp
+021743,2021,26.987,NVE Corp
+021743,2022,38.254,NVE Corp
+021743,2023,29.804,NVE Corp
+021743,2024,25.875,NVE Corp
+021761,2020,1960.1,CDK Global Inc
+021761,2021,1673.2,CDK Global Inc
+021847,2020,883.026,HubSpot Inc
+021847,2021,1300.658,HubSpot Inc
+021847,2022,1730.969,HubSpot Inc
+021847,2023,2170.23,HubSpot Inc
+021847,2024,2627.543,HubSpot Inc
+021847,2025,3131.266,HubSpot Inc
+021864,2020,12164.115,CGI Inc
+021864,2021,12126.793,CGI Inc
+021864,2022,12867.201,CGI Inc
+021864,2023,14296.36,CGI Inc
+021864,2024,14676.152,CGI Inc
+021864,2025,15912.673,CGI Inc
+021984,2020,9.965,TON Strategy Co
+021984,2021,10.524,TON Strategy Co
+021984,2022,9.435,TON Strategy Co
+021984,2023,0.063,TON Strategy Co
+021984,2024,0.895,TON Strategy Co
+022000,2020,351.594,Workiva Inc
+022000,2021,443.285,Workiva Inc
+022000,2022,537.875,Workiva Inc
+022000,2023,630.039,Workiva Inc
+022000,2024,738.68,Workiva Inc
+022000,2025,884.568,Workiva Inc
+022040,2020,291.778,Upland Software Inc
+022040,2021,302.016,Upland Software Inc
+022040,2022,317.303,Upland Software Inc
+022040,2023,297.852,Upland Software Inc
+022040,2024,274.794,Upland Software Inc
+022040,2025,216.876,Upland Software Inc
+022182,2020,667.648,New Relic Inc
+022182,2021,785.521,New Relic Inc
+022182,2022,925.626,New Relic Inc
+022320,2020,,T3 Defense Inc
+022320,2021,19.287,T3 Defense Inc
+022320,2022,21.513,T3 Defense Inc
+022320,2023,21.298,T3 Defense Inc
+022320,2024,5.913,T3 Defense Inc
+022325,2020,3147.599,Xilinx Inc.
+022373,2020,43.01,Genasys Inc
+022373,2021,47.003,Genasys Inc
+022373,2022,54.035,Genasys Inc
+022373,2023,46.663,Genasys Inc
+022373,2024,24.008,Genasys Inc
+022373,2025,40.757,Genasys Inc
+022815,2020,3147.7,Trimble Inc
+022815,2021,3659.1,Trimble Inc
+022815,2022,3676.3,Trimble Inc
+022815,2023,3798.7,Trimble Inc
+022815,2024,3683.3,Trimble Inc
+022815,2025,3587.3,Trimble Inc
+022864,2020,1.482,Chaince Digital Holdings Inc
+022864,2021,0.67,Chaince Digital Holdings Inc
+022864,2022,0.863,Chaince Digital Holdings Inc
+022864,2023,0.446,Chaince Digital Holdings Inc
+022864,2024,1.007,Chaince Digital Holdings Inc
+022864,2025,1.867,Chaince Digital Holdings Inc
+023001,2020,2.141,authID Inc
+023001,2021,2.292,authID Inc
+023001,2022,0.527,authID Inc
+023001,2023,0.19,authID Inc
+023001,2024,0.886,authID Inc
+023071,2020,3316.7,GoDaddy Inc
+023071,2021,3815.7,GoDaddy Inc
+023071,2022,4091.3,GoDaddy Inc
+023071,2023,4254.1,GoDaddy Inc
+023071,2024,4573.2,GoDaddy Inc
+023071,2025,4951.1,GoDaddy Inc
+023084,2020,2053.131,Benchmark Electronics Inc
+023084,2021,2255.319,Benchmark Electronics Inc
+023084,2022,2886.331,Benchmark Electronics Inc
+023084,2023,2838.976,Benchmark Electronics Inc
+023084,2024,2656.105,Benchmark Electronics Inc
+023084,2025,2659.108,Benchmark Electronics Inc
+023108,2020,38.079,Sylogist Ltd
+023108,2021,38.675,Sylogist Ltd
+023108,2022,69.0,Sylogist Ltd
+023108,2023,65.514,Sylogist Ltd
+023108,2024,65.599,Sylogist Ltd
+023108,2025,62.24,Sylogist Ltd
+023119,2020,1459.271,SolarEdge Technologies Inc
+023119,2021,1963.865,SolarEdge Technologies Inc
+023119,2022,3110.279,SolarEdge Technologies Inc
+023119,2023,2976.528,SolarEdge Technologies Inc
+023119,2024,901.456,SolarEdge Technologies Inc
+023119,2025,1168.022,SolarEdge Technologies Inc
+023226,2020,44.64,Inuvo Inc
+023226,2021,59.831,Inuvo Inc
+023226,2022,75.604,Inuvo Inc
+023226,2023,73.912,Inuvo Inc
+023226,2024,83.794,Inuvo Inc
+023226,2025,86.209,Inuvo Inc
+023249,2020,1678.6,Lumentum Holdings Inc
+023249,2021,1742.8,Lumentum Holdings Inc
+023249,2022,1712.6,Lumentum Holdings Inc
+023249,2023,1767.0,Lumentum Holdings Inc
+023249,2024,1359.2,Lumentum Holdings Inc
+023249,2025,1645.0,Lumentum Holdings Inc
+023650,2020,2929.491,Shopify Inc
+023650,2021,4611.856,Shopify Inc
+023650,2022,5599.864,Shopify Inc
+023650,2023,7060.0,Shopify Inc
+023650,2024,8880.0,Shopify Inc
+023650,2025,11556.0,Shopify Inc
+023671,2020,26342.506,Nokia OYJ
+023671,2021,25250.906,Nokia OYJ
+023671,2022,26623.438,Nokia OYJ
+023671,2023,24602.777,Nokia OYJ
+023671,2024,19898.708,Nokia OYJ
+023671,2025,23369.793,Nokia OYJ
+023730,2020,20.599,Ionix Technology Inc
+023730,2021,14.328,Ionix Technology Inc
+023825,2020,0.227,Valdor Technology International Inc
+024035,2020,,Castellum Inc
+024035,2021,,Castellum Inc
+024035,2022,42.191,Castellum Inc
+024035,2023,45.244,Castellum Inc
+024035,2024,44.765,Castellum Inc
+024035,2025,52.866,Castellum Inc
+024071,2020,310.056,AppFolio Inc
+024071,2021,359.37,AppFolio Inc
+024071,2022,471.883,AppFolio Inc
+024071,2023,620.445,AppFolio Inc
+024071,2024,794.202,AppFolio Inc
+024071,2025,950.822,AppFolio Inc
+024083,2020,374.665,Vertex Inc
+024083,2021,425.548,Vertex Inc
+024083,2022,491.624,Vertex Inc
+024083,2023,572.387,Vertex Inc
+024083,2024,666.776,Vertex Inc
+024083,2025,748.444,Vertex Inc
+024097,2020,0.001,Tautachrome Inc
+024097,2021,0.0,Tautachrome Inc
+024097,2022,0.0,Tautachrome Inc
+024135,2020,618.003,Alarm.com Holdings Inc
+024135,2021,748.969,Alarm.com Holdings Inc
+024135,2022,842.559,Alarm.com Holdings Inc
+024135,2023,881.682,Alarm.com Holdings Inc
+024135,2024,939.827,Alarm.com Holdings Inc
+024135,2025,1011.187,Alarm.com Holdings Inc
+024142,2020,0.866,Bit Brother Limited
+024142,2021,5.712,Bit Brother Limited
+024142,2022,0.765,Bit Brother Limited
+024142,2023,2.883,Bit Brother Limited
+024352,2020,442.15,Progress Software Corp
+024352,2021,531.313,Progress Software Corp
+024352,2022,602.013,Progress Software Corp
+024352,2023,694.439,Progress Software Corp
+024352,2024,753.409,Progress Software Corp
+024352,2025,977.831,Progress Software Corp
+024405,2020,4448.0,Zebra Technologies Corp
+024405,2021,5627.0,Zebra Technologies Corp
+024405,2022,5781.0,Zebra Technologies Corp
+024405,2023,4584.0,Zebra Technologies Corp
+024405,2024,4981.0,Zebra Technologies Corp
+024405,2025,5396.0,Zebra Technologies Corp
+024421,2020,54.891,Boxlight Corp
+024421,2021,185.177,Boxlight Corp
+024421,2022,221.781,Boxlight Corp
+024421,2023,176.721,Boxlight Corp
+024421,2024,135.893,Boxlight Corp
+024421,2025,109.246,Boxlight Corp
+024428,2020,50.182,ADDvantage Technologies Group Inc
+024428,2021,62.16,ADDvantage Technologies Group Inc
+024428,2022,97.028,ADDvantage Technologies Group Inc
+024475,2020,0.966,iSign Solutions Inc
+024475,2021,1.078,iSign Solutions Inc
+024475,2022,0.987,iSign Solutions Inc
+024501,2020,411.486,Rapid7 Inc
+024501,2021,535.404,Rapid7 Inc
+024501,2022,685.083,Rapid7 Inc
+024501,2023,777.707,Rapid7 Inc
+024501,2024,844.007,Rapid7 Inc
+024501,2025,859.794,Rapid7 Inc
+024508,2020,168.947,Ooma Inc
+024508,2021,192.29,Ooma Inc
+024508,2022,216.165,Ooma Inc
+024508,2023,236.737,Ooma Inc
+024508,2024,256.852,Ooma Inc
+024508,2025,273.602,Ooma Inc
+024610,2020,41.748,Wireless Telecom Group Inc.
+024610,2021,49.245,Wireless Telecom Group Inc.
+024610,2022,22.367,Wireless Telecom Group Inc.
+024800,2020,21731.0,QUALCOMM Inc.
+024800,2021,33566.0,QUALCOMM Inc.
+024800,2022,44200.0,QUALCOMM Inc.
+024800,2023,35820.0,QUALCOMM Inc.
+024800,2024,38962.0,QUALCOMM Inc.
+024800,2025,44141.0,QUALCOMM Inc.
+024801,2020,18.867,Ironman International Ltd
+024801,2021,7.188,Ironman International Ltd
+024801,2022,5.777,Ironman International Ltd
+024801,2023,5.002,Ironman International Ltd
+024801,2024,4.777,Ironman International Ltd
+024901,2020,1.264,LM Funding America Inc
+024901,2021,0.899,LM Funding America Inc
+024901,2022,1.734,LM Funding America Inc
+024901,2023,12.984,LM Funding America Inc
+024901,2024,11.0,LM Funding America Inc
+024901,2025,8.845,LM Funding America Inc
+024912,2020,5.922,Acorn Energy Inc
+024912,2021,6.776,Acorn Energy Inc
+024912,2022,7.0,Acorn Energy Inc
+024912,2023,8.059,Acorn Energy Inc
+024912,2024,10.986,Acorn Energy Inc
+024912,2025,11.478,Acorn Energy Inc
+024925,2020,5527.1,Roper Technologies Inc
+024925,2021,5777.8,Roper Technologies Inc
+024925,2022,5371.8,Roper Technologies Inc
+024925,2023,6177.8,Roper Technologies Inc
+024925,2024,7039.2,Roper Technologies Inc
+024925,2025,7902.5,Roper Technologies Inc
+024975,2020,3685.281,Synopsys Inc
+024975,2021,4204.193,Synopsys Inc
+024975,2022,5081.542,Synopsys Inc
+024975,2023,5842.619,Synopsys Inc
+024975,2024,6127.436,Synopsys Inc
+024975,2025,7054.178,Synopsys Inc
+025166,2020,40.128,Kopin Corp
+025166,2021,45.666,Kopin Corp
+025166,2022,47.401,Kopin Corp
+025166,2023,40.394,Kopin Corp
+025166,2024,50.335,Kopin Corp
+025274,2020,428.867,Universal Display Corp
+025274,2021,553.525,Universal Display Corp
+025274,2022,616.619,Universal Display Corp
+025274,2023,576.429,Universal Display Corp
+025274,2024,647.684,Universal Display Corp
+025274,2025,657.711,Universal Display Corp
+025302,2020,6.619,Intrusion Inc
+025302,2021,7.277,Intrusion Inc
+025302,2022,7.529,Intrusion Inc
+025302,2023,5.611,Intrusion Inc
+025302,2024,5.771,Intrusion Inc
+025302,2025,7.095,Intrusion Inc
+025367,2020,371.194,Magic Software Enterprises Ltd
+025367,2021,480.325,Magic Software Enterprises Ltd
+025367,2022,566.792,Magic Software Enterprises Ltd
+025367,2023,535.052,Magic Software Enterprises Ltd
+025367,2024,552.52,Magic Software Enterprises Ltd
+025538,2020,7.761,Core AI Holdings Inc
+025538,2021,7.545,Core AI Holdings Inc
+025538,2022,6.482,Core AI Holdings Inc
+025538,2023,8.233,Core AI Holdings Inc
+025538,2024,11.63,Core AI Holdings Inc
+025539,2020,312.189,CPI Card Group Inc
+025539,2021,375.119,CPI Card Group Inc
+025539,2022,475.745,CPI Card Group Inc
+025539,2023,444.547,CPI Card Group Inc
+025539,2024,480.601,CPI Card Group Inc
+025539,2025,543.534,CPI Card Group Inc
+025676,2020,62.262,Perceptron Inc
+025747,2020,1445.695,Littelfuse Inc
+025747,2021,2079.928,Littelfuse Inc
+025747,2022,2513.897,Littelfuse Inc
+025747,2023,2362.657,Littelfuse Inc
+025747,2024,2190.768,Littelfuse Inc
+025747,2025,2386.294,Littelfuse Inc
+025749,2020,3950.6,ASGN Inc
+025749,2021,4009.5,ASGN Inc
+025749,2022,4581.1,ASGN Inc
+025749,2023,4450.6,ASGN Inc
+025749,2024,4099.7,ASGN Inc
+025749,2025,3980.4,ASGN Inc
+025756,2020,1684.179,Everpure Inc
+025756,2021,2180.848,Everpure Inc
+025756,2022,2753.434,Everpure Inc
+025756,2023,2830.621,Everpure Inc
+025756,2024,3168.164,Everpure Inc
+025756,2025,3662.843,Everpure Inc
+025773,2020,61.155,Creative Technology Ltd
+025773,2021,84.467,Creative Technology Ltd
+025773,2022,61.324,Creative Technology Ltd
+025773,2023,56.236,Creative Technology Ltd
+025773,2024,62.779,Creative Technology Ltd
+025773,2025,67.435,Creative Technology Ltd
+025915,2020,29.072,Qumu Corp
+025915,2021,24.022,Qumu Corp
+026156,2020,26982.0,Hewlett Packard Enterprise Co
+026156,2021,27784.0,Hewlett Packard Enterprise Co
+026156,2022,28496.0,Hewlett Packard Enterprise Co
+026156,2023,29135.0,Hewlett Packard Enterprise Co
+026156,2024,30127.0,Hewlett Packard Enterprise Co
+026156,2025,34296.0,Hewlett Packard Enterprise Co
+026368,2020,501.399,Mimecast Ltd
+026415,2020,1.415,Datasea Intelligent Technology Ltd
+026415,2021,0.175,Datasea Intelligent Technology Ltd
+026415,2022,17.081,Datasea Intelligent Technology Ltd
+026415,2023,7.045,Datasea Intelligent Technology Ltd
+026415,2024,23.976,Datasea Intelligent Technology Ltd
+026415,2025,71.617,Datasea Intelligent Technology Ltd
+026494,2020,1614.173,Atlassian Corporation
+026494,2021,2089.132,Atlassian Corporation
+026494,2022,2802.882,Atlassian Corporation
+026494,2023,3534.647,Atlassian Corporation
+026494,2024,4358.603,Atlassian Corporation
+026494,2025,5215.304,Atlassian Corporation
+026520,2020,7.864,Schmitt Industries Inc
+026520,2021,9.893,Schmitt Industries Inc
+026630,2020,3.368,REalloys Inc
+026630,2021,6.112,REalloys Inc
+026630,2022,4.959,REalloys Inc
+026630,2023,3.106,REalloys Inc
+026630,2024,2.567,REalloys Inc
+026630,2025,2.431,REalloys Inc
+026674,2020,42.19,AIOS Tech Inc
+026674,2021,160.2,AIOS Tech Inc
+026674,2022,234.174,AIOS Tech Inc
+026674,2023,386.671,AIOS Tech Inc
+026674,2024,340.22,AIOS Tech Inc
+026677,2020,561.034,SecureWorks Corp
+026677,2021,535.214,SecureWorks Corp
+026677,2022,463.475,SecureWorks Corp
+026677,2023,365.879,SecureWorks Corp
+026722,2020,583.451,Acacia Communications Inc
+026746,2020,1307.682,Nutanix Inc
+026746,2021,1394.364,Nutanix Inc
+026746,2022,1580.796,Nutanix Inc
+026746,2023,1862.895,Nutanix Inc
+026746,2024,2148.816,Nutanix Inc
+026746,2025,2537.927,Nutanix Inc
+027364,2020,1761.776,Twilio Inc
+027364,2021,2841.839,Twilio Inc
+027364,2022,3826.321,Twilio Inc
+027364,2023,4153.945,Twilio Inc
+027364,2024,4458.036,Twilio Inc
+027364,2025,5067.22,Twilio Inc
+027387,2020,138.923,Impinj Inc
+027387,2021,190.283,Impinj Inc
+027387,2022,257.8,Impinj Inc
+027387,2023,307.539,Impinj Inc
+027387,2024,366.087,Impinj Inc
+027387,2025,361.075,Impinj Inc
+027636,2020,287.471,Talend SA
+027703,2020,48.502,Airgain Inc
+027703,2021,64.273,Airgain Inc
+027703,2022,75.895,Airgain Inc
+027703,2023,56.04,Airgain Inc
+027703,2024,60.599,Airgain Inc
+027703,2025,51.779,Airgain Inc
+027735,2020,0.0,Balsam Technologies Corp
+027737,2020,0.062,Atomera Inc
+027737,2021,0.4,Atomera Inc
+027737,2022,0.382,Atomera Inc
+027737,2023,0.55,Atomera Inc
+027737,2024,0.135,Atomera Inc
+027737,2025,0.065,Atomera Inc
+027794,2020,903.9,Wolfspeed Inc
+027794,2021,525.6,Wolfspeed Inc
+027794,2022,746.2,Wolfspeed Inc
+027794,2023,921.9,Wolfspeed Inc
+027794,2024,807.2,Wolfspeed Inc
+027794,2025,757.6,Wolfspeed Inc
+027874,2020,271.141,Everbridge Inc
+027874,2021,368.433,Everbridge Inc
+027874,2022,431.892,Everbridge Inc
+027874,2023,448.788,Everbridge Inc
+027913,2020,0.184,Superconductor Technologies Inc
+027925,2020,360.466,Avid Technology Inc
+027925,2021,409.944,Avid Technology Inc
+027925,2022,417.413,Avid Technology Inc
+027928,2020,7649.0,Intuit Inc.
+027928,2021,9613.0,Intuit Inc.
+027928,2022,12726.0,Intuit Inc.
+027928,2023,14368.0,Intuit Inc.
+027928,2024,16285.0,Intuit Inc.
+027928,2025,18831.0,Intuit Inc.
+027965,2020,5438.4,Microchip Technology Inc
+027965,2021,6820.9,Microchip Technology Inc
+027965,2022,8438.7,Microchip Technology Inc
+027965,2023,7634.4,Microchip Technology Inc
+027965,2024,4388.3,Microchip Technology Inc
+028071,2020,300.64,DZS Inc
+028071,2021,350.206,DZS Inc
+028071,2022,375.691,DZS Inc
+028071,2023,244.541,DZS Inc
+028084,2020,541.643,Coupa Software Inc
+028084,2021,725.289,Coupa Software Inc
+028087,2020,42.031,Everspin Technologies Inc
+028087,2021,55.146,Everspin Technologies Inc
+028087,2022,59.985,Everspin Technologies Inc
+028087,2023,63.765,Everspin Technologies Inc
+028087,2024,50.402,Everspin Technologies Inc
+028087,2025,55.202,Everspin Technologies Inc
+028139,2020,6960.37,Sanmina Corp
+028139,2021,6756.643,Sanmina Corp
+028139,2022,7919.622,Sanmina Corp
+028139,2023,8935.048,Sanmina Corp
+028139,2024,7568.328,Sanmina Corp
+028139,2025,8128.382,Sanmina Corp
+028195,2020,27266.438,Jabil Inc
+028195,2021,29285.0,Jabil Inc
+028195,2022,33478.0,Jabil Inc
+028195,2023,34702.0,Jabil Inc
+028195,2024,28883.0,Jabil Inc
+028195,2025,29802.0,Jabil Inc
+028236,2020,165.885,Gilat Satellite Networks Ltd
+028236,2021,214.97,Gilat Satellite Networks Ltd
+028236,2022,239.84,Gilat Satellite Networks Ltd
+028236,2023,266.09,Gilat Satellite Networks Ltd
+028236,2024,305.448,Gilat Satellite Networks Ltd
+028236,2025,451.657,Gilat Satellite Networks Ltd
+028320,2020,18467.5,CDW Corp
+028320,2021,20820.8,CDW Corp
+028320,2022,23748.7,CDW Corp
+028320,2023,21376.0,CDW Corp
+028320,2024,20998.7,CDW Corp
+028320,2025,22424.1,CDW Corp
+028368,2020,48.128,GTY Technology Holdings Inc
+028368,2021,60.453,GTY Technology Holdings Inc
+028374,2020,6.888,Interlink Electronics
+028374,2021,7.478,Interlink Electronics
+028374,2022,7.493,Interlink Electronics
+028374,2023,13.94,Interlink Electronics
+028374,2024,11.679,Interlink Electronics
+028374,2025,11.89,Interlink Electronics
+028384,2020,382.903,Sapiens International Corp NV
+028384,2021,461.035,Sapiens International Corp NV
+028384,2022,474.736,Sapiens International Corp NV
+028384,2023,514.584,Sapiens International Corp NV
+028384,2024,542.379,Sapiens International Corp NV
+028385,2020,81.464,Senstar Technologies Corporation
+028385,2021,34.916,Senstar Technologies Corporation
+028385,2022,35.558,Senstar Technologies Corporation
+028385,2023,32.792,Senstar Technologies Corporation
+028385,2024,35.753,Senstar Technologies Corporation
+028401,2022,3.723,Jingbo Technology Inc
+028401,2023,1.584,Jingbo Technology Inc
+028401,2024,2.142,Jingbo Technology Inc
+028420,2020,351.737,BlackLine Inc
+028420,2021,425.706,BlackLine Inc
+028420,2022,522.938,BlackLine Inc
+028420,2023,589.996,BlackLine Inc
+028420,2024,653.336,BlackLine Inc
+028420,2025,700.427,BlackLine Inc
+028475,2020,873.274,GDS Holdings Limited
+028475,2021,1230.821,GDS Holdings Limited
+028475,2022,1352.095,GDS Holdings Limited
+028475,2023,1394.198,GDS Holdings Limited
+028475,2024,1414.132,GDS Holdings Limited
+028477,2020,1923.689,Teledyne FLIR LLC
+028916,2020,7.219,Infinite Group Inc
+028916,2021,7.224,Infinite Group Inc
+028916,2022,7.003,Infinite Group Inc
+028916,2023,6.954,Infinite Group Inc
+028916,2024,6.563,Infinite Group Inc
+028940,2020,1862.716,Belden Inc
+028940,2021,2408.1,Belden Inc
+028940,2022,2606.485,Belden Inc
+028940,2023,2512.084,Belden Inc
+028940,2024,2460.979,Belden Inc
+028940,2025,2715.194,Belden Inc
+029133,2020,2173.35,Itron Inc
+029133,2021,1981.572,Itron Inc
+029133,2022,1795.564,Itron Inc
+029133,2023,2173.633,Itron Inc
+029133,2024,2440.837,Itron Inc
+029133,2025,2367.194,Itron Inc
+029191,2020,914.236,Ichor Holdings Ltd
+029191,2021,1096.917,Ichor Holdings Ltd
+029191,2022,1280.069,Ichor Holdings Ltd
+029191,2023,811.12,Ichor Holdings Ltd
+029191,2024,849.04,Ichor Holdings Ltd
+029191,2025,947.652,Ichor Holdings Ltd
+029241,2020,1136.3,Viavi Solutions Inc
+029241,2021,1198.9,Viavi Solutions Inc
+029241,2022,1292.4,Viavi Solutions Inc
+029241,2023,1106.1,Viavi Solutions Inc
+029241,2024,1000.4,Viavi Solutions Inc
+029241,2025,1084.3,Viavi Solutions Inc
+029332,2020,0.0,ParkerVision Inc
+029332,2021,0.144,ParkerVision Inc
+029332,2022,0.925,ParkerVision Inc
+029332,2023,25.0,ParkerVision Inc
+029332,2024,0.0,ParkerVision Inc
+029332,2025,0.0,ParkerVision Inc
+029375,2020,393.246,Casa Systems Inc
+029375,2021,401.325,Casa Systems Inc
+029375,2022,286.537,Casa Systems Inc
+029531,2020,33.454,Alpine 4 Holdings Inc
+029531,2021,51.641,Alpine 4 Holdings Inc
+029531,2022,104.563,Alpine 4 Holdings Inc
+029698,2020,277.719,SigmaTron International Inc
+029698,2021,378.866,SigmaTron International Inc
+029698,2022,414.436,SigmaTron International Inc
+029698,2023,373.884,SigmaTron International Inc
+029705,2020,482.033,Daktronics Inc
+029705,2021,610.97,Daktronics Inc
+029705,2022,754.196,Daktronics Inc
+029705,2023,818.083,Daktronics Inc
+029705,2024,756.477,Daktronics Inc
+029722,2020,114.48,DSP Group Inc
+029772,2020,1.628,Video River Networks Inc
+029772,2021,7.478,Video River Networks Inc
+029772,2022,3.866,Video River Networks Inc
+029772,2023,0.665,Video River Networks Inc
+029772,2024,0.0,Video River Networks Inc
+029910,2020,3047.734,ScanSource Inc
+029910,2021,3150.806,ScanSource Inc
+029910,2022,3529.935,ScanSource Inc
+029910,2023,3787.721,ScanSource Inc
+029910,2024,3259.809,ScanSource Inc
+029910,2025,3040.81,ScanSource Inc
+030030,2020,107.398,Silicom Ltd
+030030,2021,128.46,Silicom Ltd
+030030,2022,150.582,Silicom Ltd
+030030,2023,124.131,Silicom Ltd
+030030,2024,58.114,Silicom Ltd
+030030,2025,61.926,Silicom Ltd
+030170,2020,24124.0,Flex Ltd
+030170,2021,26041.0,Flex Ltd
+030170,2022,30346.0,Flex Ltd
+030170,2023,26415.0,Flex Ltd
+030170,2024,25813.0,Flex Ltd
+030209,2020,13.558,Prophotonix Ltd
+030280,2020,9.234,Rekor Systems Inc
+030280,2021,14.294,Rekor Systems Inc
+030280,2022,19.92,Rekor Systems Inc
+030280,2023,34.933,Rekor Systems Inc
+030280,2024,46.028,Rekor Systems Inc
+030398,2020,14.769,FalconStor Software Inc
+030398,2021,14.18,FalconStor Software Inc
+030398,2022,10.052,FalconStor Software Inc
+030398,2023,11.599,FalconStor Software Inc
+030398,2024,10.424,FalconStor Software Inc
+030398,2025,10.381,FalconStor Software Inc
+030576,2020,506.51,ADTRAN Holdings Inc
+030576,2021,563.004,ADTRAN Holdings Inc
+030576,2022,1025.536,ADTRAN Holdings Inc
+030576,2023,1149.1,ADTRAN Holdings Inc
+030576,2024,922.72,ADTRAN Holdings Inc
+030576,2025,1083.807,ADTRAN Holdings Inc
+030622,2020,354.661,Yext Inc
+030622,2021,390.577,Yext Inc
+030622,2022,400.85,Yext Inc
+030622,2023,404.322,Yext Inc
+030622,2024,420.957,Yext Inc
+030622,2025,446.579,Yext Inc
+030655,2020,495.308,Alteryx Inc
+030655,2021,536.135,Alteryx Inc
+030655,2022,855.354,Alteryx Inc
+030655,2023,970.0,Alteryx Inc
+030714,2020,373.341,TESSCO Technologies Inc
+030714,2021,417.545,TESSCO Technologies Inc
+030714,2022,452.065,TESSCO Technologies Inc
+030736,2020,835.424,Okta Inc
+030736,2021,1300.201,Okta Inc
+030736,2022,1858.0,Okta Inc
+030736,2023,2263.0,Okta Inc
+030736,2024,2610.0,Okta Inc
+030736,2025,2919.0,Okta Inc
+030870,2020,598.717,Aspen Technology Inc
+030870,2021,709.376,Aspen Technology Inc
+030870,2022,405.296,Aspen Technology Inc
+030870,2023,1044.178,Aspen Technology Inc
+030870,2024,1127.482,Aspen Technology Inc
+031004,2020,869.258,Cloudera Inc
+031091,2020,57.708,Veritone Inc
+031091,2021,115.305,Veritone Inc
+031091,2022,149.728,Veritone Inc
+031091,2023,127.56,Veritone Inc
+031091,2024,92.637,Veritone Inc
+031142,2020,10219.0,STMicroelectronics NV
+031142,2021,12761.0,STMicroelectronics NV
+031142,2022,16128.0,STMicroelectronics NV
+031142,2023,17286.0,STMicroelectronics NV
+031142,2024,13269.0,STMicroelectronics NV
+031142,2025,11800.0,STMicroelectronics NV
+031236,2020,304.573,Appian Corp
+031236,2021,369.259,Appian Corp
+031236,2022,467.991,Appian Corp
+031236,2023,545.363,Appian Corp
+031236,2024,617.022,Appian Corp
+031236,2025,726.937,Appian Corp
+031255,2020,1265.684,Tower Semiconductor Ltd
+031255,2021,1508.166,Tower Semiconductor Ltd
+031255,2022,1677.614,Tower Semiconductor Ltd
+031255,2023,1422.68,Tower Semiconductor Ltd
+031255,2024,1436.122,Tower Semiconductor Ltd
+031255,2025,1566.104,Tower Semiconductor Ltd
+031453,2020,8340.579,Insight Enterprises Inc
+031453,2021,9436.113,Insight Enterprises Inc
+031453,2022,10431.191,Insight Enterprises Inc
+031453,2023,9175.84,Insight Enterprises Inc
+031453,2024,8701.698,Insight Enterprises Inc
+031453,2025,8247.18,Insight Enterprises Inc
+031457,2020,45.734,SoundThinking Inc
+031457,2021,58.155,SoundThinking Inc
+031457,2022,81.003,SoundThinking Inc
+031457,2023,92.717,SoundThinking Inc
+031457,2024,102.031,SoundThinking Inc
+031457,2025,104.127,SoundThinking Inc
+031494,2020,1122.377,Penguin Solutions Inc
+031494,2021,1501.142,Penguin Solutions Inc
+031494,2022,1819.352,Penguin Solutions Inc
+031494,2023,1441.25,Penguin Solutions Inc
+031494,2024,1170.796,Penguin Solutions Inc
+031494,2025,1368.794,Penguin Solutions Inc
+031564,2020,1294.322,ACI Worldwide Inc
+031564,2021,1370.598,ACI Worldwide Inc
+031564,2022,1421.901,ACI Worldwide Inc
+031564,2023,1452.579,ACI Worldwide Inc
+031564,2024,1594.288,ACI Worldwide Inc
+031564,2025,1759.782,ACI Worldwide Inc
+031607,2020,1286.671,National Instruments Corporation
+031607,2021,1469.681,National Instruments Corporation
+031607,2022,1656.564,National Instruments Corporation
+031738,2020,6.696,Taitron Components Inc
+031738,2021,8.643,Taitron Components Inc
+031738,2022,8.423,Taitron Components Inc
+031738,2023,6.108,Taitron Components Inc
+031738,2024,4.141,Taitron Components Inc
+031775,2020,13.173,Autoscope Technologies Corp
+031775,2021,13.242,Autoscope Technologies Corp
+031775,2022,12.405,Autoscope Technologies Corp
+031775,2023,13.133,Autoscope Technologies Corp
+031775,2024,13.629,Autoscope Technologies Corp
+031775,2025,9.014,Autoscope Technologies Corp
+031843,2020,378.831,Harmonic Inc
+031843,2021,507.149,Harmonic Inc
+031843,2022,624.957,Harmonic Inc
+031843,2023,607.907,Harmonic Inc
+031843,2024,678.722,Harmonic Inc
+031843,2025,360.523,Harmonic Inc
+032215,2020,12.378,Datametrex AI Ltd
+032215,2021,49.029,Datametrex AI Ltd
+032215,2022,30.489,Datametrex AI Ltd
+032215,2023,9.755,Datametrex AI Ltd
+032215,2024,6.488,Datametrex AI Ltd
+032228,2020,87.614,American Virtual Cloud Technologies Inc
+032228,2021,20.049,American Virtual Cloud Technologies Inc
+032228,2022,16.811,American Virtual Cloud Technologies Inc
+032345,2020,26.751,Borqs Technologies Inc
+032345,2021,29.561,Borqs Technologies Inc
+032345,2022,52.537,Borqs Technologies Inc
+032345,2023,32.046,Borqs Technologies Inc
+032345,2024,27.713,Borqs Technologies Inc
+032469,2020,511.547,Switch Inc
+032469,2021,592.045,Switch Inc
+032526,2020,590.38,MongoDB Inc
+032526,2021,873.782,MongoDB Inc
+032526,2022,1284.04,MongoDB Inc
+032526,2023,1683.011,MongoDB Inc
+032526,2024,2006.443,MongoDB Inc
+032526,2025,2463.797,MongoDB Inc
+032530,2020,472.347,Altair Engineering Inc
+032530,2021,535.661,Altair Engineering Inc
+032530,2022,575.023,Altair Engineering Inc
+032530,2023,618.261,Altair Engineering Inc
+032530,2024,671.577,Altair Engineering Inc
+032638,2020,156.624,ACM Research Inc
+032638,2021,259.751,ACM Research Inc
+032638,2022,388.832,ACM Research Inc
+032638,2023,557.723,ACM Research Inc
+032638,2024,782.118,ACM Research Inc
+032638,2025,901.309,ACM Research Inc
+032641,2020,365.254,SailPoint Technologies Holdings Inc
+032641,2021,438.954,SailPoint Technologies Holdings Inc
+032851,2020,51.895,One Stop Systems Inc
+032851,2021,61.982,One Stop Systems Inc
+032851,2022,72.421,One Stop Systems Inc
+032851,2023,60.897,One Stop Systems Inc
+032851,2024,54.694,One Stop Systems Inc
+032851,2025,32.216,One Stop Systems Inc
+032855,2020,2873.0,Avaya Holdings Corp
+032855,2021,2973.0,Avaya Holdings Corp
+032878,2020,21.065,Bit Digital Inc
+032878,2021,96.079,Bit Digital Inc
+032878,2022,32.297,Bit Digital Inc
+032878,2023,44.916,Bit Digital Inc
+032878,2024,107.5,Bit Digital Inc
+032878,2025,112.064,Bit Digital Inc
+032936,2020,978.936,Zepp Health Corp
+032936,2021,983.896,Zepp Health Corp
+032936,2022,600.661,Zepp Health Corp
+032936,2023,351.916,Zepp Health Corp
+032936,2024,182.603,Zepp Health Corp
+032936,2025,258.897,Zepp Health Corp
+033037,2020,431.269,Zscaler Inc
+033037,2021,673.1,Zscaler Inc
+033037,2022,1090.946,Zscaler Inc
+033037,2023,1616.952,Zscaler Inc
+033037,2024,2167.771,Zscaler Inc
+033037,2025,2673.115,Zscaler Inc
+033073,2020,2.164,Ondas Inc
+033073,2021,2.907,Ondas Inc
+033073,2022,2.126,Ondas Inc
+033073,2023,15.691,Ondas Inc
+033073,2024,7.193,Ondas Inc
+033073,2025,50.731,Ondas Inc
+033152,2020,1913.9,Dropbox Inc
+033152,2021,2157.9,Dropbox Inc
+033152,2022,2324.9,Dropbox Inc
+033152,2023,2501.6,Dropbox Inc
+033152,2024,2548.2,Dropbox Inc
+033152,2025,2521.0,Dropbox Inc
+033195,2020,40.71,Hut 8 Corp
+033195,2021,173.774,Hut 8 Corp
+033195,2022,150.682,Hut 8 Corp
+033195,2023,,Hut 8 Corp
+033195,2024,148.885,Hut 8 Corp
+033195,2025,235.118,Hut 8 Corp
+033232,2020,305.42,Zuora Inc
+033232,2021,346.738,Zuora Inc
+033232,2022,396.087,Zuora Inc
+033232,2023,431.661,Zuora Inc
+033233,2020,34.586,Red Violet Inc
+033233,2021,44.022,Red Violet Inc
+033233,2022,53.318,Red Violet Inc
+033233,2023,60.204,Red Violet Inc
+033233,2024,75.189,Red Violet Inc
+033233,2025,90.252,Red Violet Inc
+033275,2020,385.513,Smartsheet Inc
+033275,2021,550.832,Smartsheet Inc
+033275,2022,766.915,Smartsheet Inc
+033275,2023,958.338,Smartsheet Inc
+033301,2020,1453.047,DocuSign Inc.
+033301,2021,2107.213,DocuSign Inc.
+033301,2022,2515.915,DocuSign Inc.
+033301,2023,2761.882,DocuSign Inc.
+033301,2024,2976.739,DocuSign Inc.
+033301,2025,3219.5,DocuSign Inc.
+033420,2020,222.789,nLIGHT Inc
+033420,2021,270.146,nLIGHT Inc
+033420,2022,242.058,nLIGHT Inc
+033420,2023,209.921,nLIGHT Inc
+033420,2024,198.548,nLIGHT Inc
+033420,2025,261.33,nLIGHT Inc
+033446,2020,391.865,Pluralsight Inc
+033531,2020,508.6,GreenSky Inc
+033531,2021,504.0,GreenSky Inc
+033532,2020,89.416,CLPS Inc
+033532,2021,126.062,CLPS Inc
+033532,2022,152.022,CLPS Inc
+033532,2023,150.357,CLPS Inc
+033532,2024,142.813,CLPS Inc
+033532,2025,164.481,CLPS Inc
+033550,2020,3.944,Wrap Technologies Inc
+033550,2021,7.729,Wrap Technologies Inc
+033550,2022,8.049,Wrap Technologies Inc
+033550,2023,6.133,Wrap Technologies Inc
+033550,2024,4.507,Wrap Technologies Inc
+033550,2025,4.672,Wrap Technologies Inc
+033603,2020,210.18,Domo Inc
+033603,2021,257.961,Domo Inc
+033603,2022,308.645,Domo Inc
+033603,2023,318.989,Domo Inc
+033603,2024,317.044,Domo Inc
+033603,2025,318.857,Domo Inc
+033610,2020,500.569,Avalara Inc
+033610,2021,698.977,Avalara Inc
+033638,2020,150.134,i3 Verticals Inc
+033638,2021,224.124,i3 Verticals Inc
+033638,2022,317.862,i3 Verticals Inc
+033638,2023,370.239,i3 Verticals Inc
+033638,2024,229.923,i3 Verticals Inc
+033638,2025,213.158,i3 Verticals Inc
+033725,2020,2.404,Datavault AI Inc
+033725,2021,6.541,Datavault AI Inc
+033725,2022,3.365,Datavault AI Inc
+033725,2023,2.083,Datavault AI Inc
+033725,2024,2.674,Datavault AI Inc
+033725,2025,39.089,Datavault AI Inc
+033759,2020,440.221,Tenable Holdings Inc
+033759,2021,541.13,Tenable Holdings Inc
+033759,2022,683.191,Tenable Holdings Inc
+033759,2023,798.71,Tenable Holdings Inc
+033759,2024,900.021,Tenable Holdings Inc
+033759,2025,999.405,Tenable Holdings Inc
+033766,2020,357.154,Arlo Technologies Inc
+033766,2021,435.137,Arlo Technologies Inc
+033766,2022,490.414,Arlo Technologies Inc
+033766,2023,491.176,Arlo Technologies Inc
+033766,2024,510.886,Arlo Technologies Inc
+033766,2025,529.297,Arlo Technologies Inc
+033850,2020,165.056,Opera Limited
+033850,2021,250.991,Opera Limited
+033850,2022,331.037,Opera Limited
+033850,2023,396.827,Opera Limited
+033850,2024,480.648,Opera Limited
+033850,2025,614.825,Opera Limited
+033852,2020,71.763,Aurora Mobile Ltd
+033852,2021,56.25,Aurora Mobile Ltd
+033852,2022,47.675,Aurora Mobile Ltd
+033852,2023,40.932,Aurora Mobile Ltd
+033852,2024,43.316,Aurora Mobile Ltd
+033858,2020,0.0,DarkPulse Inc
+033858,2021,7.783,DarkPulse Inc
+033858,2022,9.1,DarkPulse Inc
+033858,2023,2.021,DarkPulse Inc
+033858,2024,0.127,DarkPulse Inc
+033913,2020,434.545,Endava plc
+033913,2021,616.381,Endava plc
+033913,2022,795.595,Endava plc
+033913,2023,1009.947,Endava plc
+033913,2024,936.167,Endava plc
+033913,2025,1058.067,Endava plc
+034002,2021,96.678,Quisitive Technology Solutions Inc
+034002,2022,187.262,Quisitive Technology Solutions Inc
+034002,2023,121.224,Quisitive Technology Solutions Inc
+034038,2020,110.552,Bit Origin Limited
+034038,2021,80.498,Bit Origin Limited
+034038,2022,0.192,Bit Origin Limited
+034038,2023,6.261,Bit Origin Limited
+034038,2024,2.888,Bit Origin Limited
+034038,2025,0.039,Bit Origin Limited
+034045,2021,,Kinetics Group Inc
+034045,2022,0.0,Kinetics Group Inc
+034045,2023,0.0,Kinetics Group Inc
+034045,2024,0.0,Kinetics Group Inc
+034064,2020,11.526,Sysorex Inc -Old
+034106,2020,16.831,Martello Technologies Group Inc
+034106,2021,17.54,Martello Technologies Group Inc
+034106,2022,16.099,Martello Technologies Group Inc
+034106,2023,15.774,Martello Technologies Group Inc
+034106,2024,14.53,Martello Technologies Group Inc
+034140,2020,373.51,Momentive Global Inc
+034140,2021,443.786,Momentive Global Inc
+034140,2022,480.917,Momentive Global Inc
+034186,2020,441.505,CooTek (Cayman) Inc
+034186,2021,272.146,CooTek (Cayman) Inc
+034186,2022,83.927,CooTek (Cayman) Inc
+034186,2023,31.976,CooTek (Cayman) Inc
+034186,2024,30.319,CooTek (Cayman) Inc
+034236,2020,447.755,Anaplan Inc
+034236,2021,592.176,Anaplan Inc
+034243,2020,608.489,Elastic N.V.
+034243,2021,862.374,Elastic N.V.
+034243,2022,1068.989,Elastic N.V.
+034243,2023,1267.321,Elastic N.V.
+034243,2024,1483.296,Elastic N.V.
+034290,2020,3.075,Noble Vici Group Inc
+034326,2020,763.522,Qualtrics International Inc
+034326,2021,1075.664,Qualtrics International Inc
+034326,2022,1458.628,Qualtrics International Inc
+034376,2020,287.643,Alithya Group Inc
+034376,2021,437.885,Alithya Group Inc
+034376,2022,522.701,Alithya Group Inc
+034376,2023,491.125,Alithya Group Inc
+034376,2024,473.481,Alithya Group Inc
+034482,2020,5.805,Hitek Global Inc
+034482,2021,6.461,Hitek Global Inc
+034482,2022,6.429,Hitek Global Inc
+034482,2023,4.564,Hitek Global Inc
+034482,2024,2.905,Hitek Global Inc
+034580,2020,0.742,MMtec Inc
+034580,2021,0.653,MMtec Inc
+034580,2022,1.099,MMtec Inc
+034580,2023,0.87,MMtec Inc
+034580,2024,1.868,MMtec Inc
+034584,2020,10.001,Phunware Inc
+034584,2021,10.643,Phunware Inc
+034584,2022,21.794,Phunware Inc
+034584,2023,4.832,Phunware Inc
+034584,2024,3.189,Phunware Inc
+034584,2025,2.553,Phunware Inc
+034610,2020,26.664,X3 Holdings Co Ltd
+034610,2021,32.093,X3 Holdings Co Ltd
+034610,2022,10.482,X3 Holdings Co Ltd
+034610,2023,16.825,X3 Holdings Co Ltd
+034610,2024,11.611,X3 Holdings Co Ltd
+034693,2020,,Tingo Inc
+034693,2021,865.838,Tingo Inc
+034693,2022,989.216,Tingo Inc
+034910,2020,221.728,Lightspeed Commerce Inc
+034910,2021,548.372,Lightspeed Commerce Inc
+034910,2022,730.506,Lightspeed Commerce Inc
+034910,2023,909.27,Lightspeed Commerce Inc
+034910,2024,1076.826,Lightspeed Commerce Inc
+034955,2020,213.556,PagerDuty Inc
+034955,2021,281.396,PagerDuty Inc
+034955,2022,370.793,PagerDuty Inc
+034955,2023,430.699,PagerDuty Inc
+034955,2024,467.499,PagerDuty Inc
+034955,2025,492.546,PagerDuty Inc
+035005,2020,2651.368,Zoom Communications Inc
+035005,2021,4099.864,Zoom Communications Inc
+035005,2022,4392.96,Zoom Communications Inc
+035005,2023,4527.224,Zoom Communications Inc
+035005,2024,4665.433,Zoom Communications Inc
+035005,2025,4868.769,Zoom Communications Inc
+035038,2020,100.834,Tufin Software Technologies Ltd
+035038,2021,110.949,Tufin Software Technologies Ltd
+035048,2020,948.799,Converge Technology Solutions Corp
+035048,2021,1527.841,Converge Technology Solutions Corp
+035048,2022,2164.647,Converge Technology Solutions Corp
+035048,2023,2705.207,Converge Technology Solutions Corp
+035048,2024,2592.081,Converge Technology Solutions Corp
+035104,2020,63.992,DNA X Inc
+035104,2021,54.57,DNA X Inc
+035104,2022,69.828,DNA X Inc
+035104,2023,93.632,DNA X Inc
+035104,2024,58.298,DNA X Inc
+035120,2020,290.874,Fastly Inc
+035120,2021,354.33,Fastly Inc
+035120,2022,432.725,Fastly Inc
+035120,2023,505.988,Fastly Inc
+035120,2024,543.676,Fastly Inc
+035120,2025,624.018,Fastly Inc
+035127,2022,27.859,Creative Global Technology Holdings Ltd
+035127,2023,50.279,Creative Global Technology Holdings Ltd
+035127,2024,35.612,Creative Global Technology Holdings Ltd
+035127,2025,21.15,Creative Global Technology Holdings Ltd
+035133,2020,902.61,Slack Technologies Inc
+035156,2020,,Avai Bio Inc
+035156,2021,0.921,Avai Bio Inc
+035156,2022,0.276,Avai Bio Inc
+035156,2023,0.0,Avai Bio Inc
+035156,2024,0.0,Avai Bio Inc
+035182,2020,874.438,CrowdStrike Holdings Inc
+035182,2021,1451.594,CrowdStrike Holdings Inc
+035182,2022,2241.236,CrowdStrike Holdings Inc
+035182,2023,3055.555,CrowdStrike Holdings Inc
+035182,2024,3953.624,CrowdStrike Holdings Inc
+035182,2025,4812.005,CrowdStrike Holdings Inc
+035259,2021,,Adcore Inc
+035259,2022,19.693,Adcore Inc
+035259,2023,23.134,Adcore Inc
+035259,2024,23.703,Adcore Inc
+035259,2025,23.829,Adcore Inc
+035354,2020,12.573,American Bitcoin Corp
+035354,2021,20.685,American Bitcoin Corp
+035354,2022,13.645,American Bitcoin Corp
+035354,2023,6.836,American Bitcoin Corp
+035354,2024,20.539,American Bitcoin Corp
+035354,2025,185.164,American Bitcoin Corp
+035373,2020,278.459,Cambium Networks Corp
+035373,2021,335.854,Cambium Networks Corp
+035373,2022,296.899,Cambium Networks Corp
+035373,2023,220.195,Cambium Networks Corp
+035374,2020,477.221,Medallia Inc
+035392,2020,,Leader Capital Holdings Corp
+035392,2021,0.095,Leader Capital Holdings Corp
+035392,2022,0.339,Leader Capital Holdings Corp
+035447,2020,703.509,Dynatrace Inc
+035447,2021,929.445,Dynatrace Inc
+035447,2022,1158.53,Dynatrace Inc
+035447,2023,1430.53,Dynatrace Inc
+035447,2024,1698.683,Dynatrace Inc
+035604,2020,431.059,Cloudflare Inc
+035604,2021,656.426,Cloudflare Inc
+035604,2022,975.241,Cloudflare Inc
+035604,2023,1296.745,Cloudflare Inc
+035604,2024,1669.626,Cloudflare Inc
+035604,2025,2167.937,Cloudflare Inc
+035614,2020,329.646,Cerence Inc
+035614,2021,387.182,Cerence Inc
+035614,2022,327.891,Cerence Inc
+035614,2023,294.475,Cerence Inc
+035614,2024,331.504,Cerence Inc
+035614,2025,251.781,Cerence Inc
+035617,2020,243.589,Ping Identity Holding Corp
+035617,2021,299.449,Ping Identity Holding Corp
+035620,2020,603.466,Datadog Inc
+035620,2021,1028.784,Datadog Inc
+035620,2022,1675.1,Datadog Inc
+035620,2023,2128.359,Datadog Inc
+035620,2024,2684.275,Datadog Inc
+035620,2025,3427.158,Datadog Inc
+035743,2020,62.917,Docebo Inc
+035743,2021,104.242,Docebo Inc
+035743,2022,142.912,Docebo Inc
+035743,2023,180.839,Docebo Inc
+035743,2024,216.931,Docebo Inc
+035743,2025,242.687,Docebo Inc
+035794,2020,116.156,SiTime Corp
+035794,2021,218.808,SiTime Corp
+035794,2022,283.605,SiTime Corp
+035794,2023,143.993,SiTime Corp
+035794,2024,202.697,SiTime Corp
+035794,2025,326.66,SiTime Corp
+035837,2020,68.123,Canaan Inc
+035837,2021,785.01,Canaan Inc
+035837,2022,634.885,Canaan Inc
+035837,2023,211.477,Canaan Inc
+035837,2024,269.324,Canaan Inc
+035837,2025,529.735,Canaan Inc
+035858,2020,504.016,OneConnect Financial Technology Co Ltd
+035858,2021,650.518,OneConnect Financial Technology Co Ltd
+035858,2022,647.222,OneConnect Financial Technology Co Ltd
+035858,2023,517.23,OneConnect Financial Technology Co Ltd
+035858,2024,307.992,OneConnect Financial Technology Co Ltd
+035868,2020,157.6,BILL Holdings Inc
+035868,2021,238.265,BILL Holdings Inc
+035868,2022,641.959,BILL Holdings Inc
+035868,2023,1058.468,BILL Holdings Inc
+035868,2024,1290.172,BILL Holdings Inc
+035868,2025,1462.57,BILL Holdings Inc
+035909,2020,147.368,Kaleyra Inc
+035909,2021,267.739,Kaleyra Inc
+035909,2022,339.168,Kaleyra Inc
+035922,2020,132.949,Sprout Social Inc
+035922,2021,187.859,Sprout Social Inc
+035922,2022,253.828,Sprout Social Inc
+035922,2023,333.643,Sprout Social Inc
+035922,2024,405.908,Sprout Social Inc
+035922,2025,457.547,Sprout Social Inc
+036003,2020,15.333,TaoWeave Inc
+036003,2021,7.739,TaoWeave Inc
+036003,2022,5.476,TaoWeave Inc
+036003,2023,3.81,TaoWeave Inc
+036003,2024,2.378,TaoWeave Inc
+036003,2025,2.437,TaoWeave Inc
+036089,2020,0.111,Auddia Inc
+036089,2021,0.0,Auddia Inc
+036089,2022,0.0,Auddia Inc
+036089,2023,0.0,Auddia Inc
+036089,2024,0.0,Auddia Inc
+036094,2020,0.0,Quanergy Systems Inc
+036094,2021,0.0,Quanergy Systems Inc
+036203,2020,2704.6,Vontier Corp
+036203,2021,2990.7,Vontier Corp
+036203,2022,3184.4,Vontier Corp
+036203,2023,3095.2,Vontier Corp
+036203,2024,2979.0,Vontier Corp
+036203,2025,3075.6,Vontier Corp
+036218,2021,24.952,Digi Power X Inc
+036218,2022,24.19,Digi Power X Inc
+036218,2023,26.113,Digi Power X Inc
+036218,2024,37.003,Digi Power X Inc
+036218,2025,34.188,Digi Power X Inc
+036273,2020,400.291,Procore Technologies Inc
+036273,2021,514.821,Procore Technologies Inc
+036273,2022,720.203,Procore Technologies Inc
+036273,2023,950.01,Procore Technologies Inc
+036273,2024,1151.708,Procore Technologies Inc
+036273,2025,1322.509,Procore Technologies Inc
+036293,2020,111.283,Grid Dynamics Holdings Inc
+036293,2021,211.28,Grid Dynamics Holdings Inc
+036293,2022,310.482,Grid Dynamics Holdings Inc
+036293,2023,312.91,Grid Dynamics Holdings Inc
+036293,2024,350.571,Grid Dynamics Holdings Inc
+036293,2025,411.827,Grid Dynamics Holdings Inc
+036299,2020,0.0,E2open Parent Holdings Inc
+036299,2021,425.561,E2open Parent Holdings Inc
+036299,2022,652.215,E2open Parent Holdings Inc
+036299,2023,634.554,E2open Parent Holdings Inc
+036299,2024,607.688,E2open Parent Holdings Inc
+036335,2020,7.241,CISO Global Inc
+036335,2021,15.143,CISO Global Inc
+036335,2022,46.55,CISO Global Inc
+036335,2023,57.059,CISO Global Inc
+036335,2024,30.751,CISO Global Inc
+036336,2020,37.678,UTime Ltd
+036336,2021,43.456,UTime Ltd
+036336,2022,29.193,UTime Ltd
+036336,2023,23.843,UTime Ltd
+036336,2024,34.589,UTime Ltd
+036348,2020,136.498,BTC Digital Ltd
+036348,2021,114.759,BTC Digital Ltd
+036348,2022,11.83,BTC Digital Ltd
+036348,2023,9.073,BTC Digital Ltd
+036348,2024,11.675,BTC Digital Ltd
+036383,2020,6.272,Next Technology Holding Inc
+036383,2021,14.381,Next Technology Holding Inc
+036383,2022,11.671,Next Technology Holding Inc
+036383,2023,2.633,Next Technology Holding Inc
+036383,2024,1.8,Next Technology Holding Inc
+036383,2025,11.615,Next Technology Holding Inc
+036395,2020,1000.84,Kingsoft Cloud Holdings Limited
+036395,2021,1426.354,Kingsoft Cloud Holdings Limited
+036395,2022,1186.009,Kingsoft Cloud Holdings Limited
+036395,2023,993.906,Kingsoft Cloud Holdings Limited
+036395,2024,1066.576,Kingsoft Cloud Holdings Limited
+036416,2020,,Ebang International Holdings Inc
+036416,2021,,Ebang International Holdings Inc
+036416,2022,6.528,Ebang International Holdings Inc
+036416,2023,4.855,Ebang International Holdings Inc
+036416,2024,5.868,Ebang International Holdings Inc
+036430,2020,,World Health Energy Holdings Inc
+036430,2021,0.14,World Health Energy Holdings Inc
+036430,2022,0.091,World Health Energy Holdings Inc
+036430,2023,0.208,World Health Energy Holdings Inc
+036430,2024,0.166,World Health Energy Holdings Inc
+036570,2020,133.564,Agora Inc
+036570,2021,167.982,Agora Inc
+036570,2022,160.67,Agora Inc
+036570,2023,141.538,Agora Inc
+036570,2024,133.256,Agora Inc
+036570,2025,141.057,Agora Inc
+036641,2020,2707.1,Rackspace Technology Inc
+036641,2021,3009.5,Rackspace Technology Inc
+036641,2022,3122.3,Rackspace Technology Inc
+036641,2023,2957.1,Rackspace Technology Inc
+036641,2024,2737.1,Rackspace Technology Inc
+036641,2025,2685.7,Rackspace Technology Inc
+036649,2020,0.0,SOBR Safe Inc
+036649,2021,0.0,SOBR Safe Inc
+036649,2022,0.035,SOBR Safe Inc
+036649,2023,0.157,SOBR Safe Inc
+036649,2024,0.213,SOBR Safe Inc
+036711,2020,204.293,nCino Inc
+036711,2021,273.865,nCino Inc
+036711,2022,408.315,nCino Inc
+036711,2023,476.543,nCino Inc
+036711,2024,540.657,nCino Inc
+036711,2025,594.781,nCino Inc
+036716,2020,0.0,Tempo Automation Holdings Inc
+036716,2021,0.0,Tempo Automation Holdings Inc
+036716,2022,12.049,Tempo Automation Holdings Inc
+036717,2020,269.451,Jamf Holding Corp
+036717,2021,366.388,Jamf Holding Corp
+036717,2022,478.776,Jamf Holding Corp
+036717,2023,560.571,Jamf Holding Corp
+036717,2024,627.399,Jamf Holding Corp
+036737,2021,208.945,Dye & Durham Ltd
+036737,2022,474.808,Dye & Durham Ltd
+036737,2023,451.105,Dye & Durham Ltd
+036737,2024,457.697,Dye & Durham Ltd
+036737,2025,440.73,Dye & Durham Ltd
+036754,2020,152.368,COMMERCE.COM INC
+036754,2021,219.855,COMMERCE.COM INC
+036754,2022,279.075,COMMERCE.COM INC
+036754,2023,309.394,COMMERCE.COM INC
+036754,2024,332.927,COMMERCE.COM INC
+036754,2025,342.349,COMMERCE.COM INC
+036788,2020,211.672,Duck Creek Technologies Inc
+036788,2021,260.35,Duck Creek Technologies Inc
+036788,2022,302.917,Duck Creek Technologies Inc
+036799,2020,11.371,Transphorm Inc
+036799,2021,24.05,Transphorm Inc
+036799,2022,16.511,Transphorm Inc
+036853,2020,844.836,Maxeon Solar Technologies Ltd
+036853,2021,783.279,Maxeon Solar Technologies Ltd
+036853,2022,1060.113,Maxeon Solar Technologies Ltd
+036853,2023,1123.11,Maxeon Solar Technologies Ltd
+036853,2024,509.048,Maxeon Solar Technologies Ltd
+036896,2020,202.637,Sumo Logic Inc
+036896,2021,242.125,Sumo Logic Inc
+036896,2022,300.668,Sumo Logic Inc
+036898,2020,772.445,Unity Software Inc
+036898,2021,1110.526,Unity Software Inc
+036898,2022,1391.024,Unity Software Inc
+036898,2023,2187.317,Unity Software Inc
+036898,2024,1813.255,Unity Software Inc
+036898,2025,1849.648,Unity Software Inc
+036910,2020,1092.673,Palantir Technologies Inc
+036910,2021,1541.889,Palantir Technologies Inc
+036910,2022,1905.871,Palantir Technologies Inc
+036910,2023,2225.012,Palantir Technologies Inc
+036910,2024,2865.507,Palantir Technologies Inc
+036910,2025,4475.446,Palantir Technologies Inc
+036945,2020,150.827,JFrog Ltd
+036945,2021,206.683,JFrog Ltd
+036945,2022,280.04,JFrog Ltd
+036945,2023,349.886,JFrog Ltd
+036945,2024,428.488,JFrog Ltd
+036945,2025,531.84,JFrog Ltd
+036964,2020,227.004,Asana Inc
+036964,2021,378.437,Asana Inc
+036964,2022,547.212,Asana Inc
+036964,2023,652.504,Asana Inc
+036964,2024,723.876,Asana Inc
+036964,2025,790.806,Asana Inc
+037032,2020,183.93,VIA optronics Holding AG
+037032,2021,205.631,VIA optronics Holding AG
+037032,2022,234.595,VIA optronics Holding AG
+037076,2020,801.544,Bentley System Inc
+037076,2021,965.046,Bentley System Inc
+037076,2022,1099.082,Bentley System Inc
+037076,2023,1228.413,Bentley System Inc
+037076,2024,1353.095,Bentley System Inc
+037076,2025,1501.779,Bentley System Inc
+037090,2020,1702.367,Corsair Gaming Inc
+037090,2021,1904.06,Corsair Gaming Inc
+037090,2022,1375.098,Corsair Gaming Inc
+037090,2023,1459.875,Corsair Gaming Inc
+037090,2024,1316.379,Corsair Gaming Inc
+037090,2025,1472.48,Corsair Gaming Inc
+037101,2020,278.626,Chindata Group Holdings Ltd
+037101,2021,449.006,Chindata Group Holdings Ltd
+037101,2022,659.932,Chindata Group Holdings Ltd
+037106,2020,95.362,Velodyne Lidar Inc
+037106,2021,61.924,Velodyne Lidar Inc
+037136,2020,,D-Wave Quantum Inc
+037136,2021,,D-Wave Quantum Inc
+037136,2022,7.173,D-Wave Quantum Inc
+037136,2023,8.758,D-Wave Quantum Inc
+037136,2024,8.827,D-Wave Quantum Inc
+037136,2025,24.587,D-Wave Quantum Inc
+037153,2020,,GPGI Inc
+037153,2021,267.948,GPGI Inc
+037153,2022,378.476,GPGI Inc
+037153,2023,390.629,GPGI Inc
+037153,2024,420.571,GPGI Inc
+037153,2025,59.824,GPGI Inc
+037180,2020,2906.0,McAfee Corp
+037180,2021,1920.0,McAfee Corp
+037224,2020,,LifeSpeak Inc
+037224,2021,23.267,LifeSpeak Inc
+037224,2022,47.37,LifeSpeak Inc
+037224,2023,52.407,LifeSpeak Inc
+037224,2024,48.403,LifeSpeak Inc
+037231,2020,206.048,Paya Holdings Inc
+037231,2021,249.356,Paya Holdings Inc
+037231,2022,282.743,Paya Holdings Inc
+037254,2020,518.785,Datto Holding Corp
+037254,2021,618.657,Datto Holding Corp
+037309,2020,591.207,Allegro MicroSystems Inc
+037309,2021,768.674,Allegro MicroSystems Inc
+037309,2022,973.653,Allegro MicroSystems Inc
+037309,2023,1049.367,Allegro MicroSystems Inc
+037309,2024,725.006,Allegro MicroSystems Inc
+037356,2020,498.7,Cvent Holding Corp
+037356,2021,518.811,Cvent Holding Corp
+037356,2022,630.558,Cvent Holding Corp
+037366,2020,55.474,Triterras Inc
+037366,2021,56.68,Triterras Inc
+037378,2021,0.0,GoLogiq Inc
+037378,2022,5.454,GoLogiq Inc
+037386,2020,0.0,Tao Synergies Inc
+037386,2021,0.0,Tao Synergies Inc
+037386,2022,0.0,Tao Synergies Inc
+037386,2023,0.0,Tao Synergies Inc
+037386,2024,0.0,Tao Synergies Inc
+037416,2021,,ZeroFox Holdings Inc
+037416,2022,117.623,ZeroFox Holdings Inc
+037416,2023,233.3,ZeroFox Holdings Inc
+037459,2022,,Presto Automation Inc
+037459,2023,26.135,Presto Automation Inc
+037480,2020,26.894,908 Devices Inc
+037480,2021,42.206,908 Devices Inc
+037480,2022,46.852,908 Devices Inc
+037480,2023,50.229,908 Devices Inc
+037480,2024,59.631,908 Devices Inc
+037480,2025,56.197,908 Devices Inc
+037482,2021,,FOXO Technologies Inc
+037482,2022,0.511,FOXO Technologies Inc
+037482,2023,0.145,FOXO Technologies Inc
+037482,2024,4.052,FOXO Technologies Inc
+037517,2020,183.217,C3.ai Inc
+037517,2021,252.759,C3.ai Inc
+037517,2022,266.795,C3.ai Inc
+037517,2023,310.582,C3.ai Inc
+037517,2024,389.056,C3.ai Inc
+037526,2022,,CXApp Inc
+037526,2023,7.366,CXApp Inc
+037526,2024,7.142,CXApp Inc
+037526,2025,4.583,CXApp Inc
+037546,2020,83.112,Haivision Systems Inc
+037546,2021,92.591,Haivision Systems Inc
+037546,2022,125.697,Haivision Systems Inc
+037546,2023,139.857,Haivision Systems Inc
+037546,2024,129.537,Haivision Systems Inc
+037546,2025,137.635,Haivision Systems Inc
+037550,2022,5.333,Banzai International Inc
+037550,2023,4.561,Banzai International Inc
+037550,2024,4.528,Banzai International Inc
+037574,2020,,Abaxx Technologies Inc
+037574,2021,0.0,Abaxx Technologies Inc
+037574,2022,0.0,Abaxx Technologies Inc
+037574,2023,0.216,Abaxx Technologies Inc
+037574,2024,0.969,Abaxx Technologies Inc
+037574,2025,1.045,Abaxx Technologies Inc
+037593,2020,72.299,Porch Group Inc
+037593,2021,192.433,Porch Group Inc
+037593,2022,275.948,Porch Group Inc
+037593,2023,430.302,Porch Group Inc
+037593,2024,437.848,Porch Group Inc
+037593,2025,482.414,Porch Group Inc
+037596,2020,93.056,SentinelOne Inc
+037596,2021,204.799,SentinelOne Inc
+037596,2022,422.179,SentinelOne Inc
+037596,2023,621.154,SentinelOne Inc
+037596,2024,821.461,SentinelOne Inc
+037596,2025,1001.278,SentinelOne Inc
+037601,2020,14.533,Infobird Co Ltd
+037601,2021,9.641,Infobird Co Ltd
+037601,2022,5.506,Infobird Co Ltd
+037601,2023,0.28,Infobird Co Ltd
+037601,2024,1.438,Infobird Co Ltd
+037607,2020,0.0,Embark Technology Inc
+037607,2021,0.0,Embark Technology Inc
+037607,2022,0.0,Embark Technology Inc
+037608,2022,22.355,GRIID Infrastructure Inc
+037608,2023,19.624,GRIID Infrastructure Inc
+037669,2020,,Perfect Corp
+037669,2021,40.76,Perfect Corp
+037669,2022,47.3,Perfect Corp
+037669,2023,53.505,Perfect Corp
+037669,2024,60.202,Perfect Corp
+037669,2025,69.154,Perfect Corp
+037679,2024,0.478,LeddarTech Holdings Inc
+037740,2020,,BTRS Holdings Inc
+037740,2021,166.405,BTRS Holdings Inc
+037750,2020,595.444,Topicus.Com Inc
+037750,2021,844.511,Topicus.Com Inc
+037750,2022,979.697,Topicus.Com Inc
+037750,2023,1243.484,Topicus.Com Inc
+037750,2024,1340.587,Topicus.Com Inc
+037750,2025,1822.598,Topicus.Com Inc
+037757,2022,,Tiny Ltd
+037757,2023,185.503,Tiny Ltd
+037757,2024,194.232,Tiny Ltd
+037781,2020,0.0,Alfi Inc
+037781,2021,0.026,Alfi Inc
+037787,2020,156.941,ON24 Inc
+037787,2021,203.613,ON24 Inc
+037787,2022,190.872,ON24 Inc
+037787,2023,163.708,ON24 Inc
+037787,2024,148.081,ON24 Inc
+037787,2025,139.312,ON24 Inc
+037814,2020,116.816,Cloopen Group Holding Ltd
+037814,2021,118.489,Cloopen Group Holding Ltd
+037814,2022,86.069,Cloopen Group Holding Ltd
+037814,2023,80.532,Cloopen Group Holding Ltd
+037814,2024,78.579,Cloopen Group Holding Ltd
+037824,2020,165.251,Viant Technology Inc
+037824,2021,224.127,Viant Technology Inc
+037824,2022,197.168,Viant Technology Inc
+037824,2023,222.934,Viant Technology Inc
+037824,2024,289.235,Viant Technology Inc
+037824,2025,344.201,Viant Technology Inc
+037846,2021,,MicroAlgo Inc
+037846,2022,87.132,MicroAlgo Inc
+037846,2023,81.8,MicroAlgo Inc
+037846,2024,74.184,MicroAlgo Inc
+037871,2021,,Core Scientific Inc
+037871,2022,640.313,Core Scientific Inc
+037871,2023,502.4,Core Scientific Inc
+037871,2024,510.672,Core Scientific Inc
+037871,2025,319.019,Core Scientific Inc
+037895,2020,443.458,Cognyte Software Ltd
+037895,2021,474.042,Cognyte Software Ltd
+037895,2022,312.062,Cognyte Software Ltd
+037895,2023,313.404,Cognyte Software Ltd
+037895,2024,350.632,Cognyte Software Ltd
+037895,2025,400.041,Cognyte Software Ltd
+037908,2020,2.006,Cepton Inc
+037908,2021,4.502,Cepton Inc
+037908,2022,7.426,Cepton Inc
+037908,2023,13.056,Cepton Inc
+037922,2021,,SpringBig Holdings Inc
+037922,2022,26.629,SpringBig Holdings Inc
+037922,2023,28.05,SpringBig Holdings Inc
+037922,2024,24.649,SpringBig Holdings Inc
+037922,2025,22.834,SpringBig Holdings Inc
+037951,2022,49.577,Semantix Inc
+037966,2021,145.578,BigBear.ai Holdings Inc
+037966,2022,155.011,BigBear.ai Holdings Inc
+037966,2023,155.164,BigBear.ai Holdings Inc
+037966,2024,158.236,BigBear.ai Holdings Inc
+037966,2025,127.672,BigBear.ai Holdings Inc
+037980,2020,0.0,Corvex Inc
+037980,2021,0.0,Corvex Inc
+037980,2022,0.0,Corvex Inc
+037980,2023,0.0,Corvex Inc
+037980,2024,1.013,Corvex Inc
+038040,2023,,Brand Engagement Network Inc
+038040,2024,0.1,Brand Engagement Network Inc
+038041,2020,,Pagaya Technologies Ltd
+038041,2021,,Pagaya Technologies Ltd
+038041,2022,685.414,Pagaya Technologies Ltd
+038041,2023,772.814,Pagaya Technologies Ltd
+038041,2024,1004.55,Pagaya Technologies Ltd
+038041,2025,1261.341,Pagaya Technologies Ltd
+038060,2021,,Rigetti Computing Inc
+038060,2022,13.102,Rigetti Computing Inc
+038060,2023,12.008,Rigetti Computing Inc
+038060,2024,10.79,Rigetti Computing Inc
+038060,2025,7.088,Rigetti Computing Inc
+038077,2020,9.427,COMSovereign Holding Corp
+038077,2021,12.64,COMSovereign Holding Corp
+038077,2022,9.878,COMSovereign Holding Corp
+038087,2021,,SoundHound AI Inc
+038087,2022,31.129,SoundHound AI Inc
+038087,2023,45.873,SoundHound AI Inc
+038087,2024,84.693,SoundHound AI Inc
+038087,2025,168.92,SoundHound AI Inc
+038107,2020,,Aurora Innovation Inc
+038107,2021,82.538,Aurora Innovation Inc
+038107,2022,68.0,Aurora Innovation Inc
+038107,2023,0.0,Aurora Innovation Inc
+038107,2024,0.0,Aurora Innovation Inc
+038107,2025,3.0,Aurora Innovation Inc
+038188,2020,318.38,DigitalOcean Holdings Inc
+038188,2021,428.561,DigitalOcean Holdings Inc
+038188,2022,576.322,DigitalOcean Holdings Inc
+038188,2023,692.884,DigitalOcean Holdings Inc
+038188,2024,780.615,DigitalOcean Holdings Inc
+038188,2025,901.427,DigitalOcean Holdings Inc
+038207,2020,,Farmers Edge Inc
+038207,2021,36.172,Farmers Edge Inc
+038207,2022,32.771,Farmers Edge Inc
+038212,2020,1451.086,AppLovin Corporation
+038212,2021,2793.104,AppLovin Corporation
+038212,2022,3026.693,AppLovin Corporation
+038212,2023,3283.087,AppLovin Corporation
+038212,2024,4709.248,AppLovin Corporation
+038212,2025,5480.717,AppLovin Corporation
+038249,2020,,SAIHEAT Ltd
+038249,2021,,SAIHEAT Ltd
+038249,2022,10.638,SAIHEAT Ltd
+038249,2023,6.776,SAIHEAT Ltd
+038249,2024,5.543,SAIHEAT Ltd
+038285,2020,98.424,Olo Inc
+038285,2021,149.368,Olo Inc
+038285,2022,185.404,Olo Inc
+038285,2023,228.289,Olo Inc
+038285,2024,284.938,Olo Inc
+038328,2020,,Mawson Infrastructure Group Inc
+038328,2021,43.863,Mawson Infrastructure Group Inc
+038328,2022,84.385,Mawson Infrastructure Group Inc
+038328,2023,43.572,Mawson Infrastructure Group Inc
+038328,2024,59.266,Mawson Infrastructure Group Inc
+038329,2020,112.142,Alkami Technology Inc
+038329,2021,152.159,Alkami Technology Inc
+038329,2022,204.27,Alkami Technology Inc
+038329,2023,264.831,Alkami Technology Inc
+038329,2024,333.849,Alkami Technology Inc
+038329,2025,443.639,Alkami Technology Inc
+038343,2020,,Ouster Inc
+038343,2021,33.578,Ouster Inc
+038343,2022,41.029,Ouster Inc
+038343,2023,83.279,Ouster Inc
+038343,2024,111.101,Ouster Inc
+038343,2025,169.384,Ouster Inc
+038350,2020,,Gorilla Technology Group Inc
+038350,2021,42.243,Gorilla Technology Group Inc
+038350,2022,22.409,Gorilla Technology Group Inc
+038350,2023,64.695,Gorilla Technology Group Inc
+038350,2024,74.674,Gorilla Technology Group Inc
+038350,2025,101.361,Gorilla Technology Group Inc
+038357,2020,,Aeva Technologies Inc
+038357,2021,9.265,Aeva Technologies Inc
+038357,2022,4.192,Aeva Technologies Inc
+038357,2023,4.312,Aeva Technologies Inc
+038357,2024,9.065,Aeva Technologies Inc
+038357,2025,18.079,Aeva Technologies Inc
+038360,2022,14.548,Airship AI Holdings Inc
+038360,2023,12.3,Airship AI Holdings Inc
+038360,2024,23.05,Airship AI Holdings Inc
+038360,2025,15.322,Airship AI Holdings Inc
+038368,2020,179.874,Tuya Inc
+038368,2021,302.076,Tuya Inc
+038368,2022,208.172,Tuya Inc
+038368,2023,229.99,Tuya Inc
+038368,2024,298.617,Tuya Inc
+038368,2025,321.791,Tuya Inc
+038373,2023,,Veea Inc
+038373,2024,0.142,Veea Inc
+038403,2020,124.875,Semrush Holdings Inc
+038403,2021,188.001,Semrush Holdings Inc
+038403,2022,254.316,Semrush Holdings Inc
+038403,2023,307.675,Semrush Holdings Inc
+038403,2024,376.815,Semrush Holdings Inc
+038403,2025,443.644,Semrush Holdings Inc
+038447,2020,174.886,KnowBe4 Inc
+038447,2021,246.298,KnowBe4 Inc
+038465,2020,140.438,SkyWater Technology Inc
+038465,2021,162.848,SkyWater Technology Inc
+038465,2022,212.941,SkyWater Technology Inc
+038465,2023,286.682,SkyWater Technology Inc
+038465,2024,342.269,SkyWater Technology Inc
+038465,2025,442.139,SkyWater Technology Inc
+038485,2024,3.876,Zapata Quantum Inc
+038491,2020,120.44,Kaltura Inc
+038491,2021,165.016,Kaltura Inc
+038491,2022,168.811,Kaltura Inc
+038491,2023,175.172,Kaltura Inc
+038491,2024,178.717,Kaltura Inc
+038491,2025,180.854,Kaltura Inc
+038590,2020,,Innoviz Technologies Ltd
+038590,2021,5.466,Innoviz Technologies Ltd
+038590,2022,6.026,Innoviz Technologies Ltd
+038590,2023,20.876,Innoviz Technologies Ltd
+038590,2024,24.268,Innoviz Technologies Ltd
+038590,2025,55.089,Innoviz Technologies Ltd
+038612,2022,0.0,Spectaire Holdings Inc
+038612,2023,0.0,Spectaire Holdings Inc
+038646,2020,607.643,UiPath Inc
+038646,2021,892.252,UiPath Inc
+038646,2022,1058.581,UiPath Inc
+038646,2023,1308.072,UiPath Inc
+038646,2024,1429.664,UiPath Inc
+038646,2025,1610.572,UiPath Inc
+038662,2020,93.486,Similarweb Ltd
+038662,2021,137.668,Similarweb Ltd
+038662,2022,193.234,Similarweb Ltd
+038662,2023,218.019,Similarweb Ltd
+038662,2024,249.913,Similarweb Ltd
+038662,2025,282.6,Similarweb Ltd
+038704,2020,,Thinkific Labs Inc
+038704,2021,38.117,Thinkific Labs Inc
+038704,2022,51.476,Thinkific Labs Inc
+038704,2023,59.054,Thinkific Labs Inc
+038704,2024,66.942,Thinkific Labs Inc
+038704,2025,73.188,Thinkific Labs Inc
+038708,2020,368.12,Zeta Global Holdings Corp
+038708,2021,458.338,Zeta Global Holdings Corp
+038708,2022,590.961,Zeta Global Holdings Corp
+038708,2023,728.723,Zeta Global Holdings Corp
+038708,2024,1005.754,Zeta Global Holdings Corp
+038708,2025,1304.668,Zeta Global Holdings Corp
+038710,2020,51.229,Magnet Forensics Inc
+038710,2021,70.287,Magnet Forensics Inc
+038710,2022,98.934,Magnet Forensics Inc
+038723,2020,81.728,Zenvia Inc
+038723,2021,109.902,Zenvia Inc
+038723,2022,143.139,Zenvia Inc
+038723,2023,166.439,Zenvia Inc
+038723,2024,155.163,Zenvia Inc
+038736,2020,621.149,Squarespace Inc
+038736,2021,784.038,Squarespace Inc
+038736,2022,866.972,Squarespace Inc
+038736,2023,1012.336,Squarespace Inc
+038748,2020,199.34,MeridianLink Inc
+038748,2021,267.676,MeridianLink Inc
+038748,2022,288.046,MeridianLink Inc
+038748,2023,303.617,MeridianLink Inc
+038748,2024,316.298,MeridianLink Inc
+038777,2021,,Bitdeer Technologies Group
+038777,2022,,Bitdeer Technologies Group
+038777,2023,368.554,Bitdeer Technologies Group
+038777,2024,349.782,Bitdeer Technologies Group
+038777,2025,620.253,Bitdeer Technologies Group
+038785,2020,,Tantalus Systems Holding Inc
+038785,2021,32.172,Tantalus Systems Holding Inc
+038785,2022,39.603,Tantalus Systems Holding Inc
+038785,2023,42.147,Tantalus Systems Holding Inc
+038785,2024,44.311,Tantalus Systems Holding Inc
+038785,2025,54.113,Tantalus Systems Holding Inc
+038822,2020,161.123,monday com Ltd
+038822,2021,308.15,monday com Ltd
+038822,2022,519.029,monday com Ltd
+038822,2023,729.695,monday com Ltd
+038822,2024,971.995,monday com Ltd
+038822,2025,1231.997,monday com Ltd
+038827,2020,1.945,Glimpse Group Inc(The)
+038827,2021,3.421,Glimpse Group Inc(The)
+038827,2022,7.268,Glimpse Group Inc(The)
+038827,2023,13.482,Glimpse Group Inc(The)
+038827,2024,8.804,Glimpse Group Inc(The)
+038827,2025,10.528,Glimpse Group Inc(The)
+038835,2020,148.306,WalkMe Ltd
+038835,2021,193.303,WalkMe Ltd
+038835,2022,245.006,WalkMe Ltd
+038835,2023,266.954,WalkMe Ltd
+038849,2020,25.212,AMTD Digital Inc
+038849,2021,25.101,AMTD Digital Inc
+038849,2022,33.066,AMTD Digital Inc
+038849,2023,27.821,AMTD Digital Inc
+038849,2024,22.814,AMTD Digital Inc
+038849,2025,50.071,AMTD Digital Inc
+038866,2023,,Helport AI Ltd
+038866,2024,29.576,Helport AI Ltd
+038866,2025,34.857,Helport AI Ltd
+038915,2020,386.93,Sprinklr Inc
+038915,2021,492.394,Sprinklr Inc
+038915,2022,618.19,Sprinklr Inc
+038915,2023,732.36,Sprinklr Inc
+038915,2024,796.394,Sprinklr Inc
+038915,2025,857.2,Sprinklr Inc
+038924,2020,337.525,EverCommerce Inc
+038924,2021,490.139,EverCommerce Inc
+038924,2022,620.746,EverCommerce Inc
+038924,2023,675.369,EverCommerce Inc
+038924,2024,698.765,EverCommerce Inc
+038924,2025,588.907,EverCommerce Inc
+038931,2020,236.577,Confluent Inc
+038931,2021,387.864,Confluent Inc
+038931,2022,585.944,Confluent Inc
+038931,2023,776.952,Confluent Inc
+038931,2024,963.642,Confluent Inc
+038931,2025,1166.748,Confluent Inc
+038946,2020,434.888,PowerSchool Holdings Inc
+038946,2021,558.598,PowerSchool Holdings Inc
+038946,2022,630.683,PowerSchool Holdings Inc
+038946,2023,697.651,PowerSchool Holdings Inc
+038953,2020,,Latch Inc
+038953,2021,41.36,Latch Inc
+038953,2022,42.955,Latch Inc
+038953,2023,44.961,Latch Inc
+038953,2024,56.63,Latch Inc
+038954,2020,230.796,Clear Secure Inc
+038954,2021,253.953,Clear Secure Inc
+038954,2022,437.434,Clear Secure Inc
+038954,2023,613.579,Clear Secure Inc
+038954,2024,770.488,Clear Secure Inc
+038954,2025,900.779,Clear Secure Inc
+038995,2020,,indie Semiconductor Inc
+038995,2021,48.412,indie Semiconductor Inc
+038995,2022,110.797,indie Semiconductor Inc
+038995,2023,223.169,indie Semiconductor Inc
+038995,2024,216.682,indie Semiconductor Inc
+038995,2025,217.394,indie Semiconductor Inc
+039025,2020,,WM Technology Inc
+039025,2021,193.146,WM Technology Inc
+039025,2022,215.531,WM Technology Inc
+039025,2023,187.993,WM Technology Inc
+039025,2024,184.514,WM Technology Inc
+039025,2025,174.704,WM Technology Inc
+039053,2020,,LiveVox Holding Inc
+039053,2021,119.231,LiveVox Holding Inc
+039053,2022,136.025,LiveVox Holding Inc
+039056,2020,96.029,Blend Labs Inc
+039056,2021,234.495,Blend Labs Inc
+039056,2022,235.201,Blend Labs Inc
+039056,2023,156.846,Blend Labs Inc
+039056,2024,162.019,Blend Labs Inc
+039056,2025,123.585,Blend Labs Inc
+039059,2020,103.285,Couchbase Inc
+039059,2021,123.542,Couchbase Inc
+039059,2022,154.824,Couchbase Inc
+039059,2023,180.037,Couchbase Inc
+039059,2024,209.466,Couchbase Inc
+039070,2020,186.852,Intapp Inc
+039070,2021,214.633,Intapp Inc
+039070,2022,272.071,Intapp Inc
+039070,2023,350.873,Intapp Inc
+039070,2024,430.523,Intapp Inc
+039070,2025,504.12,Intapp Inc
+039108,2021,4.083,Meta Materials Inc
+039108,2022,10.2,Meta Materials Inc
+039108,2023,7.966,Meta Materials Inc
+039111,2020,98.676,VTEX
+039111,2021,125.773,VTEX
+039111,2022,157.62,VTEX
+039111,2023,201.517,VTEX
+039111,2024,226.709,VTEX
+039111,2025,240.517,VTEX
+039114,2020,,IRONSOURCE LTD
+039114,2021,553.466,IRONSOURCE LTD
+039121,2023,,Mobix Labs Inc
+039121,2024,6.442,Mobix Labs Inc
+039121,2025,9.912,Mobix Labs Inc
+039157,2020,151.533,AvePoint Inc
+039157,2021,191.909,AvePoint Inc
+039157,2022,232.339,AvePoint Inc
+039157,2023,271.825,AvePoint Inc
+039157,2024,330.482,AvePoint Inc
+039157,2025,419.497,AvePoint Inc
+039173,2021,,SmartKem Inc
+039173,2022,0.04,SmartKem Inc
+039173,2023,0.027,SmartKem Inc
+039173,2024,0.082,SmartKem Inc
+039182,2020,302.871,N-able Inc
+039182,2021,346.456,N-able Inc
+039182,2022,371.769,N-able Inc
+039182,2023,421.88,N-able Inc
+039182,2024,466.147,N-able Inc
+039182,2025,511.43,N-able Inc
+039199,2020,68.444,CS Disco Inc
+039199,2021,114.342,CS Disco Inc
+039199,2022,135.19,CS Disco Inc
+039199,2023,138.09,CS Disco Inc
+039199,2024,144.841,CS Disco Inc
+039199,2025,156.849,CS Disco Inc
+039280,2020,4.785,Evolv Technologies Holdings Inc
+039280,2021,23.692,Evolv Technologies Holdings Inc
+039280,2022,55.195,Evolv Technologies Holdings Inc
+039280,2023,80.418,Evolv Technologies Holdings Inc
+039280,2024,103.865,Evolv Technologies Holdings Inc
+039280,2025,145.905,Evolv Technologies Holdings Inc
+039295,2020,169.74,Riskified Ltd
+039295,2021,229.141,Riskified Ltd
+039295,2022,261.247,Riskified Ltd
+039295,2023,297.61,Riskified Ltd
+039295,2024,327.516,Riskified Ltd
+039295,2025,344.638,Riskified Ltd
+039312,2020,302.062,Instructure Holdings Inc
+039312,2021,405.361,Instructure Holdings Inc
+039312,2022,475.194,Instructure Holdings Inc
+039312,2023,530.21,Instructure Holdings Inc
+039323,2020,,Matterport Inc
+039323,2021,111.174,Matterport Inc
+039323,2022,136.125,Matterport Inc
+039323,2023,157.748,Matterport Inc
+039323,2024,169.699,Matterport Inc
+039345,2021,,Rubicon Technologies Inc
+039345,2022,675.388,Rubicon Technologies Inc
+039345,2023,697.582,Rubicon Technologies Inc
+039354,2020,4.118,Stronghold Digital Mining Inc
+039354,2021,30.915,Stronghold Digital Mining Inc
+039354,2022,106.034,Stronghold Digital Mining Inc
+039354,2023,74.966,Stronghold Digital Mining Inc
+039371,2020,,Cyxtera Technologies Inc
+039371,2021,703.7,Cyxtera Technologies Inc
+039371,2022,746.0,Cyxtera Technologies Inc
+039378,2020,,CCC Intelligent Solutions Holdings Inc
+039378,2021,688.288,CCC Intelligent Solutions Holdings Inc
+039378,2022,782.448,CCC Intelligent Solutions Holdings Inc
+039378,2023,866.378,CCC Intelligent Solutions Holdings Inc
+039378,2024,944.8,CCC Intelligent Solutions Holdings Inc
+039378,2025,1057.001,CCC Intelligent Solutions Holdings Inc
+039391,2020,211.854,HashiCorp Inc
+039391,2021,320.769,HashiCorp Inc
+039391,2022,475.889,HashiCorp Inc
+039391,2023,583.137,HashiCorp Inc
+039394,2020,,M2i Global Inc
+039394,2021,0.0,M2i Global Inc
+039394,2022,0.001,M2i Global Inc
+039394,2023,0.003,M2i Global Inc
+039394,2024,0.0,M2i Global Inc
+039394,2025,0.0,M2i Global Inc
+039408,2023,0.145,Rezolve AI PLC
+039408,2024,0.188,Rezolve AI PLC
+039408,2025,46.8,Rezolve AI PLC
+039409,2023,,Alpha Modus Holdings Inc
+039409,2024,0.0,Alpha Modus Holdings Inc
+039418,2020,,Rockley Photonics Holdings Ltd
+039418,2021,8.213,Rockley Photonics Holdings Ltd
+039426,2020,0.0,Myseum.AI Inc
+039426,2021,0.004,Myseum.AI Inc
+039426,2022,0.046,Myseum.AI Inc
+039426,2023,0.001,Myseum.AI Inc
+039426,2024,0.0,Myseum.AI Inc
+039435,2021,12.834,Micromobility.com Inc
+039435,2022,15.538,Micromobility.com Inc
+039435,2023,9.844,Micromobility.com Inc
+039435,2024,1.422,Micromobility.com Inc
+039436,2021,1.723,Urgent.ly Inc
+039436,2022,6.992,Urgent.ly Inc
+039436,2023,184.653,Urgent.ly Inc
+039436,2024,142.905,Urgent.ly Inc
+039436,2025,129.194,Urgent.ly Inc
+039448,2020,1.579,AEye Inc
+039448,2021,3.007,AEye Inc
+039448,2022,3.647,AEye Inc
+039448,2023,1.464,AEye Inc
+039448,2024,0.202,AEye Inc
+039448,2025,0.233,AEye Inc
+039454,2024,,Blaize Holdings Inc
+039454,2025,38.632,Blaize Holdings Inc
+039482,2020,803.375,Thoughtworks Holding Inc
+039482,2021,1069.945,Thoughtworks Holding Inc
+039482,2022,1296.238,Thoughtworks Holding Inc
+039482,2023,1126.816,Thoughtworks Holding Inc
+039487,2020,127.634,ForgeRock Inc
+039487,2021,176.933,ForgeRock Inc
+039487,2022,217.512,ForgeRock Inc
+039489,2021,279.361,ICZOOM Group Inc
+039489,2022,290.376,ICZOOM Group Inc
+039489,2023,214.405,ICZOOM Group Inc
+039489,2024,177.934,ICZOOM Group Inc
+039489,2025,187.049,ICZOOM Group Inc
+039490,2020,,AgileThought Inc
+039490,2021,158.668,AgileThought Inc
+039490,2022,176.846,AgileThought Inc
+039505,2021,110.637,SmartRent Inc
+039505,2022,167.821,SmartRent Inc
+039505,2023,236.838,SmartRent Inc
+039505,2024,174.885,SmartRent Inc
+039505,2025,152.326,SmartRent Inc
+039526,2020,146.557,EngageSmart LLC
+039526,2021,216.28,EngageSmart LLC
+039526,2022,303.92,EngageSmart LLC
+039528,2020,,Satixfy Communications Ltd
+039528,2021,21.72,Satixfy Communications Ltd
+039528,2022,10.626,Satixfy Communications Ltd
+039528,2023,10.73,Satixfy Communications Ltd
+039528,2024,20.648,Satixfy Communications Ltd
+039535,2020,,IronNet Inc
+039535,2021,27.544,IronNet Inc
+039535,2022,27.257,IronNet Inc
+039538,2021,0.0,Cipher Digital Inc
+039538,2022,3.037,Cipher Digital Inc
+039538,2023,126.842,Cipher Digital Inc
+039538,2024,151.27,Cipher Digital Inc
+039538,2025,223.942,Cipher Digital Inc
+039539,2020,249.659,Freshworks Inc
+039539,2021,371.022,Freshworks Inc
+039539,2022,497.999,Freshworks Inc
+039539,2023,596.432,Freshworks Inc
+039539,2024,720.42,Freshworks Inc
+039539,2025,838.809,Freshworks Inc
+039548,2020,140.074,Ostin Technology Group Co Ltd
+039548,2021,167.745,Ostin Technology Group Co Ltd
+039548,2022,105.417,Ostin Technology Group Co Ltd
+039548,2023,57.526,Ostin Technology Group Co Ltd
+039548,2024,32.463,Ostin Technology Group Co Ltd
+039548,2025,39.679,Ostin Technology Group Co Ltd
+039550,2020,194.913,Cellebrite DI Ltd
+039550,2021,246.246,Cellebrite DI Ltd
+039550,2022,270.651,Cellebrite DI Ltd
+039550,2023,325.11,Cellebrite DI Ltd
+039550,2024,401.203,Cellebrite DI Ltd
+039550,2025,475.675,Cellebrite DI Ltd
+039554,2020,203.222,Clearwater Analytics Holdings Inc
+039554,2021,252.022,Clearwater Analytics Holdings Inc
+039554,2022,303.426,Clearwater Analytics Holdings Inc
+039554,2023,368.168,Clearwater Analytics Holdings Inc
+039554,2024,451.803,Clearwater Analytics Holdings Inc
+039554,2025,731.368,Clearwater Analytics Holdings Inc
+039555,2020,102.464,Amplitude Inc
+039555,2021,167.261,Amplitude Inc
+039555,2022,238.067,Amplitude Inc
+039555,2023,276.284,Amplitude Inc
+039555,2024,299.272,Amplitude Inc
+039555,2025,343.214,Amplitude Inc
+039564,2021,107.277,Greenidge Generation Holdings Inc
+039564,2022,89.979,Greenidge Generation Holdings Inc
+039564,2023,70.388,Greenidge Generation Holdings Inc
+039564,2024,59.533,Greenidge Generation Holdings Inc
+039564,2025,58.777,Greenidge Generation Holdings Inc
+039575,2020,0.0,Cyngn Inc
+039575,2021,0.0,Cyngn Inc
+039575,2022,0.262,Cyngn Inc
+039575,2023,1.489,Cyngn Inc
+039575,2024,0.368,Cyngn Inc
+039575,2025,0.219,Cyngn Inc
+039589,2020,,Arqit Quantum Inc
+039589,2021,0.048,Arqit Quantum Inc
+039589,2022,20.055,Arqit Quantum Inc
+039589,2023,0.64,Arqit Quantum Inc
+039589,2024,0.293,Arqit Quantum Inc
+039589,2025,0.53,Arqit Quantum Inc
+039661,2023,56.185,Exodus Movement Inc
+039661,2024,116.272,Exodus Movement Inc
+039661,2025,121.551,Exodus Movement Inc
+039684,2020,79.565,Enfusion Inc
+039684,2021,111.7,Enfusion Inc
+039684,2022,150.349,Enfusion Inc
+039684,2023,174.535,Enfusion Inc
+039684,2024,201.611,Enfusion Inc
+039687,2020,152.176,GitLab Inc
+039687,2021,252.653,GitLab Inc
+039687,2022,424.336,GitLab Inc
+039687,2023,579.906,GitLab Inc
+039687,2024,759.249,GitLab Inc
+039687,2025,955.224,GitLab Inc
+039724,2020,,Arbe Robotics Ltd
+039724,2021,2.249,Arbe Robotics Ltd
+039724,2022,3.517,Arbe Robotics Ltd
+039724,2023,1.47,Arbe Robotics Ltd
+039724,2024,0.768,Arbe Robotics Ltd
+039724,2025,1.026,Arbe Robotics Ltd
+039786,2020,,Valens Semiconductor Ltd
+039786,2021,70.684,Valens Semiconductor Ltd
+039786,2022,90.715,Valens Semiconductor Ltd
+039786,2023,84.161,Valens Semiconductor Ltd
+039786,2024,57.859,Valens Semiconductor Ltd
+039786,2025,70.625,Valens Semiconductor Ltd
+039787,2020,678.461,Consensus Cloud Solutions Inc
+039787,2021,352.664,Consensus Cloud Solutions Inc
+039787,2022,362.422,Consensus Cloud Solutions Inc
+039787,2023,362.562,Consensus Cloud Solutions Inc
+039787,2024,350.382,Consensus Cloud Solutions Inc
+039787,2025,349.696,Consensus Cloud Solutions Inc
+039789,2022,7.268,MultiSensor AI Holdings Inc
+039789,2023,5.43,MultiSensor AI Holdings Inc
+039789,2024,7.402,MultiSensor AI Holdings Inc
+039789,2025,5.551,MultiSensor AI Holdings Inc
+039800,2020,,IonQ Inc
+039800,2021,2.099,IonQ Inc
+039800,2022,11.131,IonQ Inc
+039800,2023,22.042,IonQ Inc
+039800,2024,43.073,IonQ Inc
+039800,2025,130.016,IonQ Inc
+039805,2020,31.812,Arteris Inc
+039805,2021,37.864,Arteris Inc
+039805,2022,50.378,Arteris Inc
+039805,2023,53.666,Arteris Inc
+039805,2024,57.724,Arteris Inc
+039805,2025,70.579,Arteris Inc
+039810,2020,1323.096,Informatica Inc
+039810,2021,1444.055,Informatica Inc
+039810,2022,1505.118,Informatica Inc
+039810,2023,1595.16,Informatica Inc
+039810,2024,1640.018,Informatica Inc
+039822,2020,4850.505,GLOBALFOUNDRIES Inc
+039822,2021,6585.079,GLOBALFOUNDRIES Inc
+039822,2022,8108.0,GLOBALFOUNDRIES Inc
+039822,2023,7392.0,GLOBALFOUNDRIES Inc
+039822,2024,6750.0,GLOBALFOUNDRIES Inc
+039822,2025,6791.0,GLOBALFOUNDRIES Inc
+039836,2023,29.441,Syntec Optics Holdings Inc
+039836,2024,28.45,Syntec Optics Holdings Inc
+039836,2025,28.084,Syntec Optics Holdings Inc
+039851,2020,44.52,Copperleaf Technologies Inc
+039851,2021,69.283,Copperleaf Technologies Inc
+039851,2022,73.385,Copperleaf Technologies Inc
+039851,2023,79.576,Copperleaf Technologies Inc
+039862,2024,0.438,SharonAI Holdings Inc
+039862,2025,1.567,SharonAI Holdings Inc
+039886,2020,102.195,UserTesting Inc
+039886,2021,147.398,UserTesting Inc
+039895,2020,88.072,Expensify Inc
+039895,2021,142.835,Expensify Inc
+039895,2022,169.495,Expensify Inc
+039895,2023,150.687,Expensify Inc
+039895,2024,139.236,Expensify Inc
+039895,2025,142.101,Expensify Inc
+039901,2020,181.928,CI&T Inc
+039901,2021,259.243,CI&T Inc
+039901,2022,413.823,CI&T Inc
+039901,2023,460.31,CI&T Inc
+039901,2024,438.961,CI&T Inc
+039901,2025,489.65,CI&T Inc
+039903,2023,,GCT Semiconductor Holding Inc
+039903,2024,9.128,GCT Semiconductor Holding Inc
+039903,2025,2.866,GCT Semiconductor Holding Inc
+039910,2020,53.784,Backblaze Inc
+039910,2021,67.479,Backblaze Inc
+039910,2022,85.155,Backblaze Inc
+039910,2023,102.019,Backblaze Inc
+039910,2024,127.628,Backblaze Inc
+039910,2025,145.835,Backblaze Inc
+039914,2020,79.896,Weave Communications Inc
+039914,2021,115.871,Weave Communications Inc
+039914,2022,142.117,Weave Communications Inc
+039914,2023,170.468,Weave Communications Inc
+039914,2024,204.314,Weave Communications Inc
+039914,2025,239.024,Weave Communications Inc
+039931,2020,11.849,Navitas Semiconductor Corp
+039931,2021,23.736,Navitas Semiconductor Corp
+039931,2022,37.943,Navitas Semiconductor Corp
+039931,2023,79.456,Navitas Semiconductor Corp
+039931,2024,83.302,Navitas Semiconductor Corp
+039931,2025,45.916,Navitas Semiconductor Corp
+039935,2021,,Mirion Technologies Inc
+039935,2022,717.8,Mirion Technologies Inc
+039935,2023,800.9,Mirion Technologies Inc
+039935,2024,860.8,Mirion Technologies Inc
+039935,2025,925.4,Mirion Technologies Inc
+039942,2020,150.191,Braze Inc
+039942,2021,238.035,Braze Inc
+039942,2022,355.426,Braze Inc
+039942,2023,471.8,Braze Inc
+039942,2024,593.41,Braze Inc
+039942,2025,738.182,Braze Inc
+039953,2020,40.381,Q4 Inc
+039953,2021,55.388,Q4 Inc
+039953,2022,56.075,Q4 Inc
+039960,2021,7.821,IREN Limited
+039960,2022,59.037,IREN Limited
+039960,2023,75.509,IREN Limited
+039960,2024,188.758,IREN Limited
+039960,2025,501.023,IREN Limited
+039963,2020,19352.0,Kyndryl Holdings Inc
+039963,2021,18657.0,Kyndryl Holdings Inc
+039963,2022,17026.0,Kyndryl Holdings Inc
+039963,2023,16052.0,Kyndryl Holdings Inc
+039963,2024,15057.0,Kyndryl Holdings Inc
+039966,2024,,CID HoldCo Inc
+039966,2025,5.804,CID HoldCo Inc
+039992,2020,,NextNav Inc
+039992,2021,0.763,NextNav Inc
+039992,2022,3.926,NextNav Inc
+039992,2023,3.862,NextNav Inc
+039992,2024,5.669,NextNav Inc
+039992,2025,4.573,NextNav Inc
+040008,2022,,BitFuFu Inc
+040008,2023,,BitFuFu Inc
+040008,2024,463.33,BitFuFu Inc
+040008,2025,475.767,BitFuFu Inc
+040024,2020,0.988,Maris Tech Ltd
+040024,2021,2.076,Maris Tech Ltd
+040024,2022,2.505,Maris Tech Ltd
+040024,2023,4.031,Maris Tech Ltd
+040024,2024,6.079,Maris Tech Ltd
+040084,2022,,Roadzen Inc
+040084,2023,46.724,Roadzen Inc
+040084,2024,44.296,Roadzen Inc
+040291,2020,64.857,Coveo Solutions Inc
+040291,2021,86.488,Coveo Solutions Inc
+040291,2022,112.002,Coveo Solutions Inc
+040291,2023,126.094,Coveo Solutions Inc
+040291,2024,133.272,Coveo Solutions Inc
+040292,2020,249.905,Samsara Inc
+040292,2021,428.345,Samsara Inc
+040292,2022,652.545,Samsara Inc
+040292,2023,937.385,Samsara Inc
+040292,2024,1249.199,Samsara Inc
+040292,2025,1618.635,Samsara Inc
+040413,2021,,Terawulf Inc.
+040413,2022,15.033,Terawulf Inc.
+040413,2023,69.229,Terawulf Inc.
+040413,2024,140.051,Terawulf Inc.
+040413,2025,168.455,Terawulf Inc.
+040416,2022,,TOYO Co Ltd
+040416,2023,,TOYO Co Ltd
+040416,2024,176.957,TOYO Co Ltd
+040416,2025,427.383,TOYO Co Ltd
+040460,2020,,Peraso Inc
+040460,2021,5.679,Peraso Inc
+040460,2022,14.868,Peraso Inc
+040460,2023,13.749,Peraso Inc
+040460,2024,14.573,Peraso Inc
+040460,2025,12.193,Peraso Inc
+040532,2020,58.697,Credo Technology Group Holding Ltd
+040532,2021,106.477,Credo Technology Group Holding Ltd
+040532,2022,184.194,Credo Technology Group Holding Ltd
+040532,2023,192.97,Credo Technology Group Holding Ltd
+040532,2024,436.775,Credo Technology Group Holding Ltd
+040534,2020,9.026,HeartCore Enterprises Inc
+040534,2021,10.823,HeartCore Enterprises Inc
+040534,2022,8.818,HeartCore Enterprises Inc
+040534,2023,21.846,HeartCore Enterprises Inc
+040534,2024,30.407,HeartCore Enterprises Inc
+040693,2022,86.677,U-BX Technology Ltd
+040693,2023,94.319,U-BX Technology Ltd
+040693,2024,51.6,U-BX Technology Ltd
+040693,2025,29.675,U-BX Technology Ltd
+040702,2021,1.643,Locafy Ltd
+040702,2022,2.909,Locafy Ltd
+040702,2023,3.579,Locafy Ltd
+040702,2024,2.77,Locafy Ltd
+040702,2025,2.1,Locafy Ltd
+040757,2022,,Datacentrex Inc
+040757,2023,0.002,Datacentrex Inc
+040757,2024,0.001,Datacentrex Inc
+040781,2020,0.0,Rail Vision Ltd
+040781,2021,0.888,Rail Vision Ltd
+040781,2022,0.421,Rail Vision Ltd
+040781,2023,0.142,Rail Vision Ltd
+040781,2024,1.3,Rail Vision Ltd
+040781,2025,1.487,Rail Vision Ltd
+040783,2020,0.057,Wearable Devices Ltd
+040783,2021,0.142,Wearable Devices Ltd
+040783,2022,0.045,Wearable Devices Ltd
+040783,2023,0.082,Wearable Devices Ltd
+040783,2024,0.522,Wearable Devices Ltd
+040783,2025,0.647,Wearable Devices Ltd
+041103,2023,1.072,Semilux International Ltd
+041103,2024,3.668,Semilux International Ltd
+041130,2024,,Foxx Development Holdings Inc
+041130,2025,65.919,Foxx Development Holdings Inc
+041220,2021,25.972,Strong Global Entertainment Inc
+041220,2022,39.867,Strong Global Entertainment Inc
+041220,2023,42.616,Strong Global Entertainment Inc
+041227,2020,,Actelis Networks Inc
+041227,2021,8.545,Actelis Networks Inc
+041227,2022,8.831,Actelis Networks Inc
+041227,2023,5.606,Actelis Networks Inc
+041227,2024,7.76,Actelis Networks Inc
+041227,2025,3.671,Actelis Networks Inc
+041300,2020,,Femto Technologies Inc
+041300,2021,1.217,Femto Technologies Inc
+041300,2022,1.123,Femto Technologies Inc
+041300,2023,1.077,Femto Technologies Inc
+041300,2024,0.999,Femto Technologies Inc
+041328,2020,0.324,Nano Labs Ltd
+041328,2021,6.209,Nano Labs Ltd
+041328,2022,142.547,Nano Labs Ltd
+041328,2023,11.048,Nano Labs Ltd
+041328,2024,5.562,Nano Labs Ltd
+041420,2020,29.984,M-tron Industries Inc
+041420,2021,26.694,M-tron Industries Inc
+041420,2022,31.845,M-tron Industries Inc
+041420,2023,41.168,M-tron Industries Inc
+041420,2024,49.012,M-tron Industries Inc
+041420,2025,54.417,M-tron Industries Inc
+041427,2023,3.711,Republic Power Group Ltd
+041427,2024,0.506,Republic Power Group Ltd
+041427,2025,2.365,Republic Power Group Ltd
+041441,2022,,Aeluma Inc
+041441,2023,0.193,Aeluma Inc
+041441,2024,0.919,Aeluma Inc
+041441,2025,4.665,Aeluma Inc
+041498,2020,3.176,Beamr Imaging Ltd
+041498,2021,3.3,Beamr Imaging Ltd
+041498,2022,2.863,Beamr Imaging Ltd
+041498,2023,2.909,Beamr Imaging Ltd
+041498,2024,3.064,Beamr Imaging Ltd
+041498,2025,3.094,Beamr Imaging Ltd
+041502,2022,6.96,Global Engine Group Holding Ltd
+041502,2023,5.702,Global Engine Group Holding Ltd
+041502,2024,6.333,Global Engine Group Holding Ltd
+041502,2025,2.94,Global Engine Group Holding Ltd
+041539,2020,,Xperi Inc
+041539,2021,486.483,Xperi Inc
+041539,2022,502.26,Xperi Inc
+041539,2023,521.334,Xperi Inc
+041539,2024,493.688,Xperi Inc
+041539,2025,448.105,Xperi Inc
+041548,2020,8.309,Intchains Group Ltd
+041548,2021,99.464,Intchains Group Ltd
+041548,2022,68.686,Intchains Group Ltd
+041548,2023,11.596,Intchains Group Ltd
+041548,2024,38.603,Intchains Group Ltd
+041548,2025,31.577,Intchains Group Ltd
+041569,2021,0.725,ParaZero Technologies Ltd
+041569,2022,0.56,ParaZero Technologies Ltd
+041569,2023,0.621,ParaZero Technologies Ltd
+041569,2024,0.932,ParaZero Technologies Ltd
+041569,2025,1.047,ParaZero Technologies Ltd
+041641,2022,100.562,ARB IOT Group Ltd
+041641,2023,51.88,ARB IOT Group Ltd
+041641,2024,12.335,ARB IOT Group Ltd
+041641,2025,46.844,ARB IOT Group Ltd
+041982,2021,,Vocodia Holdings Corp
+041982,2022,0.659,Vocodia Holdings Corp
+041982,2023,0.256,Vocodia Holdings Corp
+041982,2024,0.05,Vocodia Holdings Corp
+042013,2020,13.857,Xiao-I Corp
+042013,2021,32.524,Xiao-I Corp
+042013,2022,48.185,Xiao-I Corp
+042013,2023,59.165,Xiao-I Corp
+042013,2024,70.314,Xiao-I Corp
+042214,2021,0.005,Unusual Machines Inc
+042214,2022,0.0,Unusual Machines Inc
+042214,2023,0.0,Unusual Machines Inc
+042214,2024,5.565,Unusual Machines Inc
+042214,2025,11.199,Unusual Machines Inc
+042244,2021,228.355,Lumine Group Inc
+042244,2022,255.745,Lumine Group Inc
+042244,2023,499.669,Lumine Group Inc
+042244,2024,668.37,Lumine Group Inc
+042244,2025,765.66,Lumine Group Inc
+042262,2020,14.317,SEALSQ Corp
+042262,2021,16.995,SEALSQ Corp
+042262,2022,23.198,SEALSQ Corp
+042262,2023,30.058,SEALSQ Corp
+042262,2024,10.981,SEALSQ Corp
+042262,2025,18.252,SEALSQ Corp
+042284,2020,,Crane NXT Co
+042284,2021,1345.1,Crane NXT Co
+042284,2022,1339.9,Crane NXT Co
+042284,2023,1391.3,Crane NXT Co
+042284,2024,1486.8,Crane NXT Co
+042284,2025,1656.7,Crane NXT Co
+043140,2021,0.521,Alpha Technology Group Ltd
+043140,2022,0.563,Alpha Technology Group Ltd
+043140,2023,1.11,Alpha Technology Group Ltd
+043140,2024,1.59,Alpha Technology Group Ltd
+043140,2025,0.951,Alpha Technology Group Ltd
+043211,2021,0.305,reAlpha Tech Corp
+043211,2022,0.419,reAlpha Tech Corp
+043211,2023,,reAlpha Tech Corp
+043211,2024,0.948,reAlpha Tech Corp
+043211,2025,4.518,reAlpha Tech Corp
+043279,2021,,BlockchAIn Digital Infrastructure Inc
+043279,2022,0.078,BlockchAIn Digital Infrastructure Inc
+043279,2023,0.308,BlockchAIn Digital Infrastructure Inc
+043279,2024,0.616,BlockchAIn Digital Infrastructure Inc
+043285,2020,,Arm Holdings plc
+043285,2021,2703.0,Arm Holdings plc
+043285,2022,2679.0,Arm Holdings plc
+043285,2023,3233.0,Arm Holdings plc
+043285,2024,4007.0,Arm Holdings plc
+043288,2021,290.64,Klaviyo Inc
+043288,2022,472.748,Klaviyo Inc
+043288,2023,698.099,Klaviyo Inc
+043288,2024,937.464,Klaviyo Inc
+043288,2025,1234.019,Klaviyo Inc
+043363,2021,,Tungray Technologies Inc
+043363,2022,16.334,Tungray Technologies Inc
+043363,2023,14.363,Tungray Technologies Inc
+043363,2024,12.81,Tungray Technologies Inc
+043425,2022,1.263,Trident Digital Tech Holdings Ltd
+043425,2023,1.483,Trident Digital Tech Holdings Ltd
+043425,2024,0.465,Trident Digital Tech Holdings Ltd
+043666,2021,27.17,CCSC Technology International Holdings Ltd
+043666,2022,24.06,CCSC Technology International Holdings Ltd
+043666,2023,14.749,CCSC Technology International Holdings Ltd
+043666,2024,17.631,CCSC Technology International Holdings Ltd
+043856,2023,1.671,3 E Network Technology Group Ltd
+043856,2024,4.562,3 E Network Technology Group Ltd
+043856,2025,4.835,3 E Network Technology Group Ltd
+043857,2022,,Youxin Technology Ltd
+043857,2023,0.896,Youxin Technology Ltd
+043857,2024,0.521,Youxin Technology Ltd
+043857,2025,0.539,Youxin Technology Ltd
+045020,2021,,Wetouch Technology Inc
+045020,2022,37.923,Wetouch Technology Inc
+045020,2023,39.706,Wetouch Technology Inc
+045020,2024,42.28,Wetouch Technology Inc
+045039,2022,5.334,Orangekloud Technology Inc
+045039,2023,4.614,Orangekloud Technology Inc
+045039,2024,2.962,Orangekloud Technology Inc
+045094,2022,79.872,Astera Labs Inc
+045094,2023,115.794,Astera Labs Inc
+045094,2024,396.29,Astera Labs Inc
+045094,2025,852.525,Astera Labs Inc
+045098,2022,3.025,ZenaTech Inc
+045098,2023,1.828,ZenaTech Inc
+045098,2024,1.964,ZenaTech Inc
+045281,2022,599.819,Rubrik Inc
+045281,2023,627.892,Rubrik Inc
+045281,2024,886.544,Rubrik Inc
+045281,2025,1316.191,Rubrik Inc
+045320,2021,,Silvaco Group Inc
+045320,2022,46.474,Silvaco Group Inc
+045320,2023,54.246,Silvaco Group Inc
+045320,2024,59.68,Silvaco Group Inc
+045320,2025,63.064,Silvaco Group Inc
+045329,2022,13.071,Lianhe Sowell International Group Ltd
+045329,2023,36.599,Lianhe Sowell International Group Ltd
+045329,2024,36.54,Lianhe Sowell International Group Ltd
+045400,2022,49.033,Gauzy Ltd
+045400,2023,77.98,Gauzy Ltd
+045400,2024,103.527,Gauzy Ltd
+045452,2022,1.671,Wellchange Holdings Company Ltd
+045452,2023,2.49,Wellchange Holdings Company Ltd
+045452,2024,2.309,Wellchange Holdings Company Ltd
+045539,2022,4.714,PicoCELA Inc
+045539,2023,3.746,PicoCELA Inc
+045539,2024,5.475,PicoCELA Inc
+045539,2025,3.681,PicoCELA Inc
+045551,2022,467.734,ServiceTitan Inc
+045551,2023,614.341,ServiceTitan Inc
+045551,2024,771.878,ServiceTitan Inc
+045551,2025,960.965,ServiceTitan Inc
+045768,2021,,SailPoint Inc
+045768,2022,552.827,SailPoint Inc
+045768,2023,699.572,SailPoint Inc
+045768,2024,861.611,SailPoint Inc
+045768,2025,1071.416,SailPoint Inc
+050290,2022,279.324,OneStream Inc
+050290,2023,374.921,OneStream Inc
+050290,2024,489.407,OneStream Inc
+050290,2025,601.934,OneStream Inc
+050341,2022,,FatPipe Inc
+050341,2023,17.861,FatPipe Inc
+050341,2024,16.289,FatPipe Inc
+050465,2022,62.437,YXT.COM Group Holding Ltd
+050465,2023,59.799,YXT.COM Group Holding Ltd
+050465,2024,45.374,YXT.COM Group Holding Ltd
+050535,2023,2.341,BeLive Holdings
+050535,2024,1.356,BeLive Holdings
+050620,2022,0.488,Cloudastructure Inc
+050620,2023,0.607,Cloudastructure Inc
+050620,2024,1.364,Cloudastructure Inc
+050621,2022,1.626,Diginex Limited
+050621,2023,1.3,Diginex Limited
+050621,2024,2.041,Diginex Limited
+050811,2022,68.386,Pony AI Inc
+050811,2023,71.899,Pony AI Inc
+050811,2024,75.025,Pony AI Inc
+050831,2021,,Ingram Micro Holding Corp
+050831,2022,50824.49,Ingram Micro Holding Corp
+050831,2023,48040.364,Ingram Micro Holding Corp
+050831,2024,47983.671,Ingram Micro Holding Corp
+050831,2025,52556.263,Ingram Micro Holding Corp
+050917,2022,2.968,Sagtec Global Ltd
+050917,2023,6.383,Sagtec Global Ltd
+050917,2024,11.629,Sagtec Global Ltd
+051008,2022,,Sandisk Corp
+051008,2023,6086.0,Sandisk Corp
+051008,2024,6663.0,Sandisk Corp
+051008,2025,7355.0,Sandisk Corp
+051025,2023,4.582,Robot Consulting Co Ltd
+051025,2024,4.511,Robot Consulting Co Ltd
+051031,2023,1.381,Phaos Technology Holdings (Cayman) Ltd
+051031,2024,0.129,Phaos Technology Holdings (Cayman) Ltd
+051139,2022,,CoreWeave Inc
+051139,2023,228.943,CoreWeave Inc
+051139,2024,1915.426,CoreWeave Inc
+051139,2025,5131.0,CoreWeave Inc
+051423,2023,257.268,BGIN Blockchain Ltd
+051423,2024,302.278,BGIN Blockchain Ltd
+051461,2022,,Circle Internet Group Inc
+051461,2023,1450.466,Circle Internet Group Inc
+051461,2024,1676.253,Circle Internet Group Inc
+051461,2025,2746.642,Circle Internet Group Inc
+051653,2023,3.248,Mega Fortune Co Ltd
+051653,2024,3.326,Mega Fortune Co Ltd
+051653,2025,11.085,Mega Fortune Co Ltd
+051705,2023,0.582,Platinum Analytics Cayman Ltd
+051705,2024,2.214,Platinum Analytics Cayman Ltd
+051705,2025,1.675,Platinum Analytics Cayman Ltd
+051863,2023,0.098,GrowHub Ltd (The)
+051863,2024,0.174,GrowHub Ltd (The)
+051921,2022,,Ralliant Corp
+051921,2023,2155.7,Ralliant Corp
+051921,2024,2154.7,Ralliant Corp
+051921,2025,2068.8,Ralliant Corp
+060707,2023,65.537,Ambiq Micro Inc
+060707,2024,76.067,Ambiq Micro Inc
+060707,2025,72.514,Ambiq Micro Inc
+060791,2023,,WhiteFiber Inc
+060791,2024,47.639,WhiteFiber Inc
+060801,2020,15.7,Socket Mobile Inc
+060801,2021,23.199,Socket Mobile Inc
+060801,2022,21.238,Socket Mobile Inc
+060801,2023,17.034,Socket Mobile Inc
+060801,2024,18.763,Socket Mobile Inc
+060801,2025,15.078,Socket Mobile Inc
+060849,2023,504.874,Figma Inc
+060849,2024,749.011,Figma Inc
+060849,2025,1055.788,Figma Inc
+061028,2020,251.568,Climb Global Solutions Inc
+061028,2021,282.582,Climb Global Solutions Inc
+061028,2022,304.348,Climb Global Solutions Inc
+061028,2023,352.013,Climb Global Solutions Inc
+061028,2024,465.607,Climb Global Solutions Inc
+061028,2025,652.517,Climb Global Solutions Inc
+061030,2020,64.886,Deswell Industries Inc
+061030,2021,85.98,Deswell Industries Inc
+061030,2022,77.337,Deswell Industries Inc
+061030,2023,69.368,Deswell Industries Inc
+061030,2024,67.61,Deswell Industries Inc
+061077,2020,57.62,GSE Systems Inc
+061077,2021,55.183,GSE Systems Inc
+061077,2022,47.734,GSE Systems Inc
+061077,2023,45.041,GSE Systems Inc
+061080,2023,2.182,TechCreate Group Ltd
+061080,2024,2.274,TechCreate Group Ltd
+061214,2020,16849.488,ASML Holding NV
+061214,2021,21166.769,ASML Holding NV
+061214,2022,22628.907,ASML Holding NV
+061214,2023,30461.66,ASML Holding NV
+061214,2024,29260.936,ASML Holding NV
+061214,2025,38355.508,ASML Holding NV
+061321,2020,51.3,Smith Micro Software Inc
+061321,2021,58.422,Smith Micro Software Inc
+061321,2022,48.513,Smith Micro Software Inc
+061321,2023,40.862,Smith Micro Software Inc
+061321,2024,20.555,Smith Micro Software Inc
+061321,2025,17.363,Smith Micro Software Inc
+061356,2020,590.623,Novanta Inc
+061356,2021,706.793,Novanta Inc
+061356,2022,860.903,Novanta Inc
+061356,2023,881.662,Novanta Inc
+061356,2024,949.245,Novanta Inc
+061356,2025,980.6,Novanta Inc
+061461,2023,248.854,Via Transportation Inc
+061461,2024,337.63,Via Transportation Inc
+061461,2025,434.337,Via Transportation Inc
+061562,2020,1415.826,Advanced Energy Industries Inc
+061562,2021,1455.954,Advanced Energy Industries Inc
+061562,2022,1845.422,Advanced Energy Industries Inc
+061562,2023,1655.81,Advanced Energy Industries Inc
+061562,2024,1482.042,Advanced Energy Industries Inc
+061562,2025,1798.8,Advanced Energy Industries Inc
+061587,2020,97.824,Intevac Inc
+061587,2021,38.524,Intevac Inc
+061587,2022,35.761,Intevac Inc
+061587,2023,52.665,Intevac Inc
+061587,2024,63.978,Intevac Inc
+061591,2020,5744.0,NetApp Inc
+061591,2021,6318.0,NetApp Inc
+061591,2022,6362.0,NetApp Inc
+061591,2023,6268.0,NetApp Inc
+061591,2024,6572.0,NetApp Inc
+061646,2020,29.947,Westell Technologies Inc
+061646,2021,37.986,Westell Technologies Inc
+061646,2022,47.26,Westell Technologies Inc
+061646,2023,34.968,Westell Technologies Inc
+061646,2024,42.44,Westell Technologies Inc
+061676,2020,3236.7,Citrix Systems Inc
+061676,2021,3217.17,Citrix Systems Inc
+061685,2020,1478.899,Nuance Communications Inc
+061685,2021,1362.379,Nuance Communications Inc
+061712,2020,16.379,Blonder Tongue Laboratories Inc.
+061712,2021,15.754,Blonder Tongue Laboratories Inc.
+061712,2022,18.115,Blonder Tongue Laboratories Inc.
+061766,2020,0.488,Astrotech Corp
+061766,2021,0.334,Astrotech Corp
+061766,2022,0.869,Astrotech Corp
+061766,2023,0.75,Astrotech Corp
+061766,2024,1.664,Astrotech Corp
+061766,2025,1.049,Astrotech Corp
+061814,2020,522.683,BE Semiconductor Industries NV
+061814,2021,852.195,BE Semiconductor Industries NV
+061814,2022,772.562,BE Semiconductor Industries NV
+061814,2023,639.842,BE Semiconductor Industries NV
+061814,2024,628.924,BE Semiconductor Industries NV
+061836,2020,4.838,Black Titan Corp
+061836,2021,1.526,Black Titan Corp
+061836,2022,0.557,Black Titan Corp
+061836,2023,0.184,Black Titan Corp
+061836,2024,0.0,Black Titan Corp
+061870,2020,3109.736,Open Text Corp
+061870,2021,3386.115,Open Text Corp
+061870,2022,3493.844,Open Text Corp
+061870,2023,4484.98,Open Text Corp
+061870,2024,5769.577,Open Text Corp
+061870,2025,5168.405,Open Text Corp
+061888,2020,0.0,ConectiSys Corp
+061888,2021,0.0,ConectiSys Corp
+061888,2022,0.0,ConectiSys Corp
+061888,2023,0.0,ConectiSys Corp
+061888,2024,0.0,ConectiSys Corp
+061888,2025,0.0,ConectiSys Corp
+061902,2020,1648.016,NICE Ltd
+061902,2021,1921.15,NICE Ltd
+061902,2022,2181.294,NICE Ltd
+061902,2023,2377.508,NICE Ltd
+061902,2024,2735.272,NICE Ltd
+061902,2025,2945.399,NICE Ltd
+062057,2020,180.343,WidePoint Corp
+062057,2021,87.338,WidePoint Corp
+062057,2022,94.103,WidePoint Corp
+062057,2023,106.026,WidePoint Corp
+062057,2024,142.572,WidePoint Corp
+062057,2025,150.545,WidePoint Corp
+062178,2020,12.921,Paid Inc
+062178,2021,14.89,Paid Inc
+062178,2022,16.586,Paid Inc
+062178,2023,16.565,Paid Inc
+062178,2024,18.586,Paid Inc
+062217,2020,34.968,LightPath Technologies Inc
+062217,2021,38.465,LightPath Technologies Inc
+062217,2022,35.559,LightPath Technologies Inc
+062217,2023,32.934,LightPath Technologies Inc
+062217,2024,31.726,LightPath Technologies Inc
+062217,2025,37.203,LightPath Technologies Inc
+062262,2020,34.478,Forward Industries Inc
+062262,2021,39.022,Forward Industries Inc
+062262,2022,42.337,Forward Industries Inc
+062262,2023,36.688,Forward Industries Inc
+062262,2024,30.195,Forward Industries Inc
+062262,2025,18.188,Forward Industries Inc
+062549,2020,158.733,KVH Industries Inc
+062549,2021,171.767,KVH Industries Inc
+062549,2022,138.878,KVH Industries Inc
+062549,2023,132.379,KVH Industries Inc
+062549,2024,113.828,KVH Industries Inc
+062549,2025,111.009,KVH Industries Inc
+062553,2020,55.277,Optical Cable Corp
+062553,2021,59.136,Optical Cable Corp
+062553,2022,69.079,Optical Cable Corp
+062553,2023,72.174,Optical Cable Corp
+062553,2024,66.674,Optical Cable Corp
+062553,2025,73.038,Optical Cable Corp
+062723,2020,311.202,Tucows Inc
+062723,2021,304.337,Tucows Inc
+062723,2022,321.142,Tucows Inc
+062723,2023,339.337,Tucows Inc
+062723,2024,362.275,Tucows Inc
+062723,2025,390.3,Tucows Inc
+062732,2020,1710.261,Sykes Enterprises Inc
+062956,2020,33.551,B.O.S. Better Online Solutions Ltd
+062956,2021,33.634,B.O.S. Better Online Solutions Ltd
+062956,2022,41.511,B.O.S. Better Online Solutions Ltd
+062956,2023,44.179,B.O.S. Better Online Solutions Ltd
+062956,2024,39.949,B.O.S. Better Online Solutions Ltd
+063080,2020,1681.297,ANSYS Inc
+063080,2021,1906.715,ANSYS Inc
+063080,2022,2065.553,ANSYS Inc
+063080,2023,2269.949,ANSYS Inc
+063080,2024,2544.809,ANSYS Inc
+063169,2020,5366.62,Dassault Systemes SE
+063169,2021,5527.517,Dassault Systemes SE
+063169,2022,6054.746,Dassault Systemes SE
+063169,2023,6578.352,Dassault Systemes SE
+063169,2024,6433.018,Dassault Systemes SE
+063169,2025,7321.494,Dassault Systemes SE
+063185,2020,2064.9,Check Point Software Technologies Ltd
+063185,2021,2166.8,Check Point Software Technologies Ltd
+063185,2022,2329.9,Check Point Software Technologies Ltd
+063185,2023,2414.7,Check Point Software Technologies Ltd
+063185,2024,2565.0,Check Point Software Technologies Ltd
+063185,2025,2725.4,Check Point Software Technologies Ltd
+063290,2020,1017.517,Pegasystems Inc
+063290,2021,1211.653,Pegasystems Inc
+063290,2022,1317.845,Pegasystems Inc
+063290,2023,1432.616,Pegasystems Inc
+063290,2024,1497.18,Pegasystems Inc
+063290,2025,1745.812,Pegasystems Inc
+063337,2020,1.44,MGT Capital Investments Inc
+063337,2021,0.883,MGT Capital Investments Inc
+063337,2022,0.809,MGT Capital Investments Inc
+063337,2023,0.399,MGT Capital Investments Inc
+063337,2024,0.322,MGT Capital Investments Inc
+063337,2025,0.087,MGT Capital Investments Inc
+063446,2020,0.017,Ainos Inc
+063446,2021,0.595,Ainos Inc
+063446,2022,3.52,Ainos Inc
+063446,2023,0.122,Ainos Inc
+063446,2024,0.021,Ainos Inc
+063446,2025,0.124,Ainos Inc
+063454,2020,11.309,Aware Inc
+063454,2021,16.854,Aware Inc
+063454,2022,16.008,Aware Inc
+063454,2023,18.244,Aware Inc
+063454,2024,17.389,Aware Inc
+063454,2025,17.293,Aware Inc
+063476,2020,503.778,Enghouse Systems Ltd
+063476,2021,467.177,Enghouse Systems Ltd
+063476,2022,427.585,Enghouse Systems Ltd
+063476,2023,454.022,Enghouse Systems Ltd
+063476,2024,502.505,Enghouse Systems Ltd
+063476,2025,498.878,Enghouse Systems Ltd
+063520,2020,30.595,TransAct Technologies Inc
+063520,2021,39.386,TransAct Technologies Inc
+063520,2022,58.139,TransAct Technologies Inc
+063520,2023,72.631,TransAct Technologies Inc
+063520,2024,43.384,TransAct Technologies Inc
+063520,2025,51.48,TransAct Technologies Inc
+063525,2020,,Metro One Telecommunications Inc
+063525,2021,0.171,Metro One Telecommunications Inc
+063525,2022,0.075,Metro One Telecommunications Inc
+063531,2020,3.09,MicroVision Inc
+063531,2021,2.5,MicroVision Inc
+063531,2022,0.664,MicroVision Inc
+063531,2023,7.259,MicroVision Inc
+063531,2024,4.696,MicroVision Inc
+063531,2025,1.208,MicroVision Inc
+063752,2020,0.185,SPYR Inc
+063752,2021,0.002,SPYR Inc
+063938,2020,21.999,SeaChange International Inc
+063938,2021,27.31,SeaChange International Inc
+063938,2022,32.493,SeaChange International Inc
+063986,2020,1568.323,ePlus Inc
+063986,2021,1821.019,ePlus Inc
+063986,2022,2067.718,ePlus Inc
+063986,2023,2225.302,ePlus Inc
+063986,2024,2068.789,ePlus Inc
+064021,2020,3.644,hopTo Inc
+064021,2021,3.613,hopTo Inc
+064021,2022,3.909,hopTo Inc
+064077,2020,0.048,SideChannel Inc
+064077,2021,0.015,SideChannel Inc
+064077,2022,4.789,SideChannel Inc
+064077,2023,6.572,SideChannel Inc
+064077,2024,7.4,SideChannel Inc
+064077,2025,7.351,SideChannel Inc
+064088,2020,2256.107,ViaSat Inc
+064088,2021,2787.635,ViaSat Inc
+064088,2022,2556.158,ViaSat Inc
+064088,2023,4283.758,ViaSat Inc
+064088,2024,4519.571,ViaSat Inc
+064278,2020,36.707,Eltek Ltd
+064278,2021,33.823,Eltek Ltd
+064278,2022,39.65,Eltek Ltd
+064278,2023,46.695,Eltek Ltd
+064278,2024,46.527,Eltek Ltd
+064278,2025,51.79,Eltek Ltd
+064356,2020,3532.157,Ciena Corp
+064356,2021,3620.684,Ciena Corp
+064356,2022,3632.661,Ciena Corp
+064356,2023,4386.549,Ciena Corp
+064356,2024,4014.955,Ciena Corp
+064356,2025,4769.507,Ciena Corp
+064492,2020,67.363,Computer Modelling Group Ltd
+064492,2021,66.202,Computer Modelling Group Ltd
+064492,2022,73.846,Computer Modelling Group Ltd
+064492,2023,108.679,Computer Modelling Group Ltd
+064492,2024,129.446,Computer Modelling Group Ltd
+064637,2020,110.128,EMCORE Corp
+064637,2021,158.444,EMCORE Corp
+064637,2022,124.126,EMCORE Corp
+064637,2023,97.716,EMCORE Corp
+064637,2024,85.896,EMCORE Corp
+064645,2020,2.837,BIO-key International Inc
+064645,2021,5.114,BIO-key International Inc
+064645,2022,7.02,BIO-key International Inc
+064645,2023,7.755,BIO-key International Inc
+064645,2024,6.93,BIO-key International Inc
+064645,2025,6.095,BIO-key International Inc
+064766,2020,246.322,Rambus Inc
+064766,2021,328.304,Rambus Inc
+064766,2022,454.793,Rambus Inc
+064766,2023,461.117,Rambus Inc
+064766,2024,556.624,Rambus Inc
+064766,2025,707.63,Rambus Inc
+064796,2020,4.018,MER Telemanagement Solutions Ltd
+064853,2020,4015.307,Qorvo Inc
+064853,2021,4645.714,Qorvo Inc
+064853,2022,3569.399,Qorvo Inc
+064853,2023,3769.506,Qorvo Inc
+064853,2024,3718.971,Qorvo Inc
+064915,2020,53.823,InTest Corp
+064915,2021,84.878,InTest Corp
+064915,2022,116.828,InTest Corp
+064915,2023,123.302,InTest Corp
+064915,2024,130.69,InTest Corp
+064915,2025,113.825,InTest Corp
+065021,2020,532.344,8x8 Inc
+065021,2021,638.13,8x8 Inc
+065021,2022,743.938,8x8 Inc
+065021,2023,728.705,8x8 Inc
+065021,2024,715.07,8x8 Inc
+065036,2020,8.634,QuickLogic Corp
+065036,2021,12.685,QuickLogic Corp
+065036,2022,16.18,QuickLogic Corp
+065036,2023,21.198,QuickLogic Corp
+065036,2024,20.112,QuickLogic Corp
+065036,2025,13.774,QuickLogic Corp
+065226,2020,307.865,QAD Inc
+065286,2020,16.6,Aehr Test Systems
+065286,2021,50.829,Aehr Test Systems
+065286,2022,64.961,Aehr Test Systems
+065286,2023,66.218,Aehr Test Systems
+065286,2024,58.968,Aehr Test Systems
+065421,2020,304.376,FARO Technologies Inc
+065421,2021,337.814,FARO Technologies Inc
+065421,2022,345.765,FARO Technologies Inc
+065421,2023,358.831,FARO Technologies Inc
+065421,2024,342.427,FARO Technologies Inc
+065460,2020,37.562,RADCOM Ltd
+065460,2021,40.282,RADCOM Ltd
+065460,2022,46.051,RADCOM Ltd
+065460,2023,51.6,RADCOM Ltd
+065460,2024,61.009,RADCOM Ltd
+065460,2025,71.494,RADCOM Ltd
+065552,2020,86.92,Identiv Inc
+065552,2021,103.769,Identiv Inc
+065552,2022,112.915,Identiv Inc
+065552,2023,116.383,Identiv Inc
+065552,2024,26.628,Identiv Inc
+065552,2025,21.484,Identiv Inc
+065607,2020,1166.044,OSI Systems Inc
+065607,2021,1146.902,OSI Systems Inc
+065607,2022,1183.236,OSI Systems Inc
+065607,2023,1278.427,OSI Systems Inc
+065607,2024,1538.758,OSI Systems Inc
+065607,2025,1713.166,OSI Systems Inc
+065899,2020,68.062,RealNetworks Inc
+065899,2021,58.183,RealNetworks Inc
+065934,2020,0.0,Pedro Resources Ltd
+065986,2020,893.0,BlackBerry Ltd
+065986,2021,718.0,BlackBerry Ltd
+065986,2022,656.0,BlackBerry Ltd
+065986,2023,853.0,BlackBerry Ltd
+065986,2024,534.9,BlackBerry Ltd
+065986,2025,549.1,BlackBerry Ltd
+065998,2020,29.707,Route1 Inc
+065998,2021,27.271,Route1 Inc
+065998,2022,22.045,Route1 Inc
+065998,2023,17.579,Route1 Inc
+065998,2024,15.154,Route1 Inc
+066009,2022,,Bitmine Immersion Technologies Inc
+066009,2023,0.645,Bitmine Immersion Technologies Inc
+066009,2024,3.31,Bitmine Immersion Technologies Inc
+066009,2025,6.095,Bitmine Immersion Technologies Inc
+066032,2020,488.318,Power Integrations Inc
+066032,2021,703.277,Power Integrations Inc
+066032,2022,651.138,Power Integrations Inc
+066032,2023,444.538,Power Integrations Inc
+066032,2024,418.973,Power Integrations Inc
+066032,2025,443.504,Power Integrations Inc
+066326,2020,348.664,Descartes Systems Group Inc (The)
+066326,2021,424.69,Descartes Systems Group Inc (The)
+066326,2022,486.014,Descartes Systems Group Inc (The)
+066326,2023,572.931,Descartes Systems Group Inc (The)
+066326,2024,651.0,Descartes Systems Group Inc (The)
+066326,2025,728.992,Descartes Systems Group Inc (The)
+066368,2020,1265.052,VeriSign Inc
+066368,2021,1327.576,VeriSign Inc
+066368,2022,1424.9,VeriSign Inc
+066368,2023,1493.1,VeriSign Inc
+066368,2024,1557.4,VeriSign Inc
+066368,2025,1656.6,VeriSign Inc
+066429,2020,3.889,Ztest Electronics Inc
+066429,2021,4.009,Ztest Electronics Inc
+066429,2022,4.415,Ztest Electronics Inc
+066429,2023,5.702,Ztest Electronics Inc
+066429,2024,9.756,Ztest Electronics Inc
+066429,2025,8.319,Ztest Electronics Inc
+066586,2020,2590.29,PC Connection Inc
+066586,2021,2892.595,PC Connection Inc
+066586,2022,3124.996,PC Connection Inc
+066586,2023,2850.644,PC Connection Inc
+066586,2024,2802.118,PC Connection Inc
+066586,2025,2872.746,PC Connection Inc
+066589,2020,1.628,GiveMePower Corp
+066589,2021,0.7,GiveMePower Corp
+066589,2022,0.49,GiveMePower Corp
+066589,2023,0.0,GiveMePower Corp
+066589,2024,0.0,GiveMePower Corp
+066632,2020,0.0,Kure Technologies Inc
+066632,2021,0.0,Kure Technologies Inc
+066632,2022,0.0,Kure Technologies Inc
+066632,2023,0.0,Kure Technologies Inc
+066632,2024,0.0,Kure Technologies Inc
+066686,2020,215.691,OneSpan Inc
+066686,2021,214.481,OneSpan Inc
+066686,2022,219.006,OneSpan Inc
+066686,2023,235.106,OneSpan Inc
+066686,2024,243.179,OneSpan Inc
+066686,2025,243.18,OneSpan Inc
+074362,2023,18.098,ChowChow Cloud International Holdings Ltd
+074362,2024,23.409,ChowChow Cloud International Holdings Ltd
+074382,2023,406.883,Netskope Inc
+074382,2024,538.268,Netskope Inc
+074382,2025,708.997,Netskope Inc
+074793,2023,21.289,Gloo Holdings Inc
+074793,2024,23.216,Gloo Holdings Inc
+074793,2025,94.66,Gloo Holdings Inc
+074813,2022,,Qnity Electronics Inc
+074813,2023,4035.0,Qnity Electronics Inc
+074813,2024,4335.0,Qnity Electronics Inc
+074813,2025,4754.0,Qnity Electronics Inc
+075133,2023,15.411,Rank One Computing Corp
+075133,2024,13.705,Rank One Computing Corp
+075270,2023,2.409,Virtuix Holdings Inc
+075270,2024,3.59,Virtuix Holdings Inc
+075508,2024,0.0,Braiin Ltd
+075508,2025,0.0,Braiin Ltd
+100245,2020,2828.057,Advantest Corp
+100245,2021,3433.121,Advantest Corp
+100245,2022,4213.942,Advantest Corp
+100245,2023,3216.526,Advantest Corp
+100245,2024,5206.766,Advantest Corp
+100401,2020,522.4,Spirent Communications
+100401,2021,576.0,Spirent Communications
+100401,2022,607.5,Spirent Communications
+100401,2023,474.3,Spirent Communications
+100401,2024,460.2,Spirent Communications
+102696,2020,5252.279,"Logitech International SA, Apples"
+102696,2021,5481.101,"Logitech International SA, Apples"
+102696,2022,4538.818,"Logitech International SA, Apples"
+102696,2023,4298.467,"Logitech International SA, Apples"
+102696,2024,4554.9,"Logitech International SA, Apples"
+103487,2020,32952.842,SAP SE
+103487,2021,31665.423,SAP SE
+103487,2022,32993.142,SAP SE
+103487,2023,34494.513,SAP SE
+103487,2024,35382.843,SAP SE
+103487,2025,43207.817,SAP SE
+105478,2020,0.0,Micromem Technologies Inc
+105478,2021,0.0,Micromem Technologies Inc
+105478,2022,0.0,Micromem Technologies Inc
+105478,2023,0.0,Micromem Technologies Inc
+105478,2024,0.0,Micromem Technologies Inc
+105478,2025,0.0,Micromem Technologies Inc
+105734,2020,7.472,MediaValet Inc
+105734,2021,9.341,MediaValet Inc
+105734,2022,12.841,MediaValet Inc
+105734,2023,16.398,MediaValet Inc
+105811,2020,67.694,HIVE Digital Technologies Ltd
+105811,2021,211.184,HIVE Digital Technologies Ltd
+105811,2022,106.318,HIVE Digital Technologies Ltd
+105811,2023,114.465,HIVE Digital Technologies Ltd
+105811,2024,115.279,HIVE Digital Technologies Ltd
+105950,2020,16.307,AgJunction Inc
+106233,2020,0.0,Lightwave Logic Inc
+106233,2021,0.0,Lightwave Logic Inc
+106233,2022,0.0,Lightwave Logic Inc
+106233,2023,0.041,Lightwave Logic Inc
+106233,2024,0.096,Lightwave Logic Inc
+106233,2025,0.237,Lightwave Logic Inc
+106957,2020,3.708,AirIQ Inc
+106957,2021,4.37,AirIQ Inc
+106957,2022,5.049,AirIQ Inc
+106957,2023,5.514,AirIQ Inc
+106957,2024,5.542,AirIQ Inc
+106965,2020,131.418,Sangoma Technologies Corporation
+106965,2021,167.345,Sangoma Technologies Corporation
+106965,2022,224.352,Sangoma Technologies Corporation
+106965,2023,252.53,Sangoma Technologies Corporation
+106965,2024,247.284,Sangoma Technologies Corporation
+106965,2025,236.692,Sangoma Technologies Corporation
+107399,2020,1.101,Enablence Technologies Inc
+107399,2021,2.521,Enablence Technologies Inc
+107399,2022,1.978,Enablence Technologies Inc
+107399,2023,1.961,Enablence Technologies Inc
+107399,2024,1.601,Enablence Technologies Inc
+107399,2025,5.941,Enablence Technologies Inc
+107446,2020,56.372,NetSol Technologies Inc
+107446,2021,54.921,NetSol Technologies Inc
+107446,2022,53.768,NetSol Technologies Inc
+107446,2023,52.394,NetSol Technologies Inc
+107446,2024,61.393,NetSol Technologies Inc
+107446,2025,66.089,NetSol Technologies Inc
+108068,2020,0.0,Hunter Technology Corp
+108068,2021,0.0,Hunter Technology Corp
+108068,2022,0.0,Hunter Technology Corp
+108348,2020,69.637,Pareteum Corp
+108532,2020,4.11,Titan Logix Corp
+108532,2021,3.534,Titan Logix Corp
+108532,2022,4.329,Titan Logix Corp
+108532,2023,6.214,Titan Logix Corp
+108532,2024,6.857,Titan Logix Corp
+108532,2025,6.754,Titan Logix Corp
+108557,2020,0.036,BlockchainK2 Corp
+108557,2021,0.115,BlockchainK2 Corp
+108557,2022,0.073,BlockchainK2 Corp
+108557,2023,0.032,BlockchainK2 Corp
+108557,2024,0.285,BlockchainK2 Corp
+108557,2025,0.143,BlockchainK2 Corp
+108630,2020,0.0,Oculus Inc
+108630,2021,0.0,Oculus Inc
+108630,2022,0.0,Oculus Inc
+108630,2023,0.0,Oculus Inc
+108630,2024,0.0,Oculus Inc
+108630,2025,0.0,Oculus Inc
+108648,2020,,Softchoice Corp
+108648,2021,903.066,Softchoice Corp
+108648,2022,928.214,Softchoice Corp
+108648,2023,816.404,Softchoice Corp
+109186,2020,34.753,Sonic Foundry Inc
+109186,2021,35.167,Sonic Foundry Inc
+109186,2022,27.466,Sonic Foundry Inc
+109186,2023,22.109,Sonic Foundry Inc
+109826,2020,586.372,Manhattan Associates Inc
+109826,2021,663.643,Manhattan Associates Inc
+109826,2022,767.084,Manhattan Associates Inc
+109826,2023,928.725,Manhattan Associates Inc
+109826,2024,1042.352,Manhattan Associates Inc
+109826,2025,1081.392,Manhattan Associates Inc
+110039,2020,5050.589,Amkor Technology Inc
+110039,2021,6138.329,Amkor Technology Inc
+110039,2022,7091.585,Amkor Technology Inc
+110039,2023,6503.065,Amkor Technology Inc
+110039,2024,6317.692,Amkor Technology Inc
+110039,2025,6707.981,Amkor Technology Inc
+110529,2020,26.352,Symbolic Logic Inc
+110529,2021,0.0,Symbolic Logic Inc
+110760,2020,95.361,AXT Inc
+110760,2021,137.393,AXT Inc
+110760,2022,141.118,AXT Inc
+110760,2023,75.795,AXT Inc
+110760,2024,99.361,AXT Inc
+110760,2025,88.326,AXT Inc
+111000,2020,239.482,Hackett Group Inc (The)
+111000,2021,278.809,Hackett Group Inc (The)
+111000,2022,293.742,Hackett Group Inc (The)
+111000,2023,296.59,Hackett Group Inc (The)
+111000,2024,313.855,Hackett Group Inc (The)
+111000,2025,305.626,Hackett Group Inc (The)
+111534,2020,480.735,Strategy Inc
+111534,2021,510.762,Strategy Inc
+111534,2022,499.264,Strategy Inc
+111534,2023,496.261,Strategy Inc
+111534,2024,463.456,Strategy Inc
+111534,2025,477.233,Strategy Inc
+111629,2020,16.387,Crexendo Inc
+111629,2021,28.092,Crexendo Inc
+111629,2022,37.554,Crexendo Inc
+111629,2023,53.199,Crexendo Inc
+111629,2024,60.838,Crexendo Inc
+111629,2025,68.167,Crexendo Inc
+111864,2020,16652.0,Cognizant Technology Solutions Corp
+111864,2021,18507.0,Cognizant Technology Solutions Corp
+111864,2022,19428.0,Cognizant Technology Solutions Corp
+111864,2023,19353.0,Cognizant Technology Solutions Corp
+111864,2024,19736.0,Cognizant Technology Solutions Corp
+111864,2025,21108.0,Cognizant Technology Solutions Corp
+111880,2020,4169.039,Amdocs Ltd
+111880,2021,4288.64,Amdocs Ltd
+111880,2022,4576.697,Amdocs Ltd
+111880,2023,4887.55,Amdocs Ltd
+111880,2024,5004.989,Amdocs Ltd
+111880,2025,4532.913,Amdocs Ltd
+112158,2020,5748.1,Celestica Inc
+112158,2021,5634.7,Celestica Inc
+112158,2022,7250.0,Celestica Inc
+112158,2023,7961.0,Celestica Inc
+112158,2024,9646.0,Celestica Inc
+112158,2025,12390.9,Celestica Inc
+112820,2020,123.101,Tecsys Inc
+112820,2021,137.2,Tecsys Inc
+112820,2022,152.424,Tecsys Inc
+112820,2023,171.242,Tecsys Inc
+112820,2024,176.454,Tecsys Inc
+114203,2020,43.518,Cemtrex Inc
+114203,2021,43.131,Cemtrex Inc
+114203,2022,50.275,Cemtrex Inc
+114203,2023,59.369,Cemtrex Inc
+114203,2024,66.864,Cemtrex Inc
+114203,2025,76.488,Cemtrex Inc
+114209,2020,0.099,Flexpoint Sensor Systems Inc
+114209,2021,0.21,Flexpoint Sensor Systems Inc
+114209,2022,0.151,Flexpoint Sensor Systems Inc
+114209,2023,0.106,Flexpoint Sensor Systems Inc
+114698,2020,29.424,eMagin Corp
+114698,2021,26.046,eMagin Corp
+114698,2022,30.531,eMagin Corp
+115313,2020,0.0,theglobe.com inc
+115313,2021,0.0,theglobe.com inc
+115313,2022,0.0,theglobe.com inc
+115313,2023,0.0,theglobe.com inc
+115313,2024,0.0,theglobe.com inc
+115831,2020,0.253,Network-1 Technologies Inc
+115831,2021,18.692,Network-1 Technologies Inc
+115831,2022,0.0,Network-1 Technologies Inc
+115831,2023,2.601,Network-1 Technologies Inc
+115831,2024,0.1,Network-1 Technologies Inc
+115831,2025,0.15,Network-1 Technologies Inc
+116164,2020,291.337,Computer Services Inc
+116164,2021,316.648,Computer Services Inc
+116166,2020,20.038,ReposiTrak Inc
+116166,2021,21.007,ReposiTrak Inc
+116166,2022,18.047,ReposiTrak Inc
+116166,2023,19.099,ReposiTrak Inc
+116166,2024,20.453,ReposiTrak Inc
+116166,2025,22.606,ReposiTrak Inc
+116943,2020,0.072,Voice Mobility International Inc
+116943,2021,0.055,Voice Mobility International Inc
+116943,2022,0.047,Voice Mobility International Inc
+116943,2023,0.044,Voice Mobility International Inc
+117027,2020,0.0,Mapath Capital Corp
+117027,2021,0.0,Mapath Capital Corp
+117027,2022,0.0,Mapath Capital Corp
+117027,2023,0.0,Mapath Capital Corp
+117027,2024,0.0,Mapath Capital Corp
+117768,2020,16675.0,NVIDIA Corporation
+117768,2021,26914.0,NVIDIA Corporation
+117768,2022,26974.0,NVIDIA Corporation
+117768,2023,60922.0,NVIDIA Corporation
+117768,2024,130497.0,NVIDIA Corporation
+117768,2025,215938.0,NVIDIA Corporation
+118223,2020,442.221,Bottomline Technologies Inc
+118223,2021,471.403,Bottomline Technologies Inc
+119275,2020,2330.0,MKS Inc
+119275,2021,2949.6,MKS Inc
+119275,2022,3547.0,MKS Inc
+119275,2023,3622.0,MKS Inc
+119275,2024,3586.0,MKS Inc
+119275,2025,3931.0,MKS Inc
+119574,2020,948.019,Extreme Networks Inc
+119574,2021,1009.418,Extreme Networks Inc
+119574,2022,1112.321,Extreme Networks Inc
+119574,2023,1312.454,Extreme Networks Inc
+119574,2024,1117.203,Extreme Networks Inc
+119574,2025,1140.067,Extreme Networks Inc
+120334,2020,448.588,Sierra Wireless Inc
+120334,2021,473.209,Sierra Wireless Inc
+120860,2020,220.774,AudioCodes Ltd
+120860,2021,248.92,AudioCodes Ltd
+120860,2022,275.093,AudioCodes Ltd
+120860,2023,244.383,AudioCodes Ltd
+120860,2024,242.176,AudioCodes Ltd
+120860,2025,245.604,AudioCodes Ltd
+121077,2020,2350.822,F5 Inc
+121077,2021,2603.416,F5 Inc
+121077,2022,2695.845,F5 Inc
+121077,2023,2813.169,F5 Inc
+121077,2024,2816.12,F5 Inc
+121077,2025,3088.072,F5 Inc
+121718,2020,4445.1,Juniper Networks Inc
+121718,2021,4735.4,Juniper Networks Inc
+121718,2022,5301.2,Juniper Networks Inc
+121718,2023,5564.5,Juniper Networks Inc
+121718,2024,5073.6,Juniper Networks Inc
+121759,2020,113.593,PowerFleet Inc
+121759,2021,126.208,PowerFleet Inc
+121759,2022,135.157,PowerFleet Inc
+121759,2023,133.736,PowerFleet Inc
+121759,2024,362.515,PowerFleet Inc
+121793,2020,37.088,Cyren Ltd
+121793,2021,31.187,Cyren Ltd
+122078,2020,460.454,NIC Inc
+122175,2020,0.208,VirnetX Holding Corp
+122175,2021,0.035,VirnetX Holding Corp
+122175,2022,0.048,VirnetX Holding Corp
+122175,2023,0.007,VirnetX Holding Corp
+122175,2024,0.005,VirnetX Holding Corp
+122175,2025,0.162,VirnetX Holding Corp
+122229,2020,0.0,SolarWindow Technologies Inc
+122229,2021,0.0,SolarWindow Technologies Inc
+122229,2022,0.0,SolarWindow Technologies Inc
+122229,2023,0.0,SolarWindow Technologies Inc
+122229,2024,0.0,SolarWindow Technologies Inc
+122229,2025,0.0,SolarWindow Technologies Inc
+122394,2020,612.133,Perficient Inc
+122394,2021,761.027,Perficient Inc
+122394,2022,905.062,Perficient Inc
+122394,2023,906.541,Perficient Inc
+122902,2020,831.282,NetScout Systems Inc
+122902,2021,855.575,NetScout Systems Inc
+122902,2022,914.53,NetScout Systems Inc
+122902,2023,829.455,NetScout Systems Inc
+122902,2024,822.679,NetScout Systems Inc
+124036,2020,72.729,eGain Corp
+124036,2021,78.287,eGain Corp
+124036,2022,91.951,eGain Corp
+124036,2023,98.011,eGain Corp
+124036,2024,92.803,eGain Corp
+124036,2025,88.431,eGain Corp
+124355,2020,11.772,AltiGen Communications Inc
+124355,2021,10.99,AltiGen Communications Inc
+124355,2022,11.891,AltiGen Communications Inc
+124355,2023,13.681,AltiGen Communications Inc
+124355,2024,13.619,AltiGen Communications Inc
+124355,2025,13.867,AltiGen Communications Inc
+125014,2020,77.456,PCTEL Inc
+125014,2021,87.807,PCTEL Inc
+125014,2022,99.428,PCTEL Inc
+125074,2020,250.027,Radware Ltd
+125074,2021,286.496,Radware Ltd
+125074,2022,293.426,Radware Ltd
+125074,2023,261.292,Radware Ltd
+125074,2024,274.88,Radware Ltd
+125074,2025,301.85,Radware Ltd
+125274,2020,47.144,BSQUARE Corp
+125274,2021,40.367,BSQUARE Corp
+125274,2022,36.487,BSQUARE Corp
+125276,2020,36.635,Crossroads Impact Corp
+125276,2021,932.656,Crossroads Impact Corp
+125276,2022,107.013,Crossroads Impact Corp
+125595,2020,3198.149,Akamai Technologies Inc
+125595,2021,3461.223,Akamai Technologies Inc
+125595,2022,3616.654,Akamai Technologies Inc
+125595,2023,3811.92,Akamai Technologies Inc
+125595,2024,3991.168,Akamai Technologies Inc
+125595,2025,4208.175,Akamai Technologies Inc
+125600,2020,6.494,Telkonet Inc
+125600,2021,6.274,Telkonet Inc
+125600,2022,8.448,Telkonet Inc
+125863,2020,3623.39,Vantiva SA
+125863,2021,3295.97,Vantiva SA
+125863,2022,2966.828,Vantiva SA
+126020,2020,10.735,Intellicheck Inc
+126020,2021,16.393,Intellicheck Inc
+126020,2022,15.966,Intellicheck Inc
+126020,2023,18.906,Intellicheck Inc
+126020,2024,19.997,Intellicheck Inc
+126020,2025,22.666,Intellicheck Inc
+126318,2020,30.456,Immersion Corp
+126318,2021,35.089,Immersion Corp
+126318,2022,38.461,Immersion Corp
+126318,2023,33.919,Immersion Corp
+126318,2024,1555.876,Immersion Corp
+126423,2020,556.496,Onto Innovation Inc
+126423,2021,788.899,Onto Innovation Inc
+126423,2022,1005.183,Onto Innovation Inc
+126423,2023,815.868,Onto Innovation Inc
+126423,2024,987.321,Onto Innovation Inc
+126423,2025,1005.263,Onto Innovation Inc
+126718,2020,342.505,PFSweb Inc
+126718,2021,277.302,PFSweb Inc
+126718,2022,295.122,PFSweb Inc
+126721,2020,3086.2,Teledyne Technologies Inc.
+126721,2021,4614.3,Teledyne Technologies Inc.
+126721,2022,5458.6,Teledyne Technologies Inc.
+126721,2023,5635.5,Teledyne Technologies Inc.
+126721,2024,5670.0,Teledyne Technologies Inc.
+126721,2025,6115.4,Teledyne Technologies Inc.
+127114,2020,0.0,Metalink Ltd
+127114,2021,0.0,Metalink Ltd
+127114,2022,0.0,Metalink Ltd
+127114,2023,0.0,Metalink Ltd
+127114,2024,0.0,Metalink Ltd
+128121,2020,144.526,Quarterhill Inc
+128121,2021,125.695,Quarterhill Inc
+128121,2022,305.69,Quarterhill Inc
+128121,2023,194.316,Quarterhill Inc
+128121,2024,153.305,Quarterhill Inc
+128121,2025,155.17,Quarterhill Inc
+132525,2020,24.31,UTStarcom Holdings Corp
+132525,2021,15.921,UTStarcom Holdings Corp
+132525,2022,14.052,UTStarcom Holdings Corp
+132525,2023,15.753,UTStarcom Holdings Corp
+132525,2024,10.878,UTStarcom Holdings Corp
+132525,2025,8.978,UTStarcom Holdings Corp
+132602,2020,0.522,01 Quantum Inc
+132602,2021,0.885,01 Quantum Inc
+132602,2022,1.027,01 Quantum Inc
+132602,2023,0.474,01 Quantum Inc
+132602,2024,0.413,01 Quantum Inc
+132602,2025,0.768,01 Quantum Inc
+132740,2020,10059.788,Infineon Technologies AG
+132740,2021,12819.308,Infineon Technologies AG
+132740,2022,13941.497,Infineon Technologies AG
+132740,2023,17260.948,Infineon Technologies AG
+132740,2024,16679.859,Infineon Technologies AG
+132740,2025,17202.287,Infineon Technologies AG
+132799,2020,60.367,Costar Technologies Inc
+132799,2021,52.924,Costar Technologies Inc
+132799,2022,54.184,Costar Technologies Inc
+133288,2020,886.677,Silicon Laboratories Inc
+133288,2021,720.86,Silicon Laboratories Inc
+133288,2022,1024.106,Silicon Laboratories Inc
+133288,2023,782.258,Silicon Laboratories Inc
+133288,2024,584.386,Silicon Laboratories Inc
+133288,2025,784.764,Silicon Laboratories Inc
+133364,2020,104.671,Absolute Software Corp
+133364,2021,120.784,Absolute Software Corp
+133364,2022,197.311,Absolute Software Corp
+133564,2020,155.859,Camtek Ltd
+133564,2021,269.659,Camtek Ltd
+133564,2022,320.909,Camtek Ltd
+133564,2023,315.375,Camtek Ltd
+133564,2024,429.234,Camtek Ltd
+133564,2025,496.072,Camtek Ltd
+133726,2020,1116.27,CMC Materials Inc
+133726,2021,1199.831,CMC Materials Inc
+133825,2020,43.864,Support.com Inc
+133844,2020,4.785,ImageWare Systems Inc.
+133844,2021,3.472,ImageWare Systems Inc.
+133869,2020,366.62,LivePerson Inc
+133869,2021,469.624,LivePerson Inc
+133869,2022,514.8,LivePerson Inc
+133869,2023,401.983,LivePerson Inc
+133869,2024,312.474,LivePerson Inc
+133869,2025,243.742,LivePerson Inc
+133905,2020,269.396,Nova Ltd
+133905,2021,416.113,Nova Ltd
+133905,2022,570.729,Nova Ltd
+133905,2023,517.922,Nova Ltd
+133905,2024,672.396,Nova Ltd
+133905,2025,880.577,Nova Ltd
+133949,2020,8.097,Qualstar Corp
+133949,2021,9.164,Qualstar Corp
+133949,2022,9.845,Qualstar Corp
+133949,2023,10.616,Qualstar Corp
+133949,2024,8.044,Qualstar Corp
+134932,2020,5255.0,ON Semiconductor Corp
+134932,2021,6739.8,ON Semiconductor Corp
+134932,2022,8326.2,ON Semiconductor Corp
+134932,2023,8253.0,ON Semiconductor Corp
+134932,2024,7082.3,ON Semiconductor Corp
+134932,2025,5995.4,ON Semiconductor Corp
+135044,2020,40.855,Pixelworks Inc
+135044,2021,55.102,Pixelworks Inc
+135044,2022,70.146,Pixelworks Inc
+135044,2023,59.677,Pixelworks Inc
+135044,2024,43.206,Pixelworks Inc
+135044,2025,0.693,Pixelworks Inc
+135527,2020,0.0,Live Current Media Inc
+135527,2021,0.0,Live Current Media Inc
+135527,2022,0.488,Live Current Media Inc
+135788,2020,100.326,CEVA Inc
+135788,2021,122.886,CEVA Inc
+135788,2022,134.648,CEVA Inc
+135788,2023,97.419,CEVA Inc
+135788,2024,106.939,CEVA Inc
+135788,2025,109.598,CEVA Inc
+135965,2020,843.795,Ribbon Communications Inc
+135965,2021,844.957,Ribbon Communications Inc
+135965,2022,819.76,Ribbon Communications Inc
+135965,2023,826.339,Ribbon Communications Inc
+135965,2024,833.881,Ribbon Communications Inc
+135965,2025,844.556,Ribbon Communications Inc
+137310,2020,2968.9,Marvell Technology Inc
+137310,2021,4462.383,Marvell Technology Inc
+137310,2022,5919.6,Marvell Technology Inc
+137310,2023,5507.7,Marvell Technology Inc
+137310,2024,5767.3,Marvell Technology Inc
+137310,2025,8194.6,Marvell Technology Inc
+137377,2020,265.583,EXFO Inc
+137434,2020,62.716,iGo Inc
+137573,2020,1859.313,Entegris Inc
+137573,2021,2298.893,Entegris Inc
+137573,2022,3282.033,Entegris Inc
+137573,2023,3523.926,Entegris Inc
+137573,2024,3241.208,Entegris Inc
+137573,2025,3196.6,Entegris Inc
+137602,2020,474.56,Axcelis Technologies Inc.
+137602,2021,662.428,Axcelis Technologies Inc.
+137602,2022,919.998,Axcelis Technologies Inc.
+137602,2023,1130.604,Axcelis Technologies Inc.
+137602,2024,1017.865,Axcelis Technologies Inc.
+137602,2025,839.048,Axcelis Technologies Inc.
+137861,2020,,Airspan Networks Holdings Inc
+137861,2021,177.283,Airspan Networks Holdings Inc
+137861,2022,167.259,Airspan Networks Holdings Inc
+137861,2023,77.568,Airspan Networks Holdings Inc
+137874,2020,386.45,SMTC Corp
+138467,2020,59.878,Lantronix Inc
+138467,2021,71.477,Lantronix Inc
+138467,2022,129.655,Lantronix Inc
+138467,2023,131.189,Lantronix Inc
+138467,2024,160.327,Lantronix Inc
+138467,2025,122.923,Lantronix Inc
+138501,2020,262.881,Ceragon Networks Ltd
+138501,2021,290.766,Ceragon Networks Ltd
+138501,2022,295.173,Ceragon Networks Ltd
+138501,2023,347.179,Ceragon Networks Ltd
+138501,2024,394.19,Ceragon Networks Ltd
+138501,2025,338.728,Ceragon Networks Ltd
+138521,2020,23.374,MIND CTI Ltd
+138521,2021,26.331,MIND CTI Ltd
+138521,2022,21.551,MIND CTI Ltd
+138521,2023,21.612,MIND CTI Ltd
+138521,2024,21.446,MIND CTI Ltd
+138521,2025,19.457,MIND CTI Ltd
+138841,2020,6.456,C-Com Satellite Systems Inc
+138841,2021,9.152,C-Com Satellite Systems Inc
+138841,2022,11.647,C-Com Satellite Systems Inc
+138841,2023,8.295,C-Com Satellite Systems Inc
+138841,2024,7.887,C-Com Satellite Systems Inc
+138922,2020,64.657,Photon Control Inc
+138961,2020,78.335,O2Micro International Ltd
+138961,2021,101.096,O2Micro International Ltd
+139804,2020,2105.322,TTM Technologies Inc
+139804,2021,2248.74,TTM Technologies Inc
+139804,2022,2495.046,TTM Technologies Inc
+139804,2023,2232.567,TTM Technologies Inc
+139804,2024,2442.753,TTM Technologies Inc
+139804,2025,2906.345,TTM Technologies Inc
+141119,2020,30.856,Quorum Information Technologies Inc
+141119,2021,36.051,Quorum Information Technologies Inc
+141119,2022,38.804,Quorum Information Technologies Inc
+141119,2023,40.264,Quorum Information Technologies Inc
+141119,2024,39.954,Quorum Information Technologies Inc
+141178,2020,313.832,Inseego Corp
+141178,2021,262.399,Inseego Corp
+141178,2022,245.323,Inseego Corp
+141178,2023,195.688,Inseego Corp
+141178,2024,191.244,Inseego Corp
+141178,2025,166.188,Inseego Corp
+141278,2020,6.795,MoSys Inc
+141308,2020,3.179,AnalytixInsight Inc
+141308,2021,3.001,AnalytixInsight Inc
+141308,2022,1.672,AnalytixInsight Inc
+141308,2023,0.513,AnalytixInsight Inc
+141308,2024,0.23,AnalytixInsight Inc
+141537,2020,5.132,RenoWorks Software Inc
+141537,2021,5.553,RenoWorks Software Inc
+141537,2022,5.942,RenoWorks Software Inc
+141537,2023,6.293,RenoWorks Software Inc
+141537,2024,6.943,RenoWorks Software Inc
+141887,2020,0.343,VerifyMe Inc
+141887,2021,0.867,VerifyMe Inc
+141887,2022,19.576,VerifyMe Inc
+141887,2023,25.313,VerifyMe Inc
+141887,2024,24.207,VerifyMe Inc
+141887,2025,16.398,VerifyMe Inc
+142539,2020,5.855,Noble Iron Inc
+142539,2021,6.741,Noble Iron Inc
+142539,2022,0.0,Noble Iron Inc
+142539,2023,0.0,Noble Iron Inc
+142539,2024,0.0,Noble Iron Inc
+142814,2020,1333.9,Synaptics Inc
+142814,2021,1339.6,Synaptics Inc
+142814,2022,1739.7,Synaptics Inc
+142814,2023,1355.1,Synaptics Inc
+142814,2024,959.4,Synaptics Inc
+142814,2025,1074.3,Synaptics Inc
+143055,2020,0.126,LQWD Technologies Corp
+143055,2021,0.07,LQWD Technologies Corp
+143055,2022,0.005,LQWD Technologies Corp
+143055,2023,0.001,LQWD Technologies Corp
+143055,2024,0.006,LQWD Technologies Corp
+143357,2020,44327.039,Accenture PLC
+143357,2021,50533.389,Accenture PLC
+143357,2022,61594.305,Accenture PLC
+143357,2023,64111.745,Accenture PLC
+143357,2024,64896.464,Accenture PLC
+143357,2025,69672.977,Accenture PLC
+144437,2020,88.046,PDF Solutions Inc
+144437,2021,111.06,PDF Solutions Inc
+144437,2022,148.549,PDF Solutions Inc
+144437,2023,165.835,PDF Solutions Inc
+144437,2024,179.465,PDF Solutions Inc
+144437,2025,219.024,PDF Solutions Inc
+145027,2020,0.0,Mass Megawatts Wind Power
+145027,2021,0.0,Mass Megawatts Wind Power
+145027,2022,0.0,Mass Megawatts Wind Power
+146738,2020,,Applied Digital Corp
+146738,2021,8.549,Applied Digital Corp
+146738,2022,55.392,Applied Digital Corp
+146738,2023,165.575,Applied Digital Corp
+146738,2024,144.193,Applied Digital Corp
+146840,2020,,CarbonMeta Technologies Inc
+146840,2021,,CarbonMeta Technologies Inc
+146840,2022,0.076,CarbonMeta Technologies Inc
+147242,2020,1273.705,Verint Systems Inc
+147242,2021,874.509,Verint Systems Inc
+147242,2022,902.245,Verint Systems Inc
+147242,2023,910.387,Verint Systems Inc
+147242,2024,909.186,Verint Systems Inc
+148170,2020,12.081,Riot Platforms Inc
+148170,2021,213.243,Riot Platforms Inc
+148170,2022,259.171,Riot Platforms Inc
+148170,2023,280.678,Riot Platforms Inc
+148170,2024,376.658,Riot Platforms Inc
+148170,2025,647.435,Riot Platforms Inc
+148390,2020,693.616,FormFactor Inc
+148390,2021,769.674,FormFactor Inc
+148390,2022,747.937,FormFactor Inc
+148390,2023,663.102,FormFactor Inc
+148390,2024,763.599,FormFactor Inc
+148390,2025,784.993,FormFactor Inc
+148396,2020,9.297,XTI Aerospace Inc
+148396,2021,15.995,XTI Aerospace Inc
+148396,2022,19.418,XTI Aerospace Inc
+148396,2023,4.562,XTI Aerospace Inc
+148396,2024,3.202,XTI Aerospace Inc
+150937,2020,10509.0,Seagate Technology Holdings plc
+150937,2021,10681.0,Seagate Technology Holdings plc
+150937,2022,11661.0,Seagate Technology Holdings plc
+150937,2023,7384.0,Seagate Technology Holdings plc
+150937,2024,6551.0,Seagate Technology Holdings plc
+150937,2025,9097.0,Seagate Technology Holdings plc
+153630,2020,0.0,Spectral Capital Corp
+153630,2021,0.0,Spectral Capital Corp
+153630,2022,0.098,Spectral Capital Corp
+153630,2023,0.0,Spectral Capital Corp
+153630,2024,0.0,Spectral Capital Corp
+154039,2020,1255.202,NETGEAR Inc
+154039,2021,1168.073,NETGEAR Inc
+154039,2022,932.472,NETGEAR Inc
+154039,2023,740.84,NETGEAR Inc
+154039,2024,673.759,NETGEAR Inc
+154039,2025,699.621,NETGEAR Inc
+155894,2020,55.209,OMNIQ Corp
+155894,2021,78.251,OMNIQ Corp
+155894,2022,102.545,OMNIQ Corp
+155894,2023,81.193,OMNIQ Corp
+155894,2024,73.573,OMNIQ Corp
+155941,2020,33.875,Track Group Inc
+155941,2021,39.661,Track Group Inc
+155941,2022,36.968,Track Group Inc
+155941,2023,34.476,Track Group Inc
+155941,2024,36.886,Track Group Inc
+155941,2025,35.215,Track Group Inc
+156153,2020,892.02,Adeia Inc
+156153,2021,877.696,Adeia Inc
+156153,2022,438.933,Adeia Inc
+156153,2023,388.788,Adeia Inc
+156153,2024,376.024,Adeia Inc
+156153,2025,443.386,Adeia Inc
+156155,2020,24675.563,TD SYNNEX Corp
+156155,2021,31614.169,TD SYNNEX Corp
+156155,2022,62343.81,TD SYNNEX Corp
+156155,2023,57555.416,TD SYNNEX Corp
+156155,2024,58452.436,TD SYNNEX Corp
+156155,2025,62508.086,TD SYNNEX Corp
+157855,2020,21252.0,SALESFORCE INC
+157855,2021,26492.0,SALESFORCE INC
+157855,2022,31352.0,SALESFORCE INC
+157855,2023,34857.0,SALESFORCE INC
+157855,2024,37895.0,SALESFORCE INC
+157855,2025,41525.0,SALESFORCE INC
+160213,2020,27.729,GSI Technology Inc
+160213,2021,33.384,GSI Technology Inc
+160213,2022,29.691,GSI Technology Inc
+160213,2023,21.765,GSI Technology Inc
+160213,2024,20.518,GSI Technology Inc
+160739,2020,21870.11,LG Display Co Ltd
+160739,2021,25083.812,LG Display Co Ltd
+160739,2022,20794.85,LG Display Co Ltd
+160739,2023,16449.901,LG Display Co Ltd
+160739,2024,18016.461,LG Display Co Ltd
+160888,2020,844.452,Monolithic Power Systems Inc
+160888,2021,1207.798,Monolithic Power Systems Inc
+160888,2022,1794.148,Monolithic Power Systems Inc
+160888,2023,1821.072,Monolithic Power Systems Inc
+160888,2024,2207.1,Monolithic Power Systems Inc
+160888,2025,2790.459,Monolithic Power Systems Inc
+162233,2020,10.514,Kustom Entertainment Inc
+162233,2021,21.413,Kustom Entertainment Inc
+162233,2022,37.01,Kustom Entertainment Inc
+162233,2023,28.248,Kustom Entertainment Inc
+162233,2024,19.65,Kustom Entertainment Inc
+162354,2020,1161.792,Dolby Laboratories Inc
+162354,2021,1281.256,Dolby Laboratories Inc
+162354,2022,1253.793,Dolby Laboratories Inc
+162354,2023,1299.744,Dolby Laboratories Inc
+162354,2024,1273.721,Dolby Laboratories Inc
+162354,2025,1349.13,Dolby Laboratories Inc
+162408,2020,0.096,The9 Ltd
+162408,2021,21.39,The9 Ltd
+162408,2022,17.237,The9 Ltd
+162408,2023,25.251,The9 Ltd
+162408,2024,15.305,The9 Ltd
+162643,2020,0.0,Quantum Computing Inc
+162643,2021,0.0,Quantum Computing Inc
+162643,2022,0.136,Quantum Computing Inc
+162643,2023,0.358,Quantum Computing Inc
+162643,2024,0.373,Quantum Computing Inc
+162643,2025,0.682,Quantum Computing Inc
+163058,2020,31.75,VIQ Solutions Inc
+163058,2021,31.047,VIQ Solutions Inc
+163058,2022,45.844,VIQ Solutions Inc
+163058,2023,41.024,VIQ Solutions Inc
+163058,2024,43.164,VIQ Solutions Inc
+163708,2020,0.899,Acceleware Ltd
+163708,2021,0.753,Acceleware Ltd
+163708,2022,0.328,Acceleware Ltd
+163708,2023,0.279,Acceleware Ltd
+163708,2024,5.233,Acceleware Ltd
+163708,2025,0.719,Acceleware Ltd
+163806,2020,65.705,Net Element Inc
+164211,2020,539.521,Silicon Motion Technology Corp
+164211,2021,922.1,Silicon Motion Technology Corp
+164211,2022,945.921,Silicon Motion Technology Corp
+164211,2023,639.142,Silicon Motion Technology Corp
+164211,2024,803.552,Silicon Motion Technology Corp
+164211,2025,885.627,Silicon Motion Technology Corp
+164401,2020,1.752,Cleartronic Inc
+164401,2021,1.651,Cleartronic Inc
+164401,2022,2.018,Cleartronic Inc
+164401,2023,2.132,Cleartronic Inc
+164401,2024,3.126,Cleartronic Inc
+164401,2025,4.103,Cleartronic Inc
+164702,2020,503.327,Hollysys Automation Technologies Ltd
+164702,2021,593.466,Hollysys Automation Technologies Ltd
+164702,2022,707.462,Hollysys Automation Technologies Ltd
+164702,2023,777.373,Hollysys Automation Technologies Ltd
+165551,2020,96.416,Vecima Networks Inc
+165551,2021,124.177,Vecima Networks Inc
+165551,2022,186.814,Vecima Networks Inc
+165551,2023,303.437,Vecima Networks Inc
+165551,2024,291.047,Vecima Networks Inc
+165551,2025,285.863,Vecima Networks Inc
+166226,2020,4.72,Intermap Technologies Corp
+166226,2021,5.799,Intermap Technologies Corp
+166226,2022,6.795,Intermap Technologies Corp
+166226,2023,6.197,Intermap Technologies Corp
+166226,2024,17.637,Intermap Technologies Corp
+166460,2020,0.067,Ascent Solar Technologies Inc
+166460,2021,0.608,Ascent Solar Technologies Inc
+166460,2022,1.223,Ascent Solar Technologies Inc
+166460,2023,0.458,Ascent Solar Technologies Inc
+166460,2024,0.042,Ascent Solar Technologies Inc
+166562,2020,1247.934,Vonage Holdings Corp
+166562,2021,1409.015,Vonage Holdings Corp
+166583,2020,82.681,Luna Innovations Inc
+166583,2021,87.513,Luna Innovations Inc
+166583,2022,109.497,Luna Innovations Inc
+166593,2020,291.67,Synchronoss Technologies Inc
+166593,2021,280.615,Synchronoss Technologies Inc
+166593,2022,252.628,Synchronoss Technologies Inc
+166593,2023,164.196,Synchronoss Technologies Inc
+166593,2024,173.594,Synchronoss Technologies Inc
+166743,2020,0.0,SmartMetric Inc
+166743,2021,0.0,SmartMetric Inc
+166743,2022,0.0,SmartMetric Inc
+166743,2023,0.0,SmartMetric Inc
+166743,2024,0.0,SmartMetric Inc
+170335,2020,1050.01,Proofpoint Inc
+170616,2020,2229.385,Splunk Inc
+170616,2021,2673.664,Splunk Inc
+170616,2022,3653.708,Splunk Inc
+170616,2023,4215.595,Splunk Inc
+170756,2020,8.253,Intellinetics Inc
+170756,2021,11.46,Intellinetics Inc
+170756,2022,14.017,Intellinetics Inc
+170756,2023,16.886,Intellinetics Inc
+170756,2024,18.018,Intellinetics Inc
+171007,2020,4519.484,ServiceNow Inc
+171007,2021,5896.0,ServiceNow Inc
+171007,2022,7245.0,ServiceNow Inc
+171007,2023,8971.0,ServiceNow Inc
+171007,2024,10984.0,ServiceNow Inc
+171007,2025,13278.0,ServiceNow Inc
+171067,2020,3408.4,Palo Alto Networks Inc
+171067,2021,4256.1,Palo Alto Networks Inc
+171067,2022,5501.5,Palo Alto Networks Inc
+171067,2023,6892.7,Palo Alto Networks Inc
+171067,2024,8027.5,Palo Alto Networks Inc
+171067,2025,9221.5,Palo Alto Networks Inc
+174077,2020,723.472,Commvault Systems Inc
+174077,2021,769.591,Commvault Systems Inc
+174077,2022,784.59,Commvault Systems Inc
+174077,2023,839.247,Commvault Systems Inc
+174077,2024,995.619,Commvault Systems Inc
+174302,2020,3969.0,Constellation Software Inc
+174302,2021,5107.0,Constellation Software Inc
+174302,2022,6622.0,Constellation Software Inc
+174302,2023,8407.0,Constellation Software Inc
+174302,2024,10066.0,Constellation Software Inc
+174302,2025,11623.0,Constellation Software Inc
+175342,2020,11.063,Taoping Inc
+175342,2021,24.846,Taoping Inc
+175342,2022,24.233,Taoping Inc
+175342,2023,38.636,Taoping Inc
+175342,2024,36.673,Taoping Inc
+175404,2020,2711.332,First Solar Inc
+175404,2021,2858.277,First Solar Inc
+175404,2022,2619.319,First Solar Inc
+175404,2023,3318.602,First Solar Inc
+175404,2024,4206.289,First Solar Inc
+175404,2025,5219.376,First Solar Inc
+175955,2020,1200.724,IPG Photonics Corp
+175955,2021,1460.86,IPG Photonics Corp
+175955,2022,1429.547,IPG Photonics Corp
+175955,2023,1287.439,IPG Photonics Corp
+175955,2024,977.134,IPG Photonics Corp
+175955,2025,1003.777,IPG Photonics Corp
+175982,2020,3476.495,Canadian Solar Inc
+175982,2021,5277.169,Canadian Solar Inc
+175982,2022,7468.61,Canadian Solar Inc
+175982,2023,7613.626,Canadian Solar Inc
+175982,2024,5993.409,Canadian Solar Inc
+175982,2025,5595.107,Canadian Solar Inc
+176021,2020,135.922,Allot Ltd
+176021,2021,145.6,Allot Ltd
+176021,2022,122.737,Allot Ltd
+176021,2023,93.15,Allot Ltd
+176021,2024,92.195,Allot Ltd
+176021,2025,101.993,Allot Ltd
+176035,2020,47.234,Netlist Inc
+176035,2021,142.355,Netlist Inc
+176035,2022,161.637,Netlist Inc
+176035,2023,69.205,Netlist Inc
+176035,2024,147.103,Netlist Inc
+176035,2025,188.63,Netlist Inc
+176251,2020,249.128,Information Services Group Inc
+176251,2021,277.832,Information Services Group Inc
+176251,2022,286.267,Information Services Group Inc
+176251,2023,291.054,Information Services Group Inc
+176251,2024,247.585,Information Services Group Inc
+176251,2025,244.725,Information Services Group Inc
+176304,2020,51.243,Baijiayun Group Ltd
+176304,2021,62.465,Baijiayun Group Ltd
+176304,2022,,Baijiayun Group Ltd
+176304,2023,82.25,Baijiayun Group Ltd
+176304,2024,59.795,Baijiayun Group Ltd
+176304,2025,42.537,Baijiayun Group Ltd
+176567,2020,3339.281,Super Micro Computer Inc
+176567,2021,3557.422,Super Micro Computer Inc
+176567,2022,5196.099,Super Micro Computer Inc
+176567,2023,7123.482,Super Micro Computer Inc
+176567,2024,14989.251,Super Micro Computer Inc
+176567,2025,21972.042,Super Micro Computer Inc
+176572,2020,238.642,Aviat Networks Inc
+176572,2021,274.911,Aviat Networks Inc
+176572,2022,302.959,Aviat Networks Inc
+176572,2023,346.593,Aviat Networks Inc
+176572,2024,408.083,Aviat Networks Inc
+176572,2025,434.606,Aviat Networks Inc
+176768,2020,10.907,Bridgeline Digital Inc
+176768,2021,13.259,Bridgeline Digital Inc
+176768,2022,16.819,Bridgeline Digital Inc
+176768,2023,15.885,Bridgeline Digital Inc
+176768,2024,15.358,Bridgeline Digital Inc
+176768,2025,15.383,Bridgeline Digital Inc
+177058,2020,11.77,SuperCom Ltd
+177058,2021,12.267,SuperCom Ltd
+177058,2022,17.649,SuperCom Ltd
+177058,2023,26.57,SuperCom Ltd
+177058,2024,27.635,SuperCom Ltd
+177190,2020,0.0,Rivulet Entertainment Inc
+177190,2021,0.0,Rivulet Entertainment Inc
+177190,2022,0.0,Rivulet Entertainment Inc
+177190,2023,0.0,Rivulet Entertainment Inc
+177190,2024,0.0,Rivulet Entertainment Inc
+177190,2025,10.0,Rivulet Entertainment Inc
+177257,2020,1355.596,Infinera Corp
+177257,2021,1425.205,Infinera Corp
+177257,2022,1573.242,Infinera Corp
+177257,2023,1614.128,Infinera Corp
+177257,2024,1418.446,Infinera Corp
+177267,2020,12172.0,TE Connectivity plc
+177267,2021,14923.0,TE Connectivity plc
+177267,2022,16281.0,TE Connectivity plc
+177267,2023,16034.0,TE Connectivity plc
+177267,2024,15845.0,TE Connectivity plc
+177267,2025,17262.0,TE Connectivity plc
+177281,2020,1.663,Cavitation Technologies Inc
+177281,2021,0.558,Cavitation Technologies Inc
+177281,2022,1.665,Cavitation Technologies Inc
+177281,2023,0.433,Cavitation Technologies Inc
+177281,2024,1.363,Cavitation Technologies Inc
+177281,2025,0.203,Cavitation Technologies Inc
+177315,2020,230.194,Edgio Inc
+177315,2021,217.63,Edgio Inc
+177315,2022,338.598,Edgio Inc
+177426,2020,0.0,POET Technologies Inc
+177426,2021,0.209,POET Technologies Inc
+177426,2022,0.553,POET Technologies Inc
+177426,2023,0.466,POET Technologies Inc
+177426,2024,0.041,POET Technologies Inc
+177528,2020,45.062,TSS Inc
+177528,2021,27.41,TSS Inc
+177528,2022,30.637,TSS Inc
+177528,2023,54.399,TSS Inc
+177528,2024,148.144,TSS Inc
+177528,2025,245.719,TSS Inc
+177744,2020,252.424,PROS Holdings Inc
+177744,2021,251.423,PROS Holdings Inc
+177744,2022,276.137,PROS Holdings Inc
+177744,2023,303.708,PROS Holdings Inc
+177744,2024,330.372,PROS Holdings Inc
+177879,2020,38.377,Blackline Safety Corp
+177879,2021,54.312,Blackline Safety Corp
+177879,2022,72.931,Blackline Safety Corp
+177879,2023,100.006,Blackline Safety Corp
+177879,2024,127.286,Blackline Safety Corp
+177879,2025,150.471,Blackline Safety Corp
+178083,2020,11767.0,VMware Inc
+178083,2021,12851.0,VMware Inc
+178083,2022,13350.0,VMware Inc
+178153,2020,5.984,Neonode Inc
+178153,2021,5.836,Neonode Inc
+178153,2022,5.67,Neonode Inc
+178153,2023,4.449,Neonode Inc
+178153,2024,3.108,Neonode Inc
+178153,2025,2.062,Neonode Inc
+178303,2020,0.049,Cytta Corp
+178303,2021,0.095,Cytta Corp
+178303,2022,0.006,Cytta Corp
+178303,2023,0.03,Cytta Corp
+178303,2024,0.004,Cytta Corp
+178310,2020,1836.0,Teradata Corporation
+178310,2021,1917.0,Teradata Corporation
+178310,2022,1795.0,Teradata Corporation
+178310,2023,1833.0,Teradata Corporation
+178310,2024,1750.0,Teradata Corporation
+178310,2025,1663.0,Teradata Corporation
+178348,2020,20.511,Voxtur Analytics Corp
+178348,2021,95.992,Voxtur Analytics Corp
+178348,2022,150.878,Voxtur Analytics Corp
+178348,2023,48.959,Voxtur Analytics Corp
+178348,2024,45.737,Voxtur Analytics Corp
+178377,2020,138.628,SPI Energy Co Ltd
+178377,2021,161.993,SPI Energy Co Ltd
+178377,2022,177.518,SPI Energy Co Ltd
+178494,2020,10.145,Remark Holdings Inc
+178494,2021,15.99,Remark Holdings Inc
+178494,2022,11.666,Remark Holdings Inc
+178494,2023,4.402,Remark Holdings Inc
+178719,2020,18.515,Redline Communications Group Inc
+178719,2021,19.547,Redline Communications Group Inc
+178865,2020,4.467,Rubicon Technology Inc
+178865,2021,4.061,Rubicon Technology Inc
+178865,2022,3.587,Rubicon Technology Inc
+178882,2020,1.484,Iveda Solutions Inc
+178882,2021,1.918,Iveda Solutions Inc
+178882,2022,4.468,Iveda Solutions Inc
+178882,2023,6.496,Iveda Solutions Inc
+178882,2024,6.021,Iveda Solutions Inc
+179184,2020,18.677,High Wire Networks Inc
+179184,2021,27.207,High Wire Networks Inc
+179184,2022,55.049,High Wire Networks Inc
+179184,2023,26.993,High Wire Networks Inc
+179184,2024,8.379,High Wire Networks Inc
+179363,2020,9.321,Data Storage Corp
+179363,2021,14.876,Data Storage Corp
+179363,2022,23.871,Data Storage Corp
+179363,2023,24.96,Data Storage Corp
+179363,2024,25.371,Data Storage Corp
+179454,2020,,DecisionPoint Systems Inc
+179454,2021,65.943,DecisionPoint Systems Inc
+179454,2022,97.415,DecisionPoint Systems Inc
+179454,2023,115.594,DecisionPoint Systems Inc
+179583,2020,1641.836,Fabrinet
+179583,2021,1879.35,Fabrinet
+179583,2022,2262.224,Fabrinet
+179583,2023,2645.237,Fabrinet
+179583,2024,2882.967,Fabrinet
+179583,2025,3419.327,Fabrinet
+179690,2020,1019.241,SolarWinds Corp
+179690,2021,718.632,SolarWinds Corp
+179690,2022,719.367,SolarWinds Corp
+179690,2023,758.74,SolarWinds Corp
+179690,2024,796.895,SolarWinds Corp
+180272,2020,1238.5,Black Knight Inc
+180272,2021,1475.2,Black Knight Inc
+180272,2022,1551.9,Black Knight Inc
+180275,2020,0.006,Prospect Prediction Markets Inc
+180275,2021,0.003,Prospect Prediction Markets Inc
+180275,2022,0.001,Prospect Prediction Markets Inc
+180275,2023,0.0,Prospect Prediction Markets Inc
+180275,2024,0.0,Prospect Prediction Markets Inc
+180275,2025,0.0,Prospect Prediction Markets Inc
+180345,2020,31.059,Research Solutions Inc
+180345,2021,31.756,Research Solutions Inc
+180345,2022,32.934,Research Solutions Inc
+180345,2023,37.703,Research Solutions Inc
+180345,2024,44.624,Research Solutions Inc
+180345,2025,49.058,Research Solutions Inc
+180711,2020,23888.0,Broadcom Inc
+180711,2021,27450.0,Broadcom Inc
+180711,2022,33203.0,Broadcom Inc
+180711,2023,35819.0,Broadcom Inc
+180711,2024,51574.0,Broadcom Inc
+180711,2025,63887.0,Broadcom Inc
+180753,2022,,Quantum eMotion Corp
+180753,2023,0.0,Quantum eMotion Corp
+180753,2024,0.0,Quantum eMotion Corp
+181290,2020,23.99,Digimarc Corp
+181290,2021,26.52,Digimarc Corp
+181290,2022,29.997,Digimarc Corp
+181290,2023,34.851,Digimarc Corp
+181290,2024,38.418,Digimarc Corp
+181290,2025,33.913,Digimarc Corp
+183139,2020,18.526,ACCESS Newswire Inc
+183139,2021,21.883,ACCESS Newswire Inc
+183139,2022,23.514,ACCESS Newswire Inc
+183139,2023,33.378,ACCESS Newswire Inc
+183139,2024,23.057,ACCESS Newswire Inc
+183139,2025,22.619,ACCESS Newswire Inc
+183377,2020,2594.4,Fortinet Inc
+183377,2021,3342.2,Fortinet Inc
+183377,2022,4417.4,Fortinet Inc
+183377,2023,5304.8,Fortinet Inc
+183377,2024,5955.8,Fortinet Inc
+183377,2025,6799.6,Fortinet Inc
+183474,2020,17.666,TrueContext Corp
+183474,2021,19.354,TrueContext Corp
+183474,2022,21.327,TrueContext Corp
+183474,2023,24.371,TrueContext Corp
+183488,2020,0.0,Max Sound Corp
+183488,2021,0.288,Max Sound Corp
+183547,2020,20.044,Coda Octopus Group Inc
+183547,2021,21.332,Coda Octopus Group Inc
+183547,2022,22.226,Coda Octopus Group Inc
+183547,2023,19.352,Coda Octopus Group Inc
+183547,2024,20.316,Coda Octopus Group Inc
+183547,2025,26.563,Coda Octopus Group Inc
+183666,2020,47.989,FiEE Inc
+183666,2021,55.422,FiEE Inc
+183666,2022,50.622,FiEE Inc
+183666,2023,26.106,FiEE Inc
+183666,2024,0.64,FiEE Inc
+183666,2025,6.194,FiEE Inc
+183903,2020,541.239,Calix Inc
+183903,2021,679.394,Calix Inc
+183903,2022,867.827,Calix Inc
+183903,2023,1039.593,Calix Inc
+183903,2024,831.518,Calix Inc
+183903,2025,1000.01,Calix Inc
+183974,2020,312.63,SPS Commerce Inc
+183974,2021,385.276,SPS Commerce Inc
+183974,2022,450.875,SPS Commerce Inc
+183974,2023,536.91,SPS Commerce Inc
+183974,2024,637.765,SPS Commerce Inc
+183974,2025,751.505,SPS Commerce Inc
+184053,2020,2.807,GINSMS Inc
+184053,2021,2.724,GINSMS Inc
+184053,2022,3.024,GINSMS Inc
+184053,2023,3.189,GINSMS Inc
+184053,2024,2.506,GINSMS Inc
+184053,2025,1.458,GINSMS Inc
+184101,2020,240.351,Telenav Inc
+184113,2020,11.581,Vuzix Corp
+184113,2021,13.165,Vuzix Corp
+184113,2022,11.836,Vuzix Corp
+184113,2023,12.129,Vuzix Corp
+184113,2024,5.755,Vuzix Corp
+184113,2025,6.281,Vuzix Corp
+184155,2020,675.602,Daqo New Energy Corp
+184155,2021,1678.793,Daqo New Energy Corp
+184155,2022,4608.35,Daqo New Energy Corp
+184155,2023,2307.695,Daqo New Energy Corp
+184155,2024,1029.08,Daqo New Energy Corp
+184155,2025,665.415,Daqo New Energy Corp
+184182,2020,5345.493,JinkoSolar Holding Co Ltd
+184182,2021,6426.933,JinkoSolar Holding Co Ltd
+184182,2022,12052.377,JinkoSolar Holding Co Ltd
+184182,2023,16737.281,JinkoSolar Holding Co Ltd
+184182,2024,12639.189,JinkoSolar Holding Co Ltd
+184182,2025,9364.361,JinkoSolar Holding Co Ltd
+184388,2020,0.115,SUIC Worldwide Holdings Ltd
+184388,2021,0.379,SUIC Worldwide Holdings Ltd
+184388,2022,0.221,SUIC Worldwide Holdings Ltd
+184388,2023,0.15,SUIC Worldwide Holdings Ltd
+184388,2024,0.0,SUIC Worldwide Holdings Ltd
+184545,2020,4.293,TROOPS Inc
+184545,2021,3.683,TROOPS Inc
+184545,2022,3.875,TROOPS Inc
+184545,2023,3.569,TROOPS Inc
+184545,2024,10.073,TROOPS Inc
+184551,2020,478.596,MaxLinear Inc
+184551,2021,892.398,MaxLinear Inc
+184551,2022,1120.252,MaxLinear Inc
+184551,2023,693.263,MaxLinear Inc
+184551,2024,360.528,MaxLinear Inc
+184551,2025,467.641,MaxLinear Inc
+184576,2020,998.23,Envestnet Inc
+184576,2021,1186.517,Envestnet Inc
+184576,2022,1239.784,Envestnet Inc
+184576,2023,1245.62,Envestnet Inc
+184580,2020,225.245,EACO Corp
+184580,2021,237.962,EACO Corp
+184580,2022,292.562,EACO Corp
+184580,2023,319.397,EACO Corp
+184580,2024,356.231,EACO Corp
+184580,2025,427.931,EACO Corp
+184604,2020,464.909,Alpha and Omega Semiconductor Limited
+184604,2021,656.902,Alpha and Omega Semiconductor Limited
+184604,2022,777.552,Alpha and Omega Semiconductor Limited
+184604,2023,691.321,Alpha and Omega Semiconductor Limited
+184604,2024,657.274,Alpha and Omega Semiconductor Limited
+184604,2025,696.162,Alpha and Omega Semiconductor Limited
+184702,2020,371.163,NeoPhotonics Corp
+184702,2021,290.289,NeoPhotonics Corp
+184725,2020,8612.0,NXP Semiconductors NV
+184725,2021,11063.0,NXP Semiconductors NV
+184725,2022,13205.0,NXP Semiconductors NV
+184725,2023,13276.0,NXP Semiconductors NV
+184725,2024,12614.0,NXP Semiconductors NV
+184725,2025,12269.0,NXP Semiconductors NV
+184797,2020,1158.484,RealPage Inc
+185112,2020,682.954,Inphi Corp
+185138,2020,269.812,Vishay Precision Group Inc
+185138,2021,317.919,Vishay Precision Group Inc
+185138,2022,362.58,Vishay Precision Group Inc
+185138,2023,355.048,Vishay Precision Group Inc
+185138,2024,306.522,Vishay Precision Group Inc
+185138,2025,307.202,Vishay Precision Group Inc
+185369,2020,2.561,Engagement Labs Inc
+185380,2020,6.068,SemiLEDs Corp
+185380,2021,4.735,SemiLEDs Corp
+185380,2022,7.051,SemiLEDs Corp
+185380,2023,5.979,SemiLEDs Corp
+185380,2024,5.183,SemiLEDs Corp
+185380,2025,43.009,SemiLEDs Corp
+185587,2020,0.807,NextTrip Inc
+185587,2021,1.652,NextTrip Inc
+185587,2022,0.63,NextTrip Inc
+185587,2023,0.459,NextTrip Inc
+185587,2024,0.502,NextTrip Inc
+185646,2020,740.916,Cornerstone OnDemand Inc
+185884,2020,0.327,Leonovus Inc
+185884,2021,0.078,Leonovus Inc
+185884,2022,0.005,Leonovus Inc
+185884,2023,0.0,Leonovus Inc
+185884,2024,0.0,Leonovus Inc
+186129,2020,194.601,ServiceSource International Inc
+186129,2021,195.704,ServiceSource International Inc
+186440,2020,42.698,Tenet Fintech Group Inc
+186440,2021,103.633,Tenet Fintech Group Inc
+186440,2022,109.879,Tenet Fintech Group Inc
+186440,2023,42.087,Tenet Fintech Group Inc
+186440,2024,2.844,Tenet Fintech Group Inc
+186796,2020,0.0,Nexoptic Technology Corp
+186796,2021,0.0,Nexoptic Technology Corp
+186796,2022,0.0,Nexoptic Technology Corp
+186796,2023,0.0,Nexoptic Technology Corp
+186876,2020,734.81,VNET Group Inc
+186876,2021,974.402,VNET Group Inc
+186876,2022,1024.367,VNET Group Inc
+186876,2023,1045.448,VNET Group Inc
+186876,2024,1131.499,VNET Group Inc
+186903,2020,29.288,SharpSpring Inc
+186904,2020,10.029,CleanSpark Inc
+186904,2021,49.438,CleanSpark Inc
+186904,2022,131.525,CleanSpark Inc
+186904,2023,168.408,CleanSpark Inc
+186904,2024,378.968,CleanSpark Inc
+186904,2025,766.314,CleanSpark Inc
+186962,2020,50.916,Sequans Communications SA
+186962,2021,50.879,Sequans Communications SA
+186962,2022,60.551,Sequans Communications SA
+186962,2023,33.616,Sequans Communications SA
+186962,2024,36.831,Sequans Communications SA
+186996,2020,18.106,Moatable Inc
+186996,2021,32.219,Moatable Inc
+186996,2022,45.808,Moatable Inc
+186996,2023,52.073,Moatable Inc
+186996,2024,63.459,Moatable Inc
+187118,2020,2886.019,Nebius Group N V
+187118,2021,4746.559,Nebius Group N V
+187118,2022,7158.112,Nebius Group N V
+187118,2023,8901.079,Nebius Group N V
+187118,2024,117.5,Nebius Group N V
+187118,2025,529.8,Nebius Group N V
+187244,2020,16.85,NexJ Systems Inc
+187244,2021,15.333,NexJ Systems Inc
+187411,2020,6.357,Lifeloc Technologies Inc
+187411,2021,7.055,Lifeloc Technologies Inc
+187411,2022,8.482,Lifeloc Technologies Inc
+187411,2023,9.329,Lifeloc Technologies Inc
+187411,2024,8.538,Lifeloc Technologies Inc
+187411,2025,9.027,Lifeloc Technologies Inc
+187413,2020,186.371,Xunlei Ltd
+187413,2021,238.782,Xunlei Ltd
+187413,2022,341.497,Xunlei Ltd
+187413,2023,363.722,Xunlei Ltd
+187413,2024,323.14,Xunlei Ltd
+187413,2025,460.428,Xunlei Ltd
+187450,2020,774.425,Enphase Energy Inc
+187450,2021,1382.049,Enphase Energy Inc
+187450,2022,2330.853,Enphase Energy Inc
+187450,2023,2290.786,Enphase Energy Inc
+187450,2024,1330.383,Enphase Energy Inc
+187450,2025,1472.985,Enphase Energy Inc
+187462,2020,1284.5,Ubiquiti Inc
+187462,2021,1898.094,Ubiquiti Inc
+187462,2022,1691.692,Ubiquiti Inc
+187462,2023,1940.512,Ubiquiti Inc
+187462,2024,1928.49,Ubiquiti Inc
+187462,2025,2573.545,Ubiquiti Inc
+187697,2020,2659.478,EPAM Systems Inc
+187697,2021,3758.144,EPAM Systems Inc
+187697,2022,4824.698,EPAM Systems Inc
+187697,2023,4690.54,EPAM Systems Inc
+187697,2024,4727.94,EPAM Systems Inc
+187697,2025,5457.056,EPAM Systems Inc
+187740,2020,530.037,MACOM Technology Solutions Holdings Inc
+187740,2021,606.92,MACOM Technology Solutions Holdings Inc
+187740,2022,675.17,MACOM Technology Solutions Holdings Inc
+187740,2023,648.407,MACOM Technology Solutions Holdings Inc
+187740,2024,729.578,MACOM Technology Solutions Holdings Inc
+187740,2025,967.258,MACOM Technology Solutions Holdings Inc
+187959,2020,197.353,Brightcove Inc
+187959,2021,211.093,Brightcove Inc
+187959,2022,211.008,Brightcove Inc
+187959,2023,201.187,Brightcove Inc
+190455,2020,742.307,Guidewire Software Inc
+190455,2021,743.267,Guidewire Software Inc
+190455,2022,812.614,Guidewire Software Inc
+190455,2023,905.341,Guidewire Software Inc
+190455,2024,980.497,Guidewire Software Inc
+190455,2025,1202.459,Guidewire Software Inc
+194455,2020,1.866,Aurora Solar Technologies Inc
+194455,2021,0.0,Aurora Solar Technologies Inc
+194455,2022,5.509,Aurora Solar Technologies Inc
+194455,2023,10.915,Aurora Solar Technologies Inc
+194455,2024,6.294,Aurora Solar Technologies Inc
+196355,2020,81.362,Synacor Inc
+201395,2020,46883.708,Taiwan Semiconductor Manufacturing Co Ltd
+201395,2021,57282.156,Taiwan Semiconductor Manufacturing Co Ltd
+201395,2022,73692.446,Taiwan Semiconductor Manufacturing Co Ltd
+201395,2023,70559.835,Taiwan Semiconductor Manufacturing Co Ltd
+201395,2024,88293.172,Taiwan Semiconductor Manufacturing Co Ltd
+204867,2020,8466.543,Wipro Ltd
+204867,2021,10422.058,Wipro Ltd
+204867,2022,11018.539,Wipro Ltd
+204867,2023,10773.336,Wipro Ltd
+204867,2024,10426.14,Wipro Ltd
+206211,2020,1933.918,Formula Systems (1985) Ltd
+206211,2021,2404.376,Formula Systems (1985) Ltd
+206211,2022,2572.357,Formula Systems (1985) Ltd
+206211,2023,2620.903,Formula Systems (1985) Ltd
+206211,2024,2757.511,Formula Systems (1985) Ltd
+209341,2020,6190.025,United Microelectronics Corp
+209341,2021,7686.541,United Microelectronics Corp
+209341,2022,9072.199,United Microelectronics Corp
+209341,2023,7263.557,United Microelectronics Corp
+209341,2024,7086.576,United Microelectronics Corp
+211009,2020,13561.0,Infosys Ltd
+211009,2021,16311.0,Infosys Ltd
+211009,2022,18212.0,Infosys Ltd
+211009,2023,18562.0,Infosys Ltd
+211009,2024,19277.0,Infosys Ltd
+213412,2020,16697.742,ASE Technology Holding Co Ltd
+213412,2021,20568.449,ASE Technology Holding Co Ltd
+213412,2022,21837.73,ASE Technology Holding Co Ltd
+213412,2023,18993.898,ASE Technology Holding Co Ltd
+213412,2024,18163.446,ASE Technology Holding Co Ltd
+213412,2025,20552.523,ASE Technology Holding Co Ltd
+216019,2020,336.678,Aixtron SE
+216019,2021,498.637,Aixtron SE
+216019,2022,501.051,Aixtron SE
+216019,2023,704.036,Aixtron SE
+216019,2024,662.659,Aixtron SE
+223732,2020,1667.765,Trend Micro Inc
+223732,2021,1653.342,Trend Micro Inc
+223732,2022,1697.052,Trend Micro Inc
+223732,2023,1764.296,Trend Micro Inc
+223732,2024,1734.083,Trend Micro Inc
+223732,2025,1760.237,Trend Micro Inc
+233491,2020,507.059,MagnaChip Semiconductor Corp
+233491,2021,474.23,MagnaChip Semiconductor Corp
+233491,2022,337.658,MagnaChip Semiconductor Corp
+233491,2023,230.051,MagnaChip Semiconductor Corp
+233491,2024,231.737,MagnaChip Semiconductor Corp
+233491,2025,178.86,MagnaChip Semiconductor Corp
+242977,2020,9485.419,AUO Corporation
+242977,2021,13376.24,AUO Corporation
+242977,2022,8033.405,AUO Corporation
+242977,2023,8093.648,AUO Corporation
+242977,2024,8549.111,AUO Corporation
+244641,2020,245.627,Ituran Location and Control Ltd
+244641,2021,270.884,Ituran Location and Control Ltd
+244641,2022,293.072,Ituran Location and Control Ltd
+244641,2023,319.978,Ituran Location and Control Ltd
+244641,2024,336.257,Ituran Location and Control Ltd
+244641,2025,359.023,Ituran Location and Control Ltd
+252614,2020,12.742,On Track Innovations Ltd
+252614,2021,14.875,On Track Innovations Ltd
+260893,2020,913.219,Blackbaud Inc
+260893,2021,927.74,Blackbaud Inc
+260893,2022,1058.105,Blackbaud Inc
+260893,2023,1105.432,Blackbaud Inc
+260893,2024,1155.495,Blackbaud Inc
+260893,2025,1128.365,Blackbaud Inc
+264254,2020,2.266,UpSnap Inc (Cda)
+264254,2021,1.865,UpSnap Inc (Cda)
+264254,2022,0.933,UpSnap Inc (Cda)
+264397,2020,1093.999,Cardtronics plc
+264416,2020,1398.6,Ultra Clean Holdings Inc
+264416,2021,2101.6,Ultra Clean Holdings Inc
+264416,2022,2374.3,Ultra Clean Holdings Inc
+264416,2023,1734.5,Ultra Clean Holdings Inc
+264416,2024,2097.6,Ultra Clean Holdings Inc
+264416,2025,2054.0,Ultra Clean Holdings Inc
+270705,2020,887.282,Himax Technologies Inc
+270705,2021,1547.097,Himax Technologies Inc
+270705,2022,1201.339,Himax Technologies Inc
+270705,2023,945.428,Himax Technologies Inc
+270705,2024,906.802,Himax Technologies Inc
+272961,2020,3001.0,Micro Focus International PLC
+272961,2021,2899.9,Micro Focus International PLC
+273505,2020,0.174,Intelligent Communication Enterprise Corp
+273505,2021,0.091,Intelligent Communication Enterprise Corp
+278234,2020,342.888,Evertz Technologies Ltd
+278234,2021,441.016,Evertz Technologies Ltd
+278234,2022,454.578,Evertz Technologies Ltd
+278234,2023,514.616,Evertz Technologies Ltd
+278234,2024,501.623,Evertz Technologies Ltd
+282960,2020,75.916,Optiva Inc
+282960,2021,65.236,Optiva Inc
+282960,2022,61.779,Optiva Inc
+282960,2023,47.506,Optiva Inc
+282960,2024,47.081,Optiva Inc
+284745,2020,1.095,IDEX Biometrics ASA
+284745,2021,2.84,IDEX Biometrics ASA
+284745,2022,4.091,IDEX Biometrics ASA
+287252,2020,126.894,MiX Telematics Limited
+287252,2021,143.294,MiX Telematics Limited
+287252,2022,144.993,MiX Telematics Limited
+289735,2020,22.882,Vislink Technologies Inc
+289735,2021,33.882,Vislink Technologies Inc
+289735,2022,28.402,Vislink Technologies Inc
+289735,2023,27.482,Vislink Technologies Inc
+289735,2024,27.729,Vislink Technologies Inc
+296866,2020,0.142,My Size Inc
+296866,2021,0.131,My Size Inc
+296866,2022,4.459,My Size Inc
+296866,2023,6.996,My Size Inc
+296866,2024,8.257,My Size Inc
+297434,2020,4.886,Alarum Technologies Ltd
+297434,2021,10.281,Alarum Technologies Ltd
+297434,2022,18.779,Alarum Technologies Ltd
+297434,2023,26.521,Alarum Technologies Ltd
+297434,2024,31.824,Alarum Technologies Ltd
+297443,2021,,HUB CYBER SECURITY (ISRAEL) LTD
+297443,2022,,HUB CYBER SECURITY (ISRAEL) LTD
+297443,2023,42.657,HUB CYBER SECURITY (ISRAEL) LTD
+297443,2024,29.562,HUB CYBER SECURITY (ISRAEL) LTD
+314917,2020,166.685,Linx SA
+315629,2020,805.671,ChipMOS TECHNOLOGIES INC
+315629,2021,988.768,ChipMOS TECHNOLOGIES INC
+315629,2022,765.509,ChipMOS TECHNOLOGIES INC
+315629,2023,697.075,ChipMOS TECHNOLOGIES INC
+315629,2024,692.357,ChipMOS TECHNOLOGIES INC
+315629,2025,762.148,ChipMOS TECHNOLOGIES INC
+320806,2020,2.937,NOVONIX Limited
+320806,2021,3.919,NOVONIX Limited
+320806,2022,5.8,NOVONIX Limited
+320806,2023,8.055,NOVONIX Limited
+320806,2024,5.854,NOVONIX Limited
+320806,2025,5.617,NOVONIX Limited
+321467,2020,14.822,WISeKey International Holding AG
+321467,2021,22.441,WISeKey International Holding AG
+321467,2022,23.814,WISeKey International Holding AG
+321467,2023,30.918,WISeKey International Holding AG
+321467,2024,11.875,WISeKey International Holding AG
+324138,2020,1.521,Mobilicom Ltd
+324138,2021,2.602,Mobilicom Ltd
+324138,2022,1.582,Mobilicom Ltd
+324138,2023,2.251,Mobilicom Ltd
+324138,2024,3.181,Mobilicom Ltd
+324138,2025,3.364,Mobilicom Ltd
+327832,2020,25.455,Argo Blockchain plc
+327832,2021,100.478,Argo Blockchain plc
+327832,2022,57.068,Argo Blockchain plc
+327832,2023,50.558,Argo Blockchain plc
+327832,2024,47.017,Argo Blockchain plc
+328080,2021,,SMX (Security Matters) Public Ltd Co
+328080,2022,0.0,SMX (Security Matters) Public Ltd Co
+328080,2023,0.0,SMX (Security Matters) Public Ltd Co
+328080,2024,0.0,SMX (Security Matters) Public Ltd Co
+328080,2025,0.0,SMX (Security Matters) Public Ltd Co
+329579,2020,34.703,Keel Infrastructure Corp
+329579,2021,169.491,Keel Infrastructure Corp
+329579,2022,142.428,Keel Infrastructure Corp
+329579,2023,146.366,Keel Infrastructure Corp
+329579,2024,192.881,Keel Infrastructure Corp
+329579,2025,229.276,Keel Infrastructure Corp
+332179,2021,,Life360 Inc
+332179,2022,228.305,Life360 Inc
+332179,2023,304.518,Life360 Inc
+332179,2024,371.484,Life360 Inc
+332179,2025,489.481,Life360 Inc
+338703,2020,0.096,SaverOne 2014 Ltd
+338703,2021,0.145,SaverOne 2014 Ltd
+338703,2022,0.339,SaverOne 2014 Ltd
+338703,2023,0.755,SaverOne 2014 Ltd
+338703,2024,0.462,SaverOne 2014 Ltd
+338703,2025,0.319,SaverOne 2014 Ltd
+339965,2020,592.049,Snowflake Inc
+339965,2021,1219.327,Snowflake Inc
+339965,2022,2065.659,Snowflake Inc
+339965,2023,2806.489,Snowflake Inc
+339965,2024,3626.396,Snowflake Inc
+339965,2025,4683.946,Snowflake Inc
+345764,2020,2.648,T Stamp Inc
+345764,2021,3.678,T Stamp Inc
+345764,2022,5.385,T Stamp Inc
+345764,2023,4.56,T Stamp Inc
+345764,2024,3.082,T Stamp Inc
+347085,2020,150.924,Karooooo Ltd
+347085,2021,177.987,Karooooo Ltd
+347085,2022,191.082,Karooooo Ltd
+347085,2023,219.225,Karooooo Ltd
+347085,2024,245.74,Karooooo Ltd
+348615,2020,,Nayax Ltd
+348615,2021,119.134,Nayax Ltd
+348615,2022,173.514,Nayax Ltd
+348615,2023,235.491,Nayax Ltd
+348615,2024,314.013,Nayax Ltd
+348615,2025,400.433,Nayax Ltd
+349854,2022,,Aduro Clean Technologies Inc
+349854,2023,0.338,Aduro Clean Technologies Inc
+349854,2024,0.231,Aduro Clean Technologies Inc
+350681,2020,441.354,Getnet Adquirencia e Servicos para Meios de Pagamento SA - Instituicao de Pagamento
+350681,2021,512.094,Getnet Adquirencia e Servicos para Meios de Pagamento SA - Instituicao de Pagamento
+356257,2022,,BTQ Technologies Corp
+356257,2023,0.0,BTQ Technologies Corp
+356257,2024,0.667,BTQ Technologies Corp
+356927,2022,,CyberCatch Holdings Inc
+356927,2023,,CyberCatch Holdings Inc
+356927,2024,0.65,CyberCatch Holdings Inc
+356927,2025,0.404,CyberCatch Holdings Inc
